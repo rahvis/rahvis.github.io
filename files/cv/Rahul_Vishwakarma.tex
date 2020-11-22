@@ -5,10 +5,13 @@
     \usepackage{textcomp}
     \usepackage[utf8]{inputenc}
     \usepackage[T1]{fontenc}
+    \usepackage{geometry}
+    \usepackage{xcolor}
     \textheight=10in
     \pagestyle{empty}
     \raggedright
-
+    \newgeometry{margin=1.5cm}
+    \usepackage{ragged2e}
     %\renewcommand{\encodingdefault}{cg}
 %\renewcommand{\rmdefault}{lgrcmr}
 
@@ -73,17 +76,21 @@
 \vspace*{-10pt}
 \begin{center}
 	{\Huge \scshape {Rahul Vishwakarma}}\\
-	rahul\_vishwakarma@acm.org $\cdot$ 98312 96011 $\cdot$ http://rahvis.github.io/\\
+	\vspace{2mm}
+	{\emph{rahul\_vishwakarma@acm.org}} $\cdot$ 98312 96011 $\cdot$ http://rahvis.github.io/\\
 \end{center}
 
 %==== Experience ====%
-\header{Experience}
+{\color{blue}\header{Experience}}
+
 \vspace{1mm}
 
 \textbf{Dell EMC} \hfill Bangalore, India\\
 \textit{Senior Software Quality Engineer} \hfill Mar 2017 - Present\\
 \vspace{-1mm}
+\justify
 \begin{itemize} \itemsep 1pt
+
 	\item Designed non-deterministic/randomized System Testing approach for deduplication-based backup system (Data Domain) which reduced number of customer esclation by enforcing system self defense and predictable product behavior
 	\item Developed automation framework for application interoperability in Python (Robot framework)  
 	\item Analyzed Data Domain install base (90,000+ systems) for designing a near to customer like scenario using telemetrics data and created an in-house tool implemented in Tableau 
@@ -94,6 +101,7 @@
 \textbf{Hewlett Packard Enterprise} \hfill Bangalore, India\\
 \textit{Systems/Software Engineer II} \hfill Feb 2015 - May 2017\\
 \vspace{-1mm}
+\justify
 \begin{itemize} \itemsep 1pt
 	\item Developed Red Hat Enterprise Linux and SUSE Linux Enterprise Server modular image for HPE Converged Systems 900 Scale-up/Scale-out as a part of Mission Critical Solutions
 	\item Certified HPE Converged Systems for SAP HANA and performed automation of appliance deployment and upgrade scenarios
@@ -104,6 +112,7 @@
 \textbf{Tata Consultancy Services} \hfill Bangalore, India\\
 \textit{Information technology Analyst} \hfill Oct 2009 - Mar 2015\\
 \vspace{-1mm}
+\justify
 \begin{itemize} \itemsep 1pt
 	\item Planned and implemented EMC VMAX business continuity using TimeFinder and Symmetrix Remote Data Facility (SRDF) operations using SYMCLI and Unisphere for VMAX
 	\item Executed and planned configuration tasks like storage provisioning, virtual provisioning, automated storage tiering (FAST), port management and storage allocation using auto-provisioning groups on the VMAX Family of arrays using Solutions Enabler
@@ -111,13 +120,20 @@
 	\item Contributed in development and maintenance of Automated Collection System (ACS) at CITI Bank N.A as a COBOL Developer
 \end{itemize}
 
-\header{Patents}
-{\textbf{38 Patents Pending at USPTO (2018 - 2020)}}\\
-\textit{Areas: Data Storage, Deduplication, Persistent Memory, Machine Learning and Blockchain}
+
+
+
+{\color{blue}\header{Patents}}
+%\header{Patents}
+{\textbf{40 Patents Pending at USPTO (2018 - 2020)}}\\
+\textit{Areas: Data Storage, Persistent Memory, DNA Storage, Machine Learning and Blockchain} \\
+{\text{FY20 Top Filers across EMEA, APJ and LATAM}} \\
 
 \vspace*{2mm}
 
-\header{Conferences}
+
+{\color{blue}\header{Conferences}}
+%\header{Conferences}
 Rethinking Blockchain in Storage, SNIA SDC, India \hfill Dec 2020\\
 \vspace*{1mm}
 New perspective on machine learning predictions under uncertainty, SNIA SDC, Santa Clara \hfill Sep 2019\\
@@ -126,12 +142,15 @@ Understanding the reliability of predictions made by machine learning, SNIA SDC,
 \vspace*{1mm}
 
 %==== Education ====%
-\header{Education}
+{\color{blue}\header{Education}}
+%\header{Education}
 \textbf{SRM Institute of Science and Technology}\hfill Chennai, India\\
-Bachelors of Technology Computer Science \textit{GPA: 8.8} \hfill Aug 2005 - May 2009\\
+Bachelors of Technology Computer Science \textit{GPA: 8.8/10} \hfill Aug 2005 - May 2009\\
 \vspace{2mm}
 
-\header{Skills}
+
+{\color{blue}\header{Skills}}
+%\header{Skills}
 \vspace{1mm}
 \begin{tabular}{ l l }
 	Programming Languages: & C (2.5 years), Python (6 years) \\
@@ -140,7 +159,8 @@ Bachelors of Technology Computer Science \textit{GPA: 8.8} \hfill Aug 2005 - May
 \vspace{2mm}
 
 %==== Education ====%
-\header{Membership}
+{\color{blue}\header{Membership}}
+%\header{Membership}
 \textbf{USENIX, SNIA Storage Blockchain} Technical Work Group (founding member)
 \vspace{2mm}
 
