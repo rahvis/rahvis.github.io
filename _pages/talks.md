@@ -29,12 +29,6 @@ tr:nth-child(even) {
 <body>
 
 
-
-<div style="display: flex; align-items: flex-start;">
-  <a href="https://www.amazon.com/Conformal-Prediction-Rahul-Deo-Vishwakarma/dp/B0CY43HQRX" target="_blank">
-    <img src="/images/book.png" alt="Inventor Badge" width="1050" height="300" style="margin-right: 30px;">
-  </a>
-</div>
-
+YouTube playlist of SNIA SDC Talks can be found here: SNIA SDC (201)
 
 </body>
