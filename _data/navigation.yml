@@ -1,14 +1,26 @@
 # main links links
 main:
 
+  - title: "Journey"
+    url: /journey/
+
+  - title: "Patents"
+    url: /patents/  
+
+  - title: "Talks"
+    url: /patents/  
+
+  - title: "Awards"
+    url: /awards/  
+
+  - title: "Book"
+    url: /book/
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Patents"
-    url: /patents/    
-
-  - title: "Teaching"
-    url: /teaching/    
+#  - title: "Teaching"
+#    url: /teaching/    
 
   - title: "CV"
     url: /cv/
