@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Book"
+title: "Conformal Prediction : An Inventor's Approach"
 permalink: /book/
 author_profile: true
 ---
@@ -29,11 +29,10 @@ tr:nth-child(even) {
 <body>
 
 
-## Conformal Prediction : An Inventor's Approach
 
 <div style="display: flex; align-items: flex-start;">
   <a href="https://www.amazon.com/Conformal-Prediction-Rahul-Deo-Vishwakarma/dp/B0CY43HQRX" target="_blank">
-    <img src="/images/book.png" alt="Inventor Badge" width="1750" height="1750" style="margin-right: 30px;">
+    <img src="/images/book.png" alt="Inventor Badge" width="1050" height="300" style="margin-right: 30px;">
   </a>
 </div>
 
