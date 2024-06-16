@@ -27,9 +27,15 @@ tr:nth-child(even) {
 </head>
 
 <body>
- 
-Conformal Prediction : An Inventor's Approach
 
-https://www.amazon.com/Conformal-Prediction-Rahul-Deo-Vishwakarma/dp/B0CY43HQRX/ref=sr_1_1?crid=30SA654GI9IU8&dib=eyJ2IjoiMSJ9.OqjE_RG_xhS_REyXrvL1LA.HG4zyP5Dzj2QUnGocKXjw6VwUfMb5lwX8ekjj4zYDaA&dib_tag=se&keywords=conformal+prediction%3A+an+inventor%27s+approach&qid=1718577292&sprefix=%2Caps%2C142&sr=8-1
+
+## Conformal Prediction : An Inventor's Approach
+
+<div style="display: flex; align-items: flex-start;">
+  <a href="https://www.amazon.com/Conformal-Prediction-Rahul-Deo-Vishwakarma/dp/B0CY43HQRX" target="_blank">
+    <img src="/images/book.png" alt="Inventor Badge" width="1750" height="1750" style="margin-right: 30px;">
+  </a>
+</div>
+
 
 </body>
