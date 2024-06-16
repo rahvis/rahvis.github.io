@@ -79,7 +79,7 @@ social:
 author:
   name             : "Rahul Vishwakarma"
   avatar           : "rahul_headshot.jpeg"
-  bio              : "Research Assistant" 
+  bio              : 
   location         : "Los Angeles, CA"
   employer         :
   pubmed           :
@@ -96,7 +96,7 @@ author:
   github           : "rahvis"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "rah.vish"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rahulvishwakarma"
@@ -110,7 +110,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa"
   wikipedia        :
 
 
