@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Conformal Prediction : An Inventor's Approach"
+title: ""
 permalink: /book/
 author_profile: true
 ---
