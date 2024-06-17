@@ -34,7 +34,7 @@ tr:nth-child(even) {
 
 <p>Over the course of 18 months, I collaborated closely with the University of California, Berkeley, and the Co-Founder of Boodh Inc (who are also co-author of the Book) to complete this comprehensive Book and Independently published on Amazon Books (ISBN-13: 979-8884663619).</p>
 
-<p>You can also request a <b>FREE copy of the Book</b> (only for personal use) if you are currently a Student. All you have to do is sent me an email requesting for a copy of the book usign your student email with .edu domain (this is the only way to confirm you are a student).</p>
+<p>You can also request a <b>FREE copy of the Book</b> (only for personal use) if you are currently a Student. All you have to do is to sent me an email requesting for a copy of the book usign your student email with .edu domain (this is the only way to confirm you are a student).</p>
 
 <div style="display: flex; align-items: flex-start;">
   <a href="https://www.amazon.com/Conformal-Prediction-Rahul-Deo-Vishwakarma/dp/B0CY43HQRX" target="_blank">
