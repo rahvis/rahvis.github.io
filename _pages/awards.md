@@ -35,6 +35,11 @@ tr:nth-child(even) {
  <tr>
     <td>The Graduate Dean's List (top 1%) 2024</td>
   </tr>
+  
+  <tr>
+    <td>Dell Patent Award ($250,000): Long Term Incentive (LTI) cash and Restricted Stock Units (RSU). 2021 - 2022</td>
+  </tr>
+
   <tr>
     <td>ASI Student Travel Grant, ($900), California State University Long Beach</td>
   </tr>
@@ -59,9 +64,7 @@ tr:nth-child(even) {
   <tr>
     <td>Recognition for Innovation: Making innovation contagious by leading by example at Dell Technologies 2021</td>
   </tr>
-  <tr>
-    <td>Dell Patent Award: Long Term Incentive (LTI) cash and Restricted Stock Units (RSU). 2021 - 2022</td>
-  </tr>
+
 </table>
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
