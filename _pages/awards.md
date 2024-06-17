@@ -30,19 +30,10 @@ tr:nth-child(even) {
 
 <table>
   <tr>
-    <td>Recognition for Innovation: Congratulations on the Innovation Drive at Dell Technologies 2019</td>
+    <td>Outstanding Graduate Research, Scholarly, and Creative Activity (RSCA) Award ($500) - California State University Long Beach April 2024</td>
   </tr>
-  <tr>
-    <td>Patent Filing Milestone Award FY2020 at Dell Technologies 2020</td>
-  </tr>
-  <tr>
-    <td>GITC Patent Mentoring: Dell Technologies 2021</td>
-  </tr>
-  <tr>
-    <td>Recognition for Innovation: Making innovation contagious by leading by example at Dell Technologies 2021</td>
-  </tr>
-  <tr>
-    <td>Dell Patent Award: Long Term Incentive (LTI) cash and Restricted Stock Units (RSU). 2021 - 2022</td>
+ <tr>
+    <td>The Graduate Dean's List (top 1%) 2024</td>
   </tr>
   <tr>
     <td>ASI Student Travel Grant, ($900), California State University Long Beach</td>
@@ -57,13 +48,25 @@ tr:nth-child(even) {
     <td>ICCAD 2023 Student Scholar Program Travel Support Grant, ($600), San Francisco, USA 2023</td>
   </tr>
   <tr>
-    <td>Outstanding Graduate Research, Scholarly, and Creative Activity (RSCA) Award ($500) - California State University Long Beach April 2024</td>
+    <td>Recognition for Innovation: Congratulations on the Innovation Drive at Dell Technologies 2019</td>
+  </tr>
+  <tr>
+    <td>Patent Filing Milestone Award FY2020 at Dell Technologies 2020</td>
+  </tr>
+  <tr>
+    <td>GITC Patent Mentoring: Dell Technologies 2021</td>
+  </tr>
+  <tr>
+    <td>Recognition for Innovation: Making innovation contagious by leading by example at Dell Technologies 2021</td>
+  </tr>
+  <tr>
+    <td>Dell Patent Award: Long Term Incentive (LTI) cash and Restricted Stock Units (RSU). 2021 - 2022</td>
   </tr>
 </table>
 
 <h2>Service</h2>
 
-<h3>Judge:</h3>
+<h3>Judge</h3>
 
 <table>
   <tr>
@@ -74,7 +77,7 @@ tr:nth-child(even) {
   </tr>
 </table>
 
-<h3>Technical Program Committee (TPC) Member:</h3>
+<h3>Technical Program Committee (TPC) Member</h3>
 
 <table>
   <tr>
@@ -86,7 +89,7 @@ tr:nth-child(even) {
 </table>
   
   
-<h3>Journal Reviewer:</h3>
+<h3>Journal Reviewer</h3>
   
 <table>
   <tr>
@@ -98,7 +101,7 @@ tr:nth-child(even) {
 </table>
 
   
-<h3>Conference Reviewer:</h3>
+<h3>Conference Reviewer</h3>
 
 <table>
   <tr>
@@ -147,10 +150,5 @@ tr:nth-child(even) {
     <td>IEEE The 4th International Conference on Electrical, Computer and Energy Technologies (ICECET2024), Sydney, Australia. IEEE Xplore (1 Paper)</td>
   </tr>
 </table>
-
-
-
-
-
 
 </body>
