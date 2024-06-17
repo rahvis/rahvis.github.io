@@ -68,8 +68,8 @@ The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-    <img src="/images/ICCAD.jpeg" alt="Image 1" style="width: 100%; height: 250px; object-fit: contain;">
     <img src="/images/Commencement.JPG" alt="Image 2" style="width: 100%; height: 250px; object-fit: contain;">
+    <img src="/images/ICCAD.jpeg" alt="Image 1" style="width: 100%; height: 250px; object-fit: contain;">
     <img src="/images/snia1.jpeg" alt="Image 3" style="width: 100%; height: 250px; object-fit: contain;">
     <img src="/images/snia01.png" alt="Image 4" style="width: 100%; height: 250px; object-fit: contain;">
     <img src="/images/snia3.jpeg" alt="Image 5" style="width: 100%; height: 250px; object-fit: contain;">
