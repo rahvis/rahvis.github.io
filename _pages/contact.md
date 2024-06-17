@@ -10,4 +10,4 @@ I'm always happy to connect! Whether you have questions, want to chat, or see an
 ------
 
 * E-mail: rahul.vishwakarma [at] ieee.org
-* Contact: +1 562.538.6577
+* Contact: +1 (562) 538-6577
