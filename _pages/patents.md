@@ -9,7 +9,7 @@ You can also find an up-to-date list of published patents on <a href="https://pa
 
 <div style="display: flex; align-items: flex-start;">
   <a href="https://idiyas.com/inventor/rahul-deo-vishwakarma" target="_blank">
-    <img src="/images/patents.png" alt="Inventor Badge" style="width: 50%; margin-right: 30px;">
+    <img src="/images/patents.png" alt="Inventor Badge" style="width: 200%; margin-right: 30px;">
   </a>
   <div>
     <p style="margin-top: 0; margin-bottom: 20px;">
