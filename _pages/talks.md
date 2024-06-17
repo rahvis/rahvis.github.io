@@ -11,7 +11,6 @@ YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found
 <a href="https://www.snia.org" target="_blank">SNIA</a> is an industry organization that develops global standards and delivers education on all technologies related to data.
 
 The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma" target="_blank">IEEE TV</a>:
-
 - <a href="https://ieeetv.ieee.org/video/uncertainty-aware-hardware-trojan-detection-using-multimodal-deep-learning" target="_blank">Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning</a> (DATE 2024, acceptance rate 22%)
 - <a href="https://ieeetv.ieee.org/video/risk-aware-and-explainable-framework-for-ensuring-guaranteed-coverage-in-evolving-hardware-trojan-detection" target="_blank">Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection</a> (ICCAD 2023, acceptance rate 23%)
 
