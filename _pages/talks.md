@@ -67,14 +67,15 @@ The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma
 **Student Commencement Speaker** at California State University, Long Beach (College of Engineering 2024) - <a href="https://youtu.be/kqFHBtrKq3c?t=5858" target="_blank">Watch here</a>
 
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <img src="/images/ICCAD.jpeg" alt="Image 1" style="width: 48%;">
-    <img src="/images/Commencement.JPG" alt="Image 2" style="width: 48%;">
-    <img src="/images/snia1.jpeg" alt="Image 3" style="width: 48%;">
-   <img src="/images/snia01.png" alt="Image 4" style="width: 48%;"> 
-    <img src="/images/snia3.jpeg" alt="Image 5" style="width: 48%;">
-    <img src="/images/SNIA2023.jpeg" alt="Image 6" style="width: 48%;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <img src="/images/ICCAD.jpeg" alt="Image 1" style="width: 100%; height: 200px; object-fit: cover;">
+    <img src="/images/Commencement.JPG" alt="Image 2" style="width: 100%; height: 200px; object-fit: cover;">
+    <img src="/images/snia1.jpeg" alt="Image 3" style="width: 100%; height: 200px; object-fit: cover;">
+    <img src="/images/snia01.png" alt="Image 4" style="width: 100%; height: 200px; object-fit: cover;">
+    <img src="/images/snia3.jpeg" alt="Image 5" style="width: 100%; height: 200px; object-fit: cover;">
+    <img src="/images/SNIA2023.jpeg" alt="Image 6" style="width: 100%; height: 200px; object-fit: cover;">
 </div>
+
 
 
 
