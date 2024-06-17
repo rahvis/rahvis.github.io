@@ -31,13 +31,13 @@ You can also find an up-to-date list of published patents on <a href="https://pa
     </p>
   </div>
 
- <div style="width: 50%;">
+ <div style="width: 100%;">
 
       <img src="/images/people.png" alt="Invention Pyramid" style="width: 100%;">
 
   </div>
 
-   <div style="width: 50%;">
+   <div style="width: 100%;">
 
       <img src="/images/collab.png" alt="Invention Pyramid" style="width: 100%;">
  =
