@@ -1,17 +1,17 @@
 # main links links
 main:
 
-  - title: "News"
-    url: /news/
+ # - title: "News"
+ #   url: /news/
+
+  - title: "Awards"
+    url: /awards/  
 
   - title: "Patents"
     url: /patents/  
 
   - title: "Talks"
     url: /talks/  
-
-  - title: "Awards"
-    url: /awards/  
 
   - title: "Book"
     url: /book/
