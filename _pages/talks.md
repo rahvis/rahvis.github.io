@@ -24,12 +24,11 @@ tr:nth-child(even) {
 }
 </style>
 </head>
-<body>
 
 
 YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found <a href="https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">here</a>. <br>
 <a href="https://www.snia.org" target="_blank">SNIA</a> is an industry organization that develops global standards and delivers education on all technologies related to data.
-
+<body>
 <h2>SNIA Talks</h2>
 
 <table>
@@ -61,7 +60,7 @@ YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found
     <td>Effective device thermal management based on dynamic ranking of device cooling needs. (SNIA India) 2022</td>
   </tr>
 </table>
-
+</body>
 
 The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma" target="_blank">IEEE TV</a>:
 - <a href="https://ieeetv.ieee.org/video/uncertainty-aware-hardware-trojan-detection-using-multimodal-deep-learning" target="_blank">Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning</a> (DATE 2024, acceptance rate 22%)
@@ -77,7 +76,7 @@ The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma
     <img src="/images/SNIA2023.jpeg" alt="Image 4" style="width: 48%;">
 </div>
 
-</body>
+
 
 
 
