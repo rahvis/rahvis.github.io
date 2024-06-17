@@ -71,7 +71,6 @@ tr:nth-child(even) {
     <img src="/images/csulb4.jpeg" alt="Image 4" style="width: 48%;">
     <img src="/images/dell.jpeg" alt="Image 3" style="width: 48%;">
     <img src="/images/dell2.jpeg" alt="Image 4" style="width: 48%;">
-    <img src="/images/dell3.jpeg" alt="Image 4" style="width: 48%;">
 </div>
 
 
