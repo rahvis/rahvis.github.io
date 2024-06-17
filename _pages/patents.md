@@ -7,6 +7,8 @@ author_profile: true
 
 
 You can also find an up-to-date list of published patents on <a href="https://patents.google.com/?inventor=%22Rahul+Deo+Vishwakarma%22,Rahul+Vishwakarma&num=100&sort=new&dups=language&clustered=true" target="_blank">Google Patents</a>
+<br>
+Based on the statitics from IDiyas.com only 0.54% of inventors (29,732 out of 2,864,641) have 50-99 granted US Patents. 
 
 <div style="display: flex; align-items: flex-start;">
   <div style="width: 50%; margin-right: 30px;">
@@ -14,6 +16,7 @@ You can also find an up-to-date list of published patents on <a href="https://pa
       <img src="/images/patents.png" alt="Inventor Badge" style="width: 100%;">
     </a>
   </div>
+
   <div style="width: 50%;">
     <a href="https://idiyas.com/distribution/pyramid" target="_blank">
       <img src="/images/pyramid.png" alt="Invention Pyramid" style="width: 100%;">
@@ -33,12 +36,13 @@ You can also find an up-to-date list of published patents on <a href="https://pa
 
  <div style="width: 100%;">
 
-      <img src="/images/people.png" alt="Invention Pyramid" style="width: 100%;">
+      <img src="/images/people.png" alt="" style="width: 100%;">
 
   </div>
-
+<br>
+<br>
    <div style="width: 100%;">
 
-      <img src="/images/collab.png" alt="Invention Pyramid" style="width: 100%;">
+      <img src="/images/collab.png" alt="" style="width: 100%;">
  =
   </div>
