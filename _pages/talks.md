@@ -5,40 +5,63 @@ permalink: /talks/
 author_profile: true
 ---
 
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
 
 
 YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found <a href="https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">here</a>. <br>
 <a href="https://www.snia.org" target="_blank">SNIA</a> is an industry organization that develops global standards and delivers education on all technologies related to data.
 
+<h2>SNIA Talks</h2>
+
 <table>
   <tr>
-    <td>[1] Understanding the Reliability of Predictions Made by Machine Learning. (SNIA India) 2019<br>Rahul Vishwakarma, Supriya Kannery</td>
+    <td>Understanding the Reliability of Predictions Made by Machine Learning. (SNIA India) 2019</td>
   </tr>
   <tr>
-    <td>[2] New Perspective on Machine Learning Predictions Under Uncertainty. (SNIA USA) 2019<br>Rahul Vishwakarma, Jayanth Reddy</td>
+    <td>New Perspective on Machine Learning Predictions Under Uncertainty. (SNIA USA) 2019</td>
   </tr>
   <tr>
-    <td>[3] Rethinking Blockchain in Storage. (SNIA India) 2020<br>Parmeshwr Prasad, Rahul Vishwakarma</td>
+    <td>Rethinking Blockchain in Storage. (SNIA India) 2020</td>
   </tr>
   <tr>
-    <td>[4] Ranking based Dynamic Hot Sparing. (SNIA India) 2021<br>Hemant Gaikwad, Rahul Vishwakarma</td>
+    <td>Ranking based Dynamic Hot Sparing. (SNIA India) 2021</td>
   </tr>
   <tr>
-    <td>[5] Transforming monolith to microservices. (SNIA India) 2021<br>Parmeshwr Prasad, Rahul Vishwakarma</td>
+    <td>Transforming monolith to microservices. (SNIA India) 2021</td>
   </tr>
   <tr>
-    <td>[6] Smart contract for DNA based archival storage. (SNIA EMEA) 2022<br>Rahul Vishwakarma, Hemant Gaikwad</td>
+    <td>Smart contract for DNA based archival storage. (SNIA EMEA) 2022</td>
   </tr>
   <tr>
-    <td>[7] Certainty to Enterprise disk-drive failure management with Conformal Prediction. (SNIA EMEA) 2022<br>Hemant Gaikwad, Rahul Vishwakarma</td>
+    <td>Certainty to Enterprise disk-drive failure management with Conformal Prediction. (SNIA EMEA) 2022</td>
   </tr>
   <tr>
-    <td>[8] Power of Chaos: Long-term Security for Post-quantum Era. (SNIA USA) 2022<br>Rahul Vishwakarma, Dr. Amin Rezaei, Dr. Ava Hedayatipour</td>
+    <td>Power of Chaos: Long-term Security for Post-quantum Era. (SNIA USA) 2022</td>
   </tr>
   <tr>
-    <td>[9] Effective device thermal management based on dynamic ranking of device cooling needs. (SNIA India) 2022<br>Hemant Gaikwad, Shelesh Chopra, Rahul Vishwakarma</td>
+    <td>Effective device thermal management based on dynamic ranking of device cooling needs. (SNIA India) 2022</td>
   </tr>
 </table>
+
 
 The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma" target="_blank">IEEE TV</a>:
 - <a href="https://ieeetv.ieee.org/video/uncertainty-aware-hardware-trojan-detection-using-multimodal-deep-learning" target="_blank">Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning</a> (DATE 2024, acceptance rate 22%)
@@ -54,6 +77,7 @@ The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma
     <img src="/images/SNIA2023.jpeg" alt="Image 4" style="width: 48%;">
 </div>
 
+</body>
 
 
 
