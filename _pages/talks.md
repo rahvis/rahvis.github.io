@@ -6,27 +6,6 @@ author_profile: true
 ---
 
 
-<head>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-
-<body>
 
 YouTube playlist of 9 talks delivered at SNIA SDC (2019 - 2023) can be found [here](https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa). [SNIA](https://www.snia.org) is an industry organization that develops global standards and delivers education on all technologies related to data.
 
@@ -48,4 +27,3 @@ Student Commencement Speaker at California State University, Long Beach (College
 
 
 
-</body>
