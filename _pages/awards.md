@@ -77,6 +77,14 @@ tr:nth-child(even) {
   </tr>
 </table>
 
+<h3>Book Reviewer</h3>
+  
+<table>
+  <tr>
+    <td>Manokhin,Valery. Practical Guide to Applied Conformal Prediction in Python: Learn and Apply the Best Uncertainty Frameworks to Your Industry Applications. United Kingdom: Packt Publishing (ISBN: 9781805120919, 1805120913) 2023</td>
+  </tr>
+</table>
+
 <h3>Technical Program Committee (TPC) Member</h3>
 
 <table>
