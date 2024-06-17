@@ -29,8 +29,6 @@ tr:nth-child(even) {
 YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found <a href="https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">here</a>. <br>
 <a href="https://www.snia.org" target="_blank">SNIA</a> is an industry organization that develops global standards and delivers education on all technologies related to data.
 <body>
-<h2>SNIA Talks</h2>
-
 <table>
   <tr>
     <td>Understanding the Reliability of Predictions Made by Machine Learning. (SNIA India) 2019</td>
