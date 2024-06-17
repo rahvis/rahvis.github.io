@@ -1,8 +1,8 @@
 # main links links
 main:
 
-  - title: "Journey"
-    url: /journey/
+  - title: "News"
+    url: /news/
 
   - title: "Patents"
     url: /patents/  
@@ -19,8 +19,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-#  - title: "Teaching"
-#    url: /teaching/    
+  - title: "Membership"
+    url: /membership/    
 
   - title: "CV"
     url: /cv/
