@@ -5,11 +5,10 @@ excerpt: "Get In Touch"
 author_profile: true
 ---
 
-My contact information is below. Please feel free to reach out to me!
+I'm always happy to connect! Whether you have questions, want to chat, or see any exciting collaboration opportunities in Product Management, AI, or entrepreneurship, please feel free to reach out. 
 
 Rahul vishwakarma
 ------
 
-* E-mail: rahuldeo.vishwakarma01 [at] student.csulb.edu
-* Google Scholar: [author:rahul-vishwakarma](https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao)
-* GitHub: [rahvis](https://github.com/rahvis)
+* E-mail: rahul.vishwakarma [at] ieee.org
+* Mobile: +1 (562) 538-6577
