@@ -7,7 +7,8 @@ author_profile: true
 
 
 
-YouTube playlist of 9 talks delivered at SNIA SDC (2019 - 2023) can be found [here](https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa). [SNIA](https://www.snia.org) is an industry organization that develops global standards and delivers education on all technologies related to data.
+YouTube playlist of 9 talks delivered at SNIA SDC (2019 - 2023) can be found [here](https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa). 
+[SNIA](https://www.snia.org) is an industry organization that develops global standards and delivers education on all technologies related to data.
 
 The talks featured on [IEEE TV](https://ieeetv.ieee.org/speaker/rahul-vishwakarma):
 
@@ -18,10 +19,10 @@ Student Commencement Speaker at California State University, Long Beach (College
 
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    ![Image 1](/images/Commencement.JPG)
-    ![Image 2](/images/snia1.jpeg)
-    ![Image 3](/images/snia3.jpeg)
-    ![Image 4](/images/SNIA2023.jpeg)
+    <img src="/images/Commencement.JPG" alt="Image 1" style="width: 48%;">
+    <img src="/images/snia1.jpeg" alt="Image 2" style="width: 48%;">
+    <img src="/images/snia3.jpeg" alt="Image 3" style="width: 48%;">
+    <img src="/images/SNIA2023.jpeg" alt="Image 4" style="width: 48%;">
 </div>
 
 
