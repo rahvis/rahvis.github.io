@@ -8,7 +8,7 @@ author_profile: true
 
 You can also find an up-to-date list of published patents on <a href="https://patents.google.com/?inventor=%22Rahul+Deo+Vishwakarma%22,Rahul+Vishwakarma&num=100&sort=new&dups=language&clustered=true" target="_blank">Google Patents</a>
 <br>
-Based on the statitics from IDiyas.com only 0.54% of inventors (29,732 out of 2,864,641) have 50-99 granted US Patents. 
+Based on the statitics from IDiyas.com only 0.54% of inventors have 50-99 granted US Patents. 
 
 <div style="display: flex; align-items: flex-start;">
   <div style="width: 50%; margin-right: 30px;">
