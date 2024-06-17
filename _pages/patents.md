@@ -44,5 +44,5 @@ Based on the statistics from IDiyas.com only 0.54% of inventors have 50-99 grant
    <div style="width: 100%;">
 
       <img src="/images/collab.png" alt="" style="width: 100%;">
- =
+ 
   </div>
