@@ -40,7 +40,7 @@ Based on the statitics from IDiyas.com only 0.54% of inventors have 50-99 grante
 
   </div>
 <br>
-<br>
+
    <div style="width: 100%;">
 
       <img src="/images/collab.png" alt="" style="width: 100%;">
