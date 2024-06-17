@@ -105,6 +105,9 @@ tr:nth-child(even) {
     <td>2024 The 13th Symposium on Conformal and Probabilistic Prediction with Applications</td>
   </tr>
   <tr>
+    <td>2024 IEEE International Conference on Cyber Security and Resilience (IEEE CSR)</td>
+  </tr>
+  <tr>
     <td>2024 IEEE International Conference on PHYSICAL ASSURANCE and INSPECTION of ELECTRONICS (PAINE) </td>
   </tr>
 </table>
