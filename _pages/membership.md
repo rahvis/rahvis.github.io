@@ -42,13 +42,7 @@ tr:nth-child(even) {
     <td>IEEE Computer Society - Professional Member (99106509)</td>
   </tr>
   <tr>
-    <td>SAS Eminent Fellow Membership, Scholars Academic and Scientific Society (SAS/SEFM/269/2024)</td>
-  </tr>
-  <tr>
     <td>Association for Computing Machinery (ACM) Student Member (8875839)</td>
-  </tr>
-  <tr>
-    <td>International Society of Service Innovation Professionals (ISSIP)</td>
   </tr>
 </table>
 
