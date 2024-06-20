@@ -19,8 +19,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Membership"
-    url: /membership/    
+ # - title: "Membership"
+ #   url: /membership/    
 
   - title: "CV"
     url: /cv/
