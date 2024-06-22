@@ -33,48 +33,10 @@ tr:nth-child(even) {
 I am Rahul Vishwakarma, a **Product Manager** passionate about **Enterprise Products** and **Artificial Intelligence**.
 
 
-
-### Dell Technologies
-**Product Manager** (2019 – 2021)  
-Responsible for driving Go To Market strategies, develop the business case by analyzing customer needs, market trends and Product Road-map for Data Domain security and cloud-tier for long-term retention products. Created detailed requirements and prioritized product features based on a deep understanding of user requirements and usage data. Worked closely with engineering to deliver high-quality product based on the customer demand Agile development process. Conducted market analysis, competitive analysis for security and cloud tier products. Direct engagement with the support, sales, marketing, advertisement to make the product more customer focused and updated with market trends.
-
-Security Expertise: KMIP server support for Data Domain, encryption key rotation, passphrase management, encryption key/random salt management, user authentication based on certificates, RBAC authorization, auditing, Software Development Lifecycle (SDL) - threat modeling, product hardening, FIPS 140-2 Level1/2.
-
-Cloud Expertise: Cloud Tier for LTR - long-term retention with AWS, Azure, GCP, Electic compute storage (ECS)m Virtustream (VCS), IBM, recall/restore of data from cloud tier to active tier, managing EOSL for the extended tier, pricing of cloud tier, deep understanding of cloud business model, KPIs, operations capabilities.Product Management expertise: Responsible for driving Go To Market strategies, develop the business case by analyzing customer needs, market trends and Product Road-map for Data Domain security and cloud-tier for long-term retention products. Created detailed requirements and prioritized product features based on a deep understanding of user requirements and usage data. Worked closely with engineering to deliver high-quality product based on the customer demand Agile development process. Conducted market analysis, competitive analysis for security and cloud tier products. Direct engagement with the support, sales, marketing, advertisement to make the product more customer focused and updated with market trends. Security Expertise: KMIP server support for Data Domain, encryption key rotation, passphrase management, encryption key/random salt management, user authentication based on certificates, RBAC authorization, auditing, Software Development Lifecycle (SDL) - threat modeling, product hardening, FIPS 140-2 Level1/2. Cloud Expertise: Cloud Tier for LTR - long-term retention with AWS, Azure, GCP, Electic compute storage (ECS)m Virtustream (VCS), IBM, recall/restore of data from cloud tier to active tier, managing EOSL for the extended tier, pricing of cloud tier, deep understanding of cloud business model, KPIs, operations capabilities.
-
-
-**AI Product Owner** (2018 – 2019)  
-Lead the product development process from ideation to launch, ensuring alignment with business goals.
-
-Define and prioritize product features based on user feedback, and business requirements.
-
-Collaborate with stakeholders, including product managers, engineers, data scientists, and designers, to gather requirements, define user stories, and translate business needs into technical specifications.
-
-Lead the agile development process, including sprint planning, backlog grooming, and sprint reviews, to ensure timely delivery of high-quality AI products and features.
-
-Champion a customer-centric approach by conducting user testing, gathering feedback, and iteratively refining AI products to enhance usability and satisfaction.
-
-Stay abreast of industry trends and emerging technologies in AI and machine learning, identifying opportunities for innovation and competitive differentiation.
-
-Measure and analyze product performance metrics to optimize user experience and drive product enhancements.
-
-Serve as the primary point of contact for all AI-related initiatives, providing guidance, support, and expertise to cross-functional teams throughout the product development lifecycle.
-
-**Senior Software Engineer** (2017 – 2018)
-
-
-
-### Hewlett Packard Enterprise
-**Solution Architect** (2015 – 2017)
-
-### Tata Consultancy Services
-**Information Technology Analyst** (2009 – 2015)
-
-
 ## News 
 <body>
 
-<table border="1">
+<table>
 
   <tr>
     <td style="white-space: nowrap;">June 2024</td>
