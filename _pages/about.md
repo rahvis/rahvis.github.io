@@ -73,70 +73,72 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
 ## News 
 <body>
+```html
 <table border="1">
 
   <tr>
-    <td>June 2024</td>
+    <td style="white-space: nowrap;">June 2024</td>
     <td><strong>“SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning”</strong>, accepted at The 29th International Conference on Automation and Computing (ICAC 2024), Sunderland, UK, 28-30 Aug. 2024. (h-5 median 34). The work was done in collaboration with <strong>Google</strong> and <strong>Tubi TV</strong>.</td>
   </tr>
 
   <tr>
-    <td>May 2024</td>
+    <td style="white-space: nowrap;">June 2024</td>
+    <td>Rejection notification from Y Combinator for the submitted application.</td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">May 2024</td>
     <td>I will serve as <strong>Program Committee</strong> in The 13th Symposium on Conformal and Probabilistic Prediction with Applications (COPA 2024), Milano, Milan, Italy.</td>
   </tr>
 
   <tr>
-    <td>May 2024</td>
+    <td style="white-space: nowrap;">May 2024</td>
     <td>I will serve as <strong>TPC</strong> in IEEE International Conference on Physical Assurance and Inspection of Electronics (PAINE 2024), Huntsville, AL.</td>
   </tr>
 
   <tr>
-    <td>May 2024</td>
+    <td style="white-space: nowrap;">May 2024</td>
     <td>Recognized as <a href="https://transmitter.ieee.org/author/rahulvishwakarma/">IEEE Impact Creator</a> (featured in IEEE Transmitter).</td>
   </tr>
 
   <tr>
-    <td>Apr 2024</td>
-    <td><strong>Entrepreneur Spotlight</strong> (<a href="https://www.youtube.com/watch?v=yD4Z8FDQ02Q">YouTube</a>): An interviewed at Institute For Innovation & Entrepreneurship, CSULB </td>
+    <td style="white-space: nowrap;">Apr 2024</td>
+    <td><strong>Entrepreneur Spotlight</strong> (<a href="https://www.youtube.com/watch?v=yD4Z8FDQ02Q">YouTube</a>): An interviewed at Institute For Innovation & Entrepreneurship, CSULB.</td>
   </tr>
   
   <tr>
-    <td>Apr 2024</td>
-    <td> An Interview with <a href="https://idiyas.com/blog/idiyas-qa-meet-rahul-vishwakarma-senior-member-of-ieee-with-51-granted-patents/">IDiyas Q&A</a>: Meet Rahul Vishwakarma, Senior Member of IEEE with 51+ Granted Patents! </td>
-  </tr>
-
-
-  <tr>
-    <td>Apr 2024</td>
-    <td> Featured on California State University Long Beach for <a href="https://www.csulb.edu/office-of-the-provost/university-achievement-awards">Outstanding Graduate Student in Research, Scholarly, and Creative Activities Awards</a>  </td>
+    <td style="white-space: nowrap;">Apr 2024</td>
+    <td>An Interview with <a href="https://idiyas.com/blog/idiyas-qa-meet-rahul-vishwakarma-senior-member-of-ieee-with-51-granted-patents/">IDiyas Q&A</a>: Meet Rahul Vishwakarma, Senior Member of IEEE with 51+ Granted Patents!</td>
   </tr>
 
   <tr>
-    <td>Apr 2024</td>
+    <td style="white-space: nowrap;">Apr 2024</td>
+    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/office-of-the-provost/university-achievement-awards">Outstanding Graduate Student in Research, Scholarly, and Creative Activities Awards</a>.</td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Apr 2024</td>
     <td>Awarded $5000 at <strong>Sunstone Innovation Challenge @CSULB</strong> for Mindful Performance.</td>
   </tr>
 
-
   <tr>
-    <td>Mar 2024</td>
-    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024">Making Waves: March 2024</a></td>
-  </tr>
-
-
-
-  <tr>
-    <td>Mar 2024</td>
-    <td>I founded <a href="https://www.csulb.edu/college-of-engineering/article/ai-research-club-launches">AI Research Club</a> at California State University. </td>
+    <td style="white-space: nowrap;">Mar 2024</td>
+    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024">Making Waves: March 2024</a>.</td>
   </tr>
 
   <tr>
-    <td>Sep 2023</td>
+    <td style="white-space: nowrap;">Mar 2024</td>
+    <td>I founded <a href="https://www.csulb.edu/college-of-engineering/article/ai-research-club-launches">AI Research Club</a> at California State University.</td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">Sep 2023</td>
     <td>Elevated to <strong>IEEE Senior Member</strong>.</td>
   </tr>
 
   <tr>
-    <td>Aug 2023</td>
-    <td>Received <strong>ASI Student Travel Grant,</strong> ($900), California State University Long Beach.</td>
+    <td style="white-space: nowrap;">Aug 2023</td>
+    <td>Received <strong>ASI Student Travel Grant</strong>, ($900), California State University Long Beach.</td>
   </tr>
 
 </table>
