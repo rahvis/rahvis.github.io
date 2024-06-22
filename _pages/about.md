@@ -96,7 +96,7 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
   </tr>
   <tr>
     <td>Mar 2024</td>
-    <td>I founded AI Research Club at California State University.</td>
+    <td>I founded <a href="https://www.csulb.edu/college-of-engineering/article/ai-research-club-launches">AI Research Club</a> at California State University.</td>
   </tr>
   <tr>
     <td>Sep 2023</td>
