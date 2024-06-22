@@ -88,22 +88,22 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
   </tr>
   <tr>
     <td>May 2024</td>
-    <td>Recognized as IEEE Impact Creator (featured in IEEE Transmitter).</td>
+    <td>Recognized as <a href="https://transmitter.ieee.org/author/rahulvishwakarma/">IEEE Impact Creator</a> (featured in IEEE Transmitter).</td>
   </tr>
   <tr>
-    <td>April 2024</td>
+    <td>Apr 2024</td>
     <td>Awarded $5000 at Sunstone Innovation Challenge @CSULB for Mindful Performance.</td>
   </tr>
   <tr>
-    <td>March 2024</td>
+    <td>Mar 2024</td>
     <td>I founded AI Research Club at California State University.</td>
   </tr>
   <tr>
-    <td>September 2023</td>
+    <td>Sep 2023</td>
     <td>Elevated to IEEE Senior Member.</td>
   </tr>
   <tr>
-    <td>August 2023</td>
+    <td>Aug 2023</td>
     <td>Received ASI Student Travel Grant, ($900), California State University Long Beach.</td>
   </tr>
 </table>
