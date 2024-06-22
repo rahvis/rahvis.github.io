@@ -73,7 +73,7 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
 ## News 
 <body>
-```html
+
 <table border="1">
 
   <tr>
@@ -84,6 +84,11 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
   <tr>
     <td style="white-space: nowrap;">June 2024</td>
     <td>Rejection notification from Y Combinator for the submitted application.</td>
+  </tr>
+
+  <tr>
+    <td style="white-space: nowrap;">May 2024</td>
+    <td><strong>I Graduated!</strong> Watch my commencement speech here: <a href="https://youtu.be/kqFHBtrKq3c?t=5858"><strong>YouTube</strong></a></td>
   </tr>
 
   <tr>
