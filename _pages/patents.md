@@ -5,6 +5,15 @@ permalink: /patents/
 author_profile: true
 ---
 
+<div>
+<br>
+    <p style="margin-top: 0; margin-bottom: 20px;">
+      The 51 granted U.S. patents are in the domains of artificial intelligence, machine learning, and data storage. These patents cover a diverse pool of applications such as machine learning techniques in data analysis, smart data management, hardware health monitoring, anomaly detection, and system upgrade and update management.
+      <br>
+      <br>
+      The U.S. Patent 11,513,931 - "Anomaly aware log retrieval from disk array enclosures", issued on November 29, 2022, has been <strong>successfully implemented</strong> in <a href="https://www.dell.com/en-us/dt/data-protection/powerprotect-backup-dd-appliances/powerprotect-dd-backup-appliances.htm" target="_blank">Dell Power Protect Data Domain</a>.
+    </p>
+  </div>
 
 You can also find an up-to-date list of published patents on <a href="https://patents.google.com/?inventor=%22Rahul+Deo+Vishwakarma%22,Rahul+Vishwakarma&num=100&sort=new&dups=language&clustered=true" target="_blank">Google Patents</a>
 <br>
@@ -24,15 +33,6 @@ Based on the statistics from IDiyas.com only 0.54% of inventors have 50-99 grant
   </div>
 </div>
 
-<div>
-<br>
-    <p style="margin-top: 0; margin-bottom: 20px;">
-      The 51 granted U.S. patents are in the domains of artificial intelligence, machine learning, and data storage. These patents cover a diverse pool of applications such as machine learning techniques in data analysis, smart data management, hardware health monitoring, anomaly detection, and system upgrade and update management.
-      <br>
-      <br>
-      The U.S. Patent 11,513,931 - "Anomaly aware log retrieval from disk array enclosures", issued on November 29, 2022, has been <strong>successfully implemented</strong> in <a href="https://www.dell.com/en-us/dt/data-protection/powerprotect-backup-dd-appliances/powerprotect-dd-backup-appliances.htm" target="_blank">Dell Power Protect Data Domain</a>.
-    </p>
-  </div>
 
  <div style="width: 100%;">
 
