@@ -105,9 +105,10 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
     <td> An Interview with <a href="https://idiyas.com/blog/idiyas-qa-meet-rahul-vishwakarma-senior-member-of-ieee-with-51-granted-patents/">IDiyas Q&A</a>: Meet Rahul Vishwakarma, Senior Member of IEEE with 51+ Granted Patents! </td>
   </tr>
 
+
   <tr>
     <td>Apr 2024</td>
-  </td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/office-of-the-provost/university-achievement-awards">Outstanding Graduate Student in Research, Scholarly, and Creative Activities Awards</a> </td>
+    <td> Featured on California State University Long Beach for <a href="https://www.csulb.edu/office-of-the-provost/university-achievement-awards">Outstanding Graduate Student in Research, Scholarly, and Creative Activities Awards</a>  </td>
   </tr>
 
   <tr>
@@ -118,8 +119,10 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td>Mar 2024</td>
-  </td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024">Making Waves: March 2024</a> </td>
+    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024">Making Waves: March 2024</a></td>
   </tr>
+
+
 
   <tr>
     <td>Mar 2024</td>
