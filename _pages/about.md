@@ -88,7 +88,7 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td style="white-space: nowrap;">May 2024</td>
-    <td><strong>I Graduated!</strong> Watch my commencement speech here: <a href="https://youtu.be/kqFHBtrKq3c?t=5858"><strong>YouTube</strong></a></td>
+    <td><strong>I Graduated!</strong> Watch my commencement speech here: <a href="https://youtu.be/kqFHBtrKq3c?t=5858" target="_blank"><strong>YouTube</strong></a></td>
   </tr>
 
   <tr>
@@ -103,22 +103,22 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td style="white-space: nowrap;">May 2024</td>
-    <td>Recognized as <a href="https://transmitter.ieee.org/author/rahulvishwakarma/">IEEE Impact Creator</a> (featured in IEEE Transmitter).</td>
+    <td>Recognized as <a href="https://transmitter.ieee.org/author/rahulvishwakarma/" target="_blank">IEEE Impact Creator</a> (featured in IEEE Transmitter).</td>
   </tr>
 
   <tr>
     <td style="white-space: nowrap;">Apr 2024</td>
-    <td><strong>Entrepreneur Spotlight</strong> (<a href="https://www.youtube.com/watch?v=yD4Z8FDQ02Q">YouTube</a>): An interviewed at Institute For Innovation & Entrepreneurship, CSULB.</td>
+    <td><strong>Entrepreneur Spotlight</strong> (<a href="https://www.youtube.com/watch?v=yD4Z8FDQ02Q" target="_blank">YouTube</a>): An interviewed at Institute For Innovation & Entrepreneurship, CSULB.</td>
   </tr>
   
   <tr>
     <td style="white-space: nowrap;">Apr 2024</td>
-    <td>An Interview with <a href="https://idiyas.com/blog/idiyas-qa-meet-rahul-vishwakarma-senior-member-of-ieee-with-51-granted-patents/">IDiyas Q&A</a>: Meet Rahul Vishwakarma, Senior Member of IEEE with 51+ Granted Patents!</td>
+    <td>An Interview with <a href="https://idiyas.com/blog/idiyas-qa-meet-rahul-vishwakarma-senior-member-of-ieee-with-51-granted-patents/" target="_blank">IDiyas Q&A</a>: Meet Rahul Vishwakarma, Senior Member of IEEE with 51+ Granted Patents!</td>
   </tr>
 
   <tr>
     <td style="white-space: nowrap;">Apr 2024</td>
-    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/office-of-the-provost/university-achievement-awards">Outstanding Graduate Student in Research, Scholarly, and Creative Activities Awards</a>.</td>
+    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/office-of-the-provost/university-achievement-awards" target="_blank">Outstanding Graduate Student in Research, Scholarly, and Creative Activities Awards</a>.</td>
   </tr>
 
   <tr>
@@ -128,12 +128,12 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td style="white-space: nowrap;">Mar 2024</td>
-    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024">Making Waves: March 2024</a>.</td>
+    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024" target="_blank">Making Waves: March 2024</a>.</td>
   </tr>
 
   <tr>
     <td style="white-space: nowrap;">Mar 2024</td>
-    <td>I founded <a href="https://www.csulb.edu/college-of-engineering/article/ai-research-club-launches">AI Research Club</a> at California State University.</td>
+    <td>I founded <a href="https://www.csulb.edu/college-of-engineering/article/ai-research-club-launches" target="_blank">AI Research Club</a> at California State University.</td>
   </tr>
 
   <tr>
