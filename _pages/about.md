@@ -82,12 +82,12 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td>May 2024</td>
-    <td>I will serve as Program Committee in The 13th Symposium on Conformal and Probabilistic Prediction with Applications (COPA 2024), Milano, Milan, Italy.</td>
+    <td>I will serve as <strong>Program Committee</strong> in The 13th Symposium on Conformal and Probabilistic Prediction with Applications (COPA 2024), Milano, Milan, Italy.</td>
   </tr>
 
   <tr>
     <td>May 2024</td>
-    <td>I will serve as TPC in IEEE International Conference on Physical Assurance and Inspection of Electronics (PAINE 2024), Huntsville, AL.</td>
+    <td>I will serve as <strong>TPC</strong> in IEEE International Conference on Physical Assurance and Inspection of Electronics (PAINE 2024), Huntsville, AL.</td>
   </tr>
 
   <tr>
@@ -97,7 +97,7 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td>Apr 2024</td>
-    <td>Entrepreneur Spotlight (<a href="https://www.youtube.com/watch?v=yD4Z8FDQ02Q">YouTube</a>): An interviewed at Institute For Innovation & Entrepreneurship, CSULB </td>
+    <td><strong>Entrepreneur Spotlight</strong> (<a href="https://www.youtube.com/watch?v=yD4Z8FDQ02Q">YouTube</a>): An interviewed at Institute For Innovation & Entrepreneurship, CSULB </td>
   </tr>
   
   <tr>
@@ -113,7 +113,7 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td>Apr 2024</td>
-    <td>Awarded $5000 at Sunstone Innovation Challenge @CSULB for Mindful Performance.</td>
+    <td>Awarded $5000 at <strong>Sunstone Innovation Challenge @CSULB</strong> for Mindful Performance.</td>
   </tr>
 
 
@@ -131,12 +131,12 @@ Serve as the primary point of contact for all AI-related initiatives, providing 
 
   <tr>
     <td>Sep 2023</td>
-    <td>Elevated to IEEE Senior Member.</td>
+    <td>Elevated to <strong>IEEE Senior Member</strong>.</td>
   </tr>
 
   <tr>
     <td>Aug 2023</td>
-    <td>Received ASI Student Travel Grant, ($900), California State University Long Beach.</td>
+    <td>Received <strong>ASI Student Travel Grant,</strong> ($900), California State University Long Beach.</td>
   </tr>
 
 </table>
