@@ -29,9 +29,11 @@ tr:nth-child(even) {
 </style>
 </head>
 
+I am Rahul Vishwakarma, a passionate inventor with a rich academic background complemented by a compelling journey of Product Management with a strong passion for Enterprise Data Storage, Artificial Intelligence, and architecting Generative AI products. 
 
-I am Rahul Vishwakarma, a **Product Manager** passionate about **Enterprise Products** and **Artificial Intelligence**.
+The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, fuels my passion for this field.
 
+I believe that creating impactful innovations is the most effective and efficient way to deliver value to people.
 
 ## News 
 <body>
