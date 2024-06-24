@@ -48,6 +48,9 @@ A pivotal shift in my career came with the transition from the role of <i>Senior
 </p>
 
 
+<p align="justify">
+I believe that creating impactful innovations is the most effective and efficient way to deliver value to people. In my leisure hours, I find solace in weaving words into poetry and capturing the serene beauty of sunrises at the beach.
+</p>
 
 <h2> News </h2> 
 
