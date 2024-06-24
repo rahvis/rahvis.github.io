@@ -63,10 +63,6 @@ I believe that creating impactful innovations is the most effective and efficien
     <td><strong>“SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning”</strong>, accepted at The 29th International Conference on Automation and Computing (ICAC 2024), Sunderland, UK, 28-30 Aug. 2024. (h-5 median 34). The work was done in collaboration with <strong>Google</strong> and <strong>Tubi TV</strong>.</td>
   </tr>
 
-  <tr>
-    <td style="white-space: nowrap;">June 2024</td>
-    <td>Rejection notification from Y Combinator for the submitted application.</td>
-  </tr>
 
   <tr>
     <td style="white-space: nowrap;">May 2024</td>
