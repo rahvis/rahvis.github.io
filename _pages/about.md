@@ -43,6 +43,11 @@ I believe that creating impactful innovations is the most effective and efficien
 After completing my undergraduate studies in Computer Science, I began my career at Tata Consultancy Services as a COBOL developer, and also working on storage products. This role enabled me to transition to Hewlett Packard Enterprise, where I worked as a Solution Architect for Converged Systems (SAP HANA).
 </p>
 
+<p align="justify">
+A pivotal shift in my career came with the transition from the role of <i>Senior Software Engineer</i> to <i>AI Product Owner</i> (Machine Learning Engineer) at Dell Technologies. In this role, I led cross-functional teams to deliver AI-based solutions for data deduplication (PowerProtect Data Domain Appliances), resulting in the implementation of patented features. During my tenure, I filed over 100 US patents, with 51 currently granted in my name.
+</p>
+
+
 
 <h2> News </h2> 
 
