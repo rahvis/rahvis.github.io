@@ -39,7 +39,7 @@ The process of developing and implementing technologies, combined with cross-tea
 I believe that creating impactful innovations is the most effective and efficient way to deliver value to people.
 </p>
 
-## News 
+<h2> News </h2> 
 
 
 <table>
