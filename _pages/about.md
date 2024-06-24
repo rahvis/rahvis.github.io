@@ -29,7 +29,7 @@ tr:nth-child(even) {
 </style>
 </head>
 
-<body>
+
 
 <p align="justify">
 I have a strong passion for <i>Enterprise Data Storage</i>, <i>Artificial Intelligence</i>, and architecting <i>Generative AI</i> products. 
@@ -58,8 +58,7 @@ After 12 years of industry experience, I pursued graduate studies at California 
 -->
 
 
-<h2> News </h2> 
-
+## News 
 
 <table>
 
@@ -130,4 +129,3 @@ After 12 years of industry experience, I pursued graduate studies at California 
   </tr>
 
 </table>
-</body>
