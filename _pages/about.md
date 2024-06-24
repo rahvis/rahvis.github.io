@@ -32,7 +32,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-I have a strong passion for <i>Enterprise Data Storage</i>, <i>Artificial Intelligence</i>, and architecting <i>Generative AI</i> products. 
+I have a strong passion for <i>Enterprise Data Storage</i>, <i>Machine Learning</i>, and architecting <i>Generative AI</i> products. 
 
 <p align="justify">
 I believe that creating impactful innovations is the most effective and efficient way to deliver value to people. In my leisure hours, I find solace in weaving words into poetry and capturing the serene beauty of sunrises at the beach.
