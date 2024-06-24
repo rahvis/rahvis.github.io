@@ -32,7 +32,7 @@ tr:nth-child(even) {
 <body>
 
 <p align="justify">
-I am Rahul Vishwakarma, a <i>Product Manager</i> with a strong passion for <i>Enterprise Data Storage</i>, <i>Artificial Intelligence</i>, and architecting <i>Generative AI</i> products. 
+I have a strong passion for <i>Enterprise Data Storage</i>, <i>Artificial Intelligence</i>, and architecting <i>Generative AI</i> products. 
 
 The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, sparked my interest in <i>Product</i>.
 </p>
