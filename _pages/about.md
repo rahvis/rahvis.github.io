@@ -47,6 +47,9 @@ After completing my undergraduate studies in Computer Science, I began my career
 A pivotal shift in my career came with the transition from the role of <i>Senior Software Engineer</i> to <i>AI Product Owner</i> (Machine Learning Engineer) at Dell Technologies. In this role, I led cross-functional teams to deliver AI-based solutions for data deduplication (PowerProtect Data Domain Appliances), resulting in the implementation of patented features. During my tenure, I filed over 100 US patents, with 51 currently granted in my name.
 </p>
 
+<p align="justify">
+After 12 years of industry experience, I pursued graduate studies at California State University, Long Beach to deepen my knowledge and stay current with technological advancements. I aimed to bridge the gap between practical experience and academic research to drive innovation. Additionally, I completed a Certificate Program in Entrepreneurial Management at the College of Business (Aug 2023 - May 2024). This program allowed me to develop the skills necessary to transform cutting-edge technologies into viable business solutions. During my time at university, I was actively engaged in various endeavors. I conducted research in hardware security, funded by the National Science Foundation (NSF), and took the initiative to found the first AI Research Club among the 23 campuses of the California State University system. Additionally, I successfully presented startup pitches, winning prizes and showcasing my ability to combine technical expertise with strategic and entrepreneurial mindset
+</p>
 
 <p align="justify">
 I believe that creating impactful innovations is the most effective and efficient way to deliver value to people. In my leisure hours, I find solace in weaving words into poetry and capturing the serene beauty of sunrises at the beach.
