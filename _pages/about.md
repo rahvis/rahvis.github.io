@@ -40,11 +40,7 @@ I believe that creating impactful innovations is the most effective and efficien
 </p>
 
 <p align="justify">
-I am Rahul Vishwakarma, a <i>Product Manager</i> with a strong passion for <i>Enterprise Data Storage</i>, <i>Artificial Intelligence</i>, and architecting <i>Generative AI</i> products. 
-
-The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, sparked my interest in <i>Product</i>.
-
-I believe that creating impactful innovations is the most effective and efficient way to deliver value to people.
+After completing my undergraduate studies in Computer Science, I began my career at Tata Consultancy Services as a COBOL developer, and also working on storage products. This role enabled me to transition to Hewlett Packard Enterprise, where I worked as a Solution Architect for Converged Systems (SAP HANA).
 </p>
 
 
