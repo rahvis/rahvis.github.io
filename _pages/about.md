@@ -58,7 +58,7 @@ After 12 years of industry experience, I pursued graduate studies at California 
 -->
 
 
-## News 
+<h2> News </h2>
 
 <table>
 
