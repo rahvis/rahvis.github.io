@@ -33,16 +33,11 @@ tr:nth-child(even) {
 
 <p align="justify">
 I have a strong passion for <i>Enterprise Data Storage</i>, <i>Machine Learning</i>, and architecting <i>Generative AI</i> products. 
-
-<p align="justify">
-I believe that creating impactful innovations is the most effective and efficient way to deliver value to people. In my leisure hours, I find solace in weaving words into poetry and capturing the serene beauty of sunrises at the beach.
 </p>
 
-
-<!-- 
-
+<p align="justify">
 The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, sparked my interest in <i>Product</i>.
-
+</p>
 
 <p align="justify">
 After completing my undergraduate studies in Computer Science, I began my career at Tata Consultancy Services as a COBOL developer, and also working on storage products. This role enabled me to transition to Hewlett Packard Enterprise, where I worked as a Solution Architect for Converged Systems (SAP HANA).
@@ -55,7 +50,11 @@ A pivotal shift in my career came with the transition from the role of <i>Senior
 <p align="justify">
 After 12 years of industry experience, I pursued graduate studies at California State University, Long Beach and aimed to bridge the gap between practical experience and academic research to drive innovation. Additionally, I completed a Certificate Program in Entrepreneurial Management at the College of Business (Aug 2023 - May 2024). This program allowed me to develop the skills necessary to transform cutting-edge technologies into viable business solutions. I also conducted research in hardware security, funded by the National Science Foundation (NSF), and took the initiative to found the first AI Research Club among the 23 campuses of the CSU. I also presented startup pitches, winning prizes and showcasing my ability to combine technical expertise with strategic and entrepreneurial mindset.
 </p>
--->
+
+<p align="justify">
+I believe that creating impactful innovations is the most effective and efficient way to deliver value to people. In my leisure hours, I find solace in weaving words into poetry and capturing the serene beauty of sunrises at the beach.
+</p>
+
 
 
 <h2> News </h2>
