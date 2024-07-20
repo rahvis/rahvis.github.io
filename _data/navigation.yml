@@ -22,8 +22,8 @@ main:
  # - title: "Membership"
  #   url: /membership/    
 
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+ #   url: /cv/
     
   - title: "Contact"
     url: /contact/
