@@ -30,13 +30,8 @@ tr:nth-child(even) {
 </head>
 
 
-
 <p align="justify">
-I have a strong passion for <i>Enterprise Data Storage</i>, <i>Machine Learning</i>, and architecting <i>Generative AI</i> products. 
-</p>
-
-<p align="justify">
-The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, sparked my interest in <i>Product</i>.
+The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, sparked my interest in <i>Product</i> and Project Management.
 </p>
 
 <p align="justify">
