@@ -31,23 +31,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-The process of developing and implementing technologies, combined with cross-team collaboration and the opportunity to solve real-world problems and improve efficiencies, sparked my interest in <i>Product</i> and Project Management.
-</p>
-
-<p align="justify">
-After completing my undergraduate studies in Computer Science, I began my career at Tata Consultancy Services as a COBOL developer, and also working on storage products. This role enabled me to transition to Hewlett Packard Enterprise, where I worked as a Solution Architect for Converged Systems (SAP HANA).
-</p>
-
-<p align="justify">
-A pivotal shift in my career came with the transition from the role of <i>Senior Software Engineer</i> to <i>AI Product Owner</i> (Machine Learning Engineer) at Dell Technologies. In this role, I led cross-functional teams to deliver AI-based solutions for data deduplication (PowerProtect Data Domain Appliances), resulting in the implementation of patented features. During my tenure, I filed over 100 US patents, with 51 currently granted in my name.
-</p>
-
-<p align="justify">
-After 12 years of industry experience, I pursued graduate studies at California State University, Long Beach and aimed to bridge the gap between practical experience and academic research to drive innovation. Additionally, I completed a Certificate Program in Entrepreneurial Management at the College of Business (Aug 2023 - May 2024). This program allowed me to develop the skills necessary to transform cutting-edge technologies into viable business solutions. I also conducted research in hardware security, funded by the National Science Foundation (NSF), and took the initiative to found the first AI Research Club among the 23 campuses of the CSU. I also presented startup pitches, winning prizes and showcasing my ability to combine technical expertise with strategic and entrepreneurial mindset.
-</p>
-
-<p align="justify">
-I believe that creating impactful innovations is the most effective and efficient way to deliver value to people. In my leisure hours, I find solace in weaving words into poetry and capturing the serene beauty of sunrises at the beach.
+My profound enthusiasm for project management is driven by a relentless pursuit of efficiency and excellence. With extensive experience as a Project Manager at Boodh and an AI Product Owner at Dell Technologies, I have a proven track record of delivering transformative results. Initiating AI-driven predictive maintenance projects at Boodh led to a significant 30% reduction in equipment downtime and a 25% decrease in maintenance costs. At Dell, I spearheaded Go To Market strategies for AI Risk Compliance features, achieving a deep market integration and enhanced customer focus. Leveraging agile methodologies and strategic problem-solving, my approach consistently exceeds business objectives and redefines industry standards, from navigating stakeholder relationships to integrating cutting-edge technologies. My leadership in project management has not only been about meeting targets but also setting new benchmarks, as recognized by the Outstanding Graduate Research, Scholarly, and Creative Activity (RSCA) Award at CSULB.
 </p>
 
 
