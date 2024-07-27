@@ -31,7 +31,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-My profound enthusiasm for project management is driven by a relentless pursuit of efficiency and excellence. With extensive experience as a Project Manager at Boodh and an AI Product Owner at Dell Technologies, I have a proven track record of delivering transformative results. Initiating AI-driven predictive maintenance projects at Boodh led to a significant 30% reduction in equipment downtime and a 25% decrease in maintenance costs. At Dell, I spearheaded Go To Market strategies for AI Risk Compliance features, achieving a deep market integration and enhanced customer focus. Leveraging agile methodologies and strategic problem-solving, my approach consistently exceeds business objectives and redefines industry standards, from navigating stakeholder relationships to integrating cutting-edge technologies. 
+Rahul Deo Vishwakarma (Senior Member, IEEE) received the Bachelor of Technology degree in computer science from the SRM Institute of Science and Technology in 2009. He completed his M.S. degree in computer science at California State University Long Beach in 2024. He worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and Dell Technologies, he drove solutions for data protection and assisted customers in safeguarding data with data domain (deduplication-based backup storage), while leveraging machine learning across the product stack. He holds 51 granted U.S. patents in the domains of machine learning, data storage, persistent memory, DNA storage, and blockchain. His current research interests include addressing bias, explainability, and the uncertainty quantification of machine learning models.
 </p>
 
 
