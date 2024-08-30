@@ -31,7 +31,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-Rahul Deo Vishwakarma (Senior Member, IEEE) received the Bachelor of Technology degree in computer science from the SRM Institute of Science and Technology in 2009. He completed his M.S. degree in computer science at California State University Long Beach in 2024. He worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and Dell Technologies, he drove solutions for data protection and assisted customers in safeguarding data with data domain (deduplication-based backup storage), while leveraging machine learning across the product stack. He holds 51 granted U.S. patents in the domains of machine learning, data storage, persistent memory, DNA storage, and blockchain. His current research interests include addressing bias, explainability, and the uncertainty quantification of machine learning models.
+Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue Ridge Labs @ Robin Hood. He received M.S. degree in computer science at California State University Long Beach in 2024. Prior to this, he worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and Dell Technologies, he drove solutions for data protection and assisted customers in safeguarding data with data domain (deduplication-based backup storage), while leveraging machine learning across the product stack. He holds 52 granted U.S. patents in the domains of machine learning, data storage, persistent memory, DNA storage, and blockchain.
 </p>
 
 
@@ -40,6 +40,40 @@ Rahul Deo Vishwakarma (Senior Member, IEEE) received the Bachelor of Technology 
 
 <table>
 
+
+
+  <tr>
+    <td style="white-space: nowrap;">August 2024</td>
+    <td> Quoted in <a href="https://cacm.acm.org/news/gauging-societal-impacts-of-large-language-models/" target="_blank"> <strong>Communications of the ACM </strong></a> CACM) story focusing on NIST’s newly-released Assessing Risks and Impacts of AI (ARIA) program. </td>
+  </tr>
+
+
+  <tr>
+    <td style="white-space: nowrap;">August 2024</td>
+    <td> Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org/build/fellowship" target="_blank"> <strong>Blue Ridge Labs @ Robin Hood</strong></a> </td>
+  </tr>
+
+      
+  <tr>
+    <td style="white-space: nowrap;">August 2024</td>
+    <td> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7232122187359432706/" target="_blank"> BCS Fellow </a> </td>
+  </tr>
+
+
+
+  <tr>
+    <td style="white-space: nowrap;">July 2024</td>
+    <td> Ambassador <a href="https://issip.org" target="_blank"> <strong>International Society of Service Innovation Professionals (ISSIP)</strong></a> </td>
+  </tr>
+
+
+
+  <tr>
+    <td style="white-space: nowrap;">July 2024</td>
+    <td><strong>“Spotting the Deepfake”</strong> - <a href="https://transmitter.ieee.org/spotting-the-deepfake/" target="_blank"> <strong>Quoted in IEEE Transmitter</strong></a>.</td>
+  </tr>
+
+  
   <tr>
     <td style="white-space: nowrap;">June 2024</td>
     <td><strong>“SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning”</strong>, accepted at The 29th International Conference on Automation and Computing (ICAC 2024), Sunderland, UK, 28-30 Aug. 2024. (h-5 median 34). The work was done in collaboration with <strong>Google</strong> and <strong>Tubi TV</strong>.</td>
