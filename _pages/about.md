@@ -31,7 +31,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue Ridge Labs @ Robin Hood. He received M.S. degree in computer science at California State University Long Beach in 2024. Prior to this, he worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and Dell Technologies, he drove solutions for data protection and assisted customers in safeguarding data with data domain (deduplication-based backup storage), while leveraging machine learning across the product stack. He holds 52 granted U.S. patents in the domains of machine learning, data storage, persistent memory, DNA storage, and blockchain.
+Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue Ridge Labs @ Robin Hood. He received M.S. degree in computer science at California State University Long Beach in 2024. Prior to this, he worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and at Dell Technologies, he drove solutions for data protection and assisted customers in safeguarding data with data domain (deduplication-based backup storage), while leveraging machine learning across the product stack. He holds 52 granted U.S. patents in the domains of machine learning, data storage, persistent memory, DNA storage, and blockchain.
 </p>
 
 
