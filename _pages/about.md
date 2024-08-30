@@ -43,19 +43,19 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
 
   <tr>
-    <td style="white-space: nowrap;">August 2024</td>
+    <td style="white-space: nowrap;">Aug 2024</td>
     <td> Quoted in <a href="https://cacm.acm.org/news/gauging-societal-impacts-of-large-language-models/" target="_blank"> <strong>Communications of the ACM </strong></a> CACM) story focusing on NIST’s newly-released Assessing Risks and Impacts of AI (ARIA) program. </td>
   </tr>
 
 
   <tr>
-    <td style="white-space: nowrap;">August 2024</td>
+    <td style="white-space: nowrap;">Aug 2024</td>
     <td> Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org/build/fellowship" target="_blank"> <strong>Blue Ridge Labs @ Robin Hood</strong></a> </td>
   </tr>
 
       
   <tr>
-    <td style="white-space: nowrap;">August 2024</td>
+    <td style="white-space: nowrap;">Aug 2024</td>
     <td> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7232122187359432706/" target="_blank"> BCS Fellow </a> </td>
   </tr>
 
