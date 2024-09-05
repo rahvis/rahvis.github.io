@@ -38,6 +38,8 @@ tr:nth-child(even) {
   </a>
 </div>
 
+<img width="1089" alt="book" src="https://github.com/user-attachments/assets/ca978887-51a7-4fba-b478-dccc9f723ae0">
+
 <p>You can also request a <b>FREE copy of the Book</b> (only for personal use) if you are currently a Student. All you have to do is to sent me an email requesting for a copy of the book usign your student email with .edu domain (this is the only way to confirm you are a student).</p>
 
 </body>
