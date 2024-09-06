@@ -46,7 +46,11 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
     <td> Quoted in <a href="https://x.com/IEEEorg/status/1831769317488120298" target="_blank"> <strong>@IEEEorg</strong> on <strong>X</strong></a> for NIST ARIA (344.9K Followers) </td>
   </tr>
 
-
+  <tr>
+    <td style="white-space: nowrap;">Aug 2024</td>
+    <td> Quoted in <a href="https://x.com/IEEEorg/status/1829172331022794815" target="_blank"> <strong>@IEEEorg</strong> on <strong>X</strong></a> - for Quantum Safe cryptography (IEEE Tramsmitter) </td>
+  </tr>
+  
   <tr>
     <td style="white-space: nowrap;">Aug 2024</td>
     <td> Quoted in <a href="https://cacm.acm.org/news/gauging-societal-impacts-of-large-language-models/" target="_blank"> <strong>Communications of the ACM</strong></a> (CACM) story focusing on NIST’s newly-released Assessing Risks and Impacts of AI (ARIA) program. </td>
