@@ -41,6 +41,11 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 <table>
 
 
+  <tr>
+    <td style="white-space: nowrap;">Sep 2024</td>
+    <td> Quoted in <a href="https://x.com/IEEEorg/status/1831769317488120298" target="_blank"> <strong>@IEEEorg</strong> on <strong>X</strong></a> 344.9K Followers </td>
+  </tr>
+
 
   <tr>
     <td style="white-space: nowrap;">Aug 2024</td>
