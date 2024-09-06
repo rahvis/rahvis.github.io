@@ -19,11 +19,11 @@ main:
   - title: "Publications"
     url: /publications/
 
- # - title: "Membership"
- #   url: /membership/    
+  - title: "Teaching"
+    url: /teaching/    
 
- # - title: "CV"
- #   url: /cv/
+  - title: "CV"
+    url: /cv/
     
   - title: "Contact"
     url: /contact/
