@@ -43,6 +43,11 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
   <tr>
     <td style="white-space: nowrap;">Sep 2024</td>
+    <td> Judge - <a href="https://www.verix.io/certificates/93485" target="_blank"> Stevie Award for Technology Excellence </a> </td>
+  </tr>
+  
+  <tr>
+    <td style="white-space: nowrap;">Sep 2024</td>
     <td> Entrepreneur Spotlight at California Satte University Long Beach <a href="https://www.youtube.com/watch?v=ILHuEi3ocZE" target="_blank"> Institute for Innovation & Entrepreneurship </a> </td>
   </tr>
   
