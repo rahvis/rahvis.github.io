@@ -107,6 +107,11 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
   <tr>
     <td style="white-space: nowrap;">May 2024</td>
+    <td><strong>Dean List</strong> <a href="https://issuu.com/csulbcommencement/docs/commencement2024_coe-nc" target="_blank"> Collge of Engineering, California State Universltiy Long beach</a></td>
+  </tr>
+  
+  <tr>
+    <td style="white-space: nowrap;">May 2024</td>
     <td><strong>I Graduated!</strong> Watch my commencement speech here: <a href="https://youtu.be/kqFHBtrKq3c?t=5858" target="_blank"><strong>YouTube</strong></a></td>
   </tr>
 
