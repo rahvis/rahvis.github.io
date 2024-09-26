@@ -105,9 +105,10 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
   </tr>
 
 
+
   <tr>
     <td style="white-space: nowrap;">May 2024</td>
-    <td><strong>Dean List</strong> <a href="https://issuu.com/csulbcommencement/docs/commencement2024_coe-nc" target="_blank"> Collge of Engineering, California State Universltiy Long beach</a></td>
+    <td><strong>Dean List - </strong> <a href="https://issuu.com/csulbcommencement/docs/commencement2024_coe-nc" target="_blank"> Collge of Engineering, California State Universltiy Long beach</a></td>
   </tr>
   
   <tr>
@@ -147,7 +148,7 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
   <tr>
     <td style="white-space: nowrap;">Apr 2024</td>
-    <td>Awarded $5000 at <strong>Sunstone Innovation Challenge @CSULB</strong> for Mindful Performance.</td>
+    <td>Awarded $5000 at <strong>Sunstone Innovation Challenge @CSULB</strong> for <a href="https://www.crunchbase.com/organization/mindfulperformance"> Mindful Performance </a> </td>
   </tr>
 
   <tr>
