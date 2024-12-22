@@ -41,6 +41,18 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 <table>
 
 
+ <tr>
+    <td style="white-space: nowrap;">Nov 2024</td>
+    <td> <a href="https://www.labs.robinhood.org/portfolio/common-resolve" target="_blank"> Common Resolve on Blue Ridge Labs @ Robin Hood </a> </td>
+  </tr>
+
+
+ <tr>
+    <td style="white-space: nowrap;">Nov 2024</td>
+    <td> <a href="https://edtechmagazine.com/higher/article/2024/11/cybersecurity-automation-helps-short-staffed-higher-ed-it-departments-protect-data" target="_blank"> Quoted in EdTech Magazine </a> </td>
+  </tr>
+
+
   <tr>
     <td style="white-space: nowrap;">Sep 2024</td>
     <td> Judge - <a href="https://www.verix.io/certificates/93485" target="_blank"> Stevie Award for Technology Excellence </a> </td>
@@ -72,6 +84,15 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
     <td> Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org/build/fellowship" target="_blank"> <strong>Blue Ridge Labs @ Robin Hood</strong></a> </td>
   </tr>
 
+ <tr>
+    <td style="white-space: nowrap;">Aug 2024</td>
+    <td> <a href="https://cxotoday.com/story/spotting-the-deepfake/" target="_blank"> Quoted in CXO Today </a> </td>
+  </tr>
+
+   <tr>
+    <td style="white-space: nowrap;">Aug 2024</td>
+    <td> <a href="https://businessnewsthisweek.com/news/spotting-the-deepfake/" target="_blank"> Quoted in Business News This Week </a> </td>
+  </tr>
       
   <tr>
     <td style="white-space: nowrap;">Aug 2024</td>
@@ -153,7 +174,7 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
   <tr>
     <td style="white-space: nowrap;">Mar 2024</td>
-    <td>Featured on California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024" target="_blank">Making Waves: March 2024</a>.</td>
+    <td>California State University Long Beach for <a href="https://www.csulb.edu/news/making-waves/article/making-waves-march-2024" target="_blank">Making Waves: March 2024</a>.</td>
   </tr>
 
   <tr>
