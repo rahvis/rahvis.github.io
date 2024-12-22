@@ -102,7 +102,7 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
   <tr>
     <td style="white-space: nowrap;">July 2024</td>
-    <td> Talk Accepted at SNIA SDC 2024 - <a href="https://www.sniadeveloper.org" target="_blank"> Fortifying AIOps: CSAF and VEX Unite for Smarter Security </a> </td>
+    <td> Talk Accepted at SNIA SDC 2024 - <a href="https://www.youtube.com/watch?v=ekBMasBqzEU" target="_blank"> Fortifying AIOps: CSAF and VEX Unite for Smarter Security </a> </td>
   </tr>
   
   
