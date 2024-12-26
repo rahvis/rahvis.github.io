@@ -41,15 +41,23 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 <table>
 
 
+
+
  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
     <td> <a href="https://www.labs.robinhood.org/portfolio/common-resolve" target="_blank"> Common Resolve on Blue Ridge Labs @ Robin Hood </a> </td>
   </tr>
 
 
+
  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
     <td> <a href="https://edtechmagazine.com/higher/article/2024/11/cybersecurity-automation-helps-short-staffed-higher-ed-it-departments-protect-data" target="_blank"> Quoted in EdTech Magazine </a> </td>
+  </tr>
+
+ <tr>
+    <td style="white-space: nowrap;">Oct 2024</td>
+    <td> <a href="https://www.techopedia.com/why-zero-trust-needs-mfa-to-succeed" target="_blank"> Quoted in Technopedia </a> Why Zero Trust Needs MFA to Succeed: Expert Analysis </td>
   </tr>
 
 
