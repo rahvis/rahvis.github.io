@@ -52,7 +52,7 @@ Rahul Deo Vishwakarma (BCS Fellow) is an Entrepreneur in Residence (EIR) at Blue
 
  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
-    <td> <a href="https://edtechmagazine.com/higher/article/2024/11/cybersecurity-automation-helps-short-staffed-higher-ed-it-departments-protect-data" target="_blank"> Quoted in EdTech Magazine </a> </td>
+    <td> <a href="https://edtechmagazine.com/higher/article/2024/11/cybersecurity-automation-helps-short-staffed-higher-ed-it-departments-protect-data" target="_blank"> Quoted in EdTech Magazine </a> Cybersecurity Automation Helps Short-Staffed Higher Ed IT Departments Protect Data </td>
   </tr>
 
  <tr>
