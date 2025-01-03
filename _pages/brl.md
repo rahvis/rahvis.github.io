@@ -47,11 +47,6 @@ tr:nth-child(even) {
     <p>
     At <strong><a href="https://wearecommonresolve.com" target="_blank">Common Resolve</a></strong>, we developed a <strong><a href="https://chromewebstore.google.com/detail/common-resolve/hemkacfkmhldlhpfndjfibkalfphiibf" target="_blank">Chrome Extension</a></strong> to combat this issue by identifying the likelihood of a job listing being a "ghost." Our tool leverages data-driven insights to help job seekers focus their efforts on genuine opportunities, saving them time and energy by analyzing patterns in job listings to detect fake or misleading posts.
 
-
-        <br>  
-         <a href="https://chromewebstore.google.com/detail/common-resolve/hemkacfkmhldlhpfndjfibkalfphiibf" target="_blank">
-            Download on the Chrome Web Store
-        </a> 
     </p>
 
    <p>
@@ -61,6 +56,34 @@ tr:nth-child(even) {
         better in today’s job market.
 </p>
  
+
+
+ <h2>Yimo AI</h2>
+
+    <p>
+        <strong><a href="https://yimo.dev/" target="_blank">Yimo AI</a></strong> is a search engine designed specifically for recruiters looking to hire C-level executives and top talent interns for enterprise companies. I designed and developed this platform to address the challenges of sourcing exceptional candidates in a competitive market. 
+    </p>
+    <p>
+        Recruiters often face difficulty identifying top talent, especially when evaluating candidates for leadership roles or impactful internships. Traditional methods primarily rely on resumes and job history, which may not fully capture a candidate's potential. The challenge lies in finding individuals who not only have technical expertise but also demonstrate strong leadership, collaboration, and self-motivation, traits that are critical for senior roles or high-potential internships.
+    </p>
+    <p>
+        Yimo AI addresses this challenge by analyzing and ranking candidates based on their research profiles, including sources like <a href="https://scholar.google.com" target="_blank">Google Scholar</a> and their patent portfolio, which are public domain records. The system extracts signals of leadership, collaboration, and impactful work by evaluating metrics such as citations and self-citations. These weighted metrics are then aggregated with data from LinkedIn, GitHub, and the individual's resume. A demo of the product is available here: <a href="https://demo.yimo.dev/" target="_blank">Yimo AI Demo</a>.
+    </p>
+    <p>
+        The key feature of this approach is the signal extraction from research profiles, which provides a stronger indicator of a candidate's potential than traditional sources. For example, if a candidate has 1000+ citations, but 60% are self-citations, they would rank lower than someone with 100+ citations and only 2-3% self-citations. The process ensures that only the most credible and high-performing individuals are highlighted.
+    </p>
+    <p>
+        A detailed description of the ranking mechanism is available in the <a href="https://github.com/rahvis/google-scholar-analyzer" target="_blank">GitHub repository</a> that I published.
+    </p>
+
+
+    <p>
+        The solution has received positive feedback from 8+ recruiters from enterprise companies in New York and California, who are eager to try the product upon its first release. By providing a more accurate and data-driven method of evaluating candidates, Yimo AI aims to streamline the recruitment process and ensure that top talent is not overlooked.
+    </p>
+
+
+  
+
  
 
 </body>
