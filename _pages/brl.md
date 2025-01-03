@@ -45,9 +45,8 @@ tr:nth-child(even) {
     </p>
 
     <p>
-        At <strong>Common Resolve</strong>, we developed a <strong>Chrome Extension</strong> to combat this issue 
-        by identifying the likelihood of a job listing being a "ghost." Our tool leverages data-driven insights to help 
-        job seekers focus their efforts on genuine opportunities, saving them time and energy by analyzing patterns in job listings to detect fake or misleading posts.
+    At <strong><a href="https://wearecommonresolve.com" target="_blank">Common Resolve</a></strong>, we developed a <strong><a href="https://chromewebstore.google.com/detail/common-resolve/hemkacfkmhldlhpfndjfibkalfphiibf" target="_blank">Chrome Extension</a></strong> to combat this issue by identifying the likelihood of a job listing being a "ghost." Our tool leverages data-driven insights to help job seekers focus their efforts on genuine opportunities, saving them time and energy by analyzing patterns in job listings to detect fake or misleading posts.
+
 
         <br>  
          <a href="https://chromewebstore.google.com/detail/common-resolve/hemkacfkmhldlhpfndjfibkalfphiibf" target="_blank">
