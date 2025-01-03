@@ -49,7 +49,7 @@ tr:nth-child(even) {
         by identifying the likelihood of a job listing being a "ghost." Our tool leverages data-driven insights to help 
         job seekers focus their efforts on genuine opportunities, saving them time and energy by analyzing patterns in job listings to detect fake or misleading posts.
 
-        <br>   </br>
+        <br>  
          <a href="https://chromewebstore.google.com/detail/common-resolve/hemkacfkmhldlhpfndjfibkalfphiibf" target="_blank">
             Download on the Chrome Web Store
         </a> 
