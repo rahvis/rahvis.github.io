@@ -47,9 +47,9 @@ iframe {
 
 <body>
 
-<p>I was an Entrepreneur in Residence (EIR) at <strong><a href="https://www.labs.robinhood.org" target="_blank">Blue Ridge Labs at Robin Hood</a></strong>, as part of the <strong><a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a></strong> (August 2024 - December 2024) where I created <strong><a href="http://wearecommonresolve.com" target="_blank">Common Resolve</a></strong> and <strong><a href="http://yimo.dev" target="_blank">Yimo AI</a></strong>.</p>
+<p>I held the role of Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org" target="_blank">Blue Ridge Labs at Robin Hood</a>, as part of the <a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a> (August 2024 - December 2024) where I created <strong><a href="http://wearecommonresolve.com" target="_blank">Common Resolve</a></strong> and <strong><a href="http://yimo.dev" target="_blank">Yimo AI</a></strong>.</p>
 
-<img src="/images/brl.png" alt="Rahul Vishwakarma" />
+<a href="https://www.labs.robinhood.org" target="_blank"><img src="/images/brl.png" alt="Blue Ridge Labs at Robin Hood" /></a>
 
 <p>The <strong><a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a></strong> is a special 13-week program that helps early-stage tech founders, like myself, grow and shape their ventures into something meaningful, with a focus on building <strong>tech ventures that fight poverty</strong>. I received <strong>$18,000 in funding</strong>, along with <strong>hands-on mentorship</strong> from industry experts who guided me every step of the way. I also had the opportunity to connect and collaborate with other passionate founders in <strong>peer cohorts</strong>, sharing insights and supporting each other’s growth. The program further introduced me to the <strong>Design Insight Group (DIG)</strong>, where I learned from experts who provided real-world perspectives to help refine my products.</p>
 
