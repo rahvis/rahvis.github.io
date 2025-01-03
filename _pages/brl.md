@@ -53,7 +53,7 @@ iframe {
 
 <p>The <strong><a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a></strong> is a special 13-week program that helps early-stage tech founders, like myself, grow and shape their ventures into something meaningful, with a focus on building <strong>tech ventures that fight poverty</strong>. I received <strong>$18,000 in funding</strong>, along with <strong>hands-on mentorship</strong> from industry experts who guided me every step of the way. I also had the opportunity to connect and collaborate with other passionate founders in <strong>peer cohorts</strong>, sharing insights and supporting each other’s growth. The program further introduced me to the <strong>Design Insight Group (DIG)</strong>, where I learned from experts who provided real-world perspectives to help refine my products.</p>
 
-<img src="/images/IMG_0481.jpeg" alt="Rahul Vishwakarma" />
+<img src="/images/IMG_0481.jpg" alt="Rahul Vishwakarma" />
 
 <h2>Common Resolve</h2>
 
