@@ -30,7 +30,7 @@ tr:nth-child(even) {
 
 <body>
 
- <h1>Common Resolve: Tackling Ghost Job Listings</h1>
+ <h2>Common Resolve: Tackling Ghost Job Listings</h2>
 
     <p>
         In current job market, workers face a significant challenge: ghost job listings. 
@@ -40,7 +40,10 @@ tr:nth-child(even) {
         workers but also undermines the efficiency of the entire job market.
     </p>
 
-    <h2>The Solution</h2>
+    <p>
+    Pitch Video: <a href="https://youtu.be/jv3KBVj8ycg?t=1240" target="_blank">Robin Hood's Blue Ridge Labs - Innovation Showcase 2024</a>
+    </p>
+
     <p>
         At <strong>Common Resolve</strong>, we developed a <strong>Chrome Extension</strong> to combat this issue 
         by identifying the likelihood of a job listing being a "ghost." Our tool leverages data-driven insights to help 
@@ -52,7 +55,6 @@ tr:nth-child(even) {
         <li>Continuously refine the tool to adapt to evolving trends in job fraud.</li>
     </ul>
 
-    <h2>Impact</h2>
     <p>
         Since its launch, the <strong>Common Resolve Extension</strong> has empowered workers to make smarter job 
         search decisions by avoiding ghost jobs. This tool is helping workers reclaim their time, ensuring their efforts 
@@ -65,19 +67,12 @@ tr:nth-child(even) {
     </p>
 
     <h2>The Team Behind It</h2>
-    <p>
-        Our mission is driven by a team of dedicated professionals who understand the struggles of job seekers:
-    </p>
-    <ul>
-        <li>
-            <a href="https://www.linkedin.com/in/tahneepantig" target="_blank"><strong>Tahnee Pantig</strong></a>: 
-            Product Designer with a passion for creating equitable solutions for workers.
-        </li>
-        <li>
-            <a href="https://www.linkedin.com/in/marypryor" target="_blank"><strong>Mary Pryor</strong></a>: 
-            Strategist dedicated to addressing inefficiencies in the job market.
-        </li>
-    </ul>
+   <p>
+    Our mission is driven by a team of dedicated professionals who understand the struggles of job seekers. I worked with 
+    <a href="https://www.linkedin.com/in/tahneepantig" target="_blank">Tahnee Pantig</a> (Product Designer), with a passion for creating equitable solutions for workers, and 
+    <a href="https://www.linkedin.com/in/marypryor" target="_blank">Mary Pryor</a> (Strategist), dedicated to addressing inefficiencies in the job market.
+</p>
+ 
     <p>
         Together, we are committed to building tools <strong>for workers, by workers</strong>, because everyone deserves 
         better in today’s job market.
