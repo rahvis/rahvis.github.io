@@ -40,4 +40,15 @@ tr:nth-child(even) {
 
 <p>You can also request a <b>FREE copy of the Book</b> (only for personal use) if you are currently a Student. All you have to do is to sent me an email requesting for a copy of the book usign your student email with .edu domain (this is the only way to confirm you are a student).</p>
 
+<p>
+<!-- Embedded YouTube Video -->
+<div style="margin-top: 20px;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/ooXTD6TxqiY?list=PLDqvvIThxoue2PlE3bU84cKRF3hRN1xJp" 
+          title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</div>
+</p>
+
+
+
 </body>
