@@ -54,11 +54,11 @@ iframe {
 
 <body>
 
-<p>I held the role of Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org" target="_blank">Blue Ridge Labs at Robin Hood</a>, as part of the <a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a> (August 2024 - December 2024) where I created <strong><a href="http://wearecommonresolve.com" target="_blank">Common Resolve</a></strong> and <strong><a href="http://yimo.dev" target="_blank">Yimo AI</a></strong>.</p>
+<p>I held the role of Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org" target="_blank">Blue Ridge Labs at Robin Hood</a>, as part of the <a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a> (August 2024 - December 2024) where I created <strong><a href="http://wearecommonresolve.com" target="_blank">Common Resolve</a></strong>.</p>
 
 <a href="https://www.labs.robinhood.org" target="_blank"><img src="/images/brl.png" alt="Blue Ridge Labs at Robin Hood" /></a>
 
-<p>The <strong><a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a></strong> is a special 13-week program that helps early-stage tech founders, like myself, grow and shape their ventures into something meaningful, with a focus on building <strong>tech ventures that fight poverty</strong>. I received <strong>$18,000 in funding</strong>, along with <strong>hands-on mentorship</strong> from industry experts who guided me every step of the way. I also had the opportunity to connect and collaborate with other passionate founders in <strong>peer cohorts</strong>, sharing insights and supporting each other’s growth. The program further introduced me to the <strong>Design Insight Group (DIG)</strong>, where I learned from experts who provided real-world perspectives to help refine my products.</p>
+<p>The <strong><a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a></strong> is 13-week program that helps early-stage tech founders grow and shape their ventures into something meaningful, with a focus on building <strong>tech ventures that fight poverty</strong>. </p>
 
 <img src="/images/IMG_0481.jpg" alt="Rahul Vishwakarma" />
 
@@ -87,28 +87,5 @@ iframe {
     better in today’s job market.
 </p>
 
-<h2>Yimo AI</h2>
-
-<p>
-    <strong><a href="https://yimo.dev/" target="_blank">Yimo AI</a></strong> is a search engine designed specifically for recruiters looking to hire C-level executives and top talent interns for enterprise companies. I designed and developed this platform to address the challenges of sourcing exceptional candidates in a competitive market.
-</p>
-
-<p>
-    Recruiters often face difficulty identifying top talent, especially when evaluating candidates for leadership roles or impactful internships. Traditional methods primarily rely on resumes and job history, which may not fully capture a candidate's potential. The challenge lies in finding individuals who also demonstrate strong leadership, collaboration, and self-motivation, traits that are critical for senior roles or high-potential internships, apart from only technical skills, for example, programming.
-</p>
-
-<p>
-    Yimo AI addresses this challenge by analyzing and ranking candidates based on their research profiles, including sources like <a href="https://scholar.google.com" target="_blank">Google Scholar</a> and their patent portfolio, which are public domain records. The system extracts signals of leadership, collaboration, and impactful work by evaluating metrics such as citations and self-citations. These weighted metrics are then aggregated with data from LinkedIn, GitHub, and the individual's resume. A demo of the product is available here: <a href="https://demo.yimo.dev/" target="_blank">Yimo AI Demo</a>.
-</p>
-
-<p>
-    The key feature of this approach is the signal extraction from research profiles, which provides a stronger indicator of a candidate's potential than traditional sources. For example, if a candidate has 1000+ citations, but 60% are self-citations, they would rank lower than someone with only 100+ citations but 2-3% self-citations. The process ensures that only the most credible and high-performing individuals are highlighted.
-</p>
-
-<p>
-    A detailed description of the ranking mechanism is available in the <a href="https://github.com/rahvis/google-scholar-analyzer" target="_blank">GitHub repository</a> that I published. The solution has received positive feedback from 8+ recruiters from enterprise companies in New York and California, who are eager to try the product upon its first release.
-</p>
-
-<img src="/images/team.JPG" alt="Rahul Vishwakarma" />
 
 </body>
