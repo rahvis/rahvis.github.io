@@ -5,8 +5,8 @@ main:
  #   url: /news/
 
 
-  - title: "Blue Ridge Labs"
-    url: /brl/  
+ # - title: "Blue Ridge Labs"
+ #   url: /brl/  
 
   - title: "Awards"
     url: /awards/  
