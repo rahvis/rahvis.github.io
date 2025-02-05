@@ -38,7 +38,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-Rahul Deo Vishwakarma (BCS Fellow) is a Senior Machine Learning Engineer at Booth LLC and also worked at Dell and HPE, where he specialized in AI, ML, and cloud-based solutions. He holds an M.S. degree in Computer Science from California State University Long Beach (2024). Prior to his current roles, he worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and at Dell Technologies, where he drove solutions for data protection, assisting customers in safeguarding data with Data Domain (deduplication-based backup storage) while leveraging machine learning across the product stack. 
+Rahul Deo Vishwakarma (BCS Fellow) is a Senior Machine Learning Engineer at Boodh LLC and also worked at Dell and HPE, where he specialized in AI, ML, and cloud-based solutions. He holds an M.S. degree in Computer Science from California State University Long Beach (2024). Prior to his current roles, he worked at Hewlett Packard Enterprise (HPE), where he designed reference architectures for ConvergedSystem for SAP HANA, and at Dell Technologies, where he drove solutions for data protection, assisting customers in safeguarding data with Data Domain (deduplication-based backup storage) while leveraging machine learning across the product stack. 
 
 Rahul's experience extends to multi-cloud AI/ML solutions, including both AWS and Azure, helping customers with migrations, AI architecture, and deep learning solutions. He holds 56 granted U.S. patents in machine learning, data storage, persistent memory, DNA storage, and blockchain.
 </p>
