@@ -50,7 +50,10 @@ Rahul's experience extends to multi-cloud AI/ML solutions, including both AWS an
 <table>
 
 
-
+ <tr>
+    <td style="white-space: nowrap;">Feb 2025</td>
+    <td> Reviewer: ICLR 2025 Workshop AI4NA, ICLR 2025 Workshop DeLTa, and KDD 2025 ADS Track</td>
+  </tr>
 
  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
