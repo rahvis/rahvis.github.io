@@ -38,7 +38,7 @@ tr:nth-child(even) {
 
 
 <p align="justify">
-Rahul Deo Vishwakarma (BCS Fellow) has expertise in machine learning, deep learning, and generative AI, with 59 issued U.S. patents, specializing in architecting scalable solutions for enterprise storage, cloud infrastructure, and data management.
+Rahul Vishwakarma (BCS Fellow) has expertise in machine learning, deep learning, and generative AI, with 59 issued U.S. patents, specializing in architecting scalable solutions for enterprise storage, cloud infrastructure, and data management.
 </p>
 
 
