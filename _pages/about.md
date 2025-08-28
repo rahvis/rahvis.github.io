@@ -49,7 +49,7 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
-    <td> Since 2019, my 11th talk at SNIA SDC 2025 (Santa Clara, CA) in collabodation with Dell Technologies - <a href="https://www.snia.org/sniadeveloper/session/19345" target="_blank"> Design Specification and AI-Driven Digital Twin Architecture for Storage Devices.</a> SNIA Playlist <a href="https://www.youtube.com/watch?v=ekBMasBqzEU&list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">(YouTube)</a>  </td>
+    <td> Since 2019, this is my 11th talk at SNIA SDC 2025 (Santa Clara, CA) in collabodation with Dell Technologies - <a href="https://www.snia.org/sniadeveloper/session/19345" target="_blank"> Design Specification and AI-Driven Digital Twin Architecture for Storage Devices.</a>  </td>
   </tr>
 
 <tr>
