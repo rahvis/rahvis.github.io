@@ -54,7 +54,7 @@ Rahul Vishwakarma (BCS Fellow) has expertise in machine learning, deep learning,
 
 <tr>
     <td style="white-space: nowrap;">Aug 2025</td>
-    <td> Talk @ IEEE Enterprise GenAI Summit 2025 - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering. </a>  Source Code on <a href=https://github.com/rahvis/multi-agent-system" target="_blank"> GitHub </a>, Code walkthrough on <a href="https://substack.com/home/post/p-171766489" target=_blank"> Substack </a> </td>
+    <td> Talk @ IEEE Enterprise GenAI Summit 2025 - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering. </a>  Source Code on <a href="https://github.com/rahvis/multi-agent-system" target="_blank"> GitHub </a>, Code walkthrough on <a href="https://substack.com/home/post/p-171766489" target="_blank"> Substack </a> </td>
   </tr>
 
  <tr>
