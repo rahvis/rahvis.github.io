@@ -121,10 +121,6 @@ Rahul Vishwakarma (BCS Fellow) has expertise in machine learning, deep learning,
     <td> <a href="https://cxotoday.com/story/spotting-the-deepfake/" target="_blank"> Quoted in CXO Today </a> </td>
   </tr>
 
-   <tr>
-    <td style="white-space: nowrap;">Aug 2024</td>
-    <td> <a href="https://businessnewsthisweek.com/news/spotting-the-deepfake/" target="_blank"> Quoted in Business News This Week </a> </td>
-  </tr>
       
   <tr>
     <td style="white-space: nowrap;">Aug 2024</td>
