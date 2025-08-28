@@ -49,17 +49,17 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
-    <td> Since 2019, my 11th talk at SNIA SDC 2025 in collabodation with Dell Technologies - <a href="https://www.snia.org/sniadeveloper/session/19345" target="_blank"> Design Specification and AI-Driven Digital Twin Architecture for Storage Devices.</a> SNIA Playlist <a href="https://www.youtube.com/watch?v=ekBMasBqzEU&list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">(YouTube)</a>  </td>
+    <td> Since 2019, my 11th talk at SNIA SDC 2025 (Santa Clara, CA) in collabodation with Dell Technologies - <a href="https://www.snia.org/sniadeveloper/session/19345" target="_blank"> Design Specification and AI-Driven Digital Twin Architecture for Storage Devices.</a> SNIA Playlist <a href="https://www.youtube.com/watch?v=ekBMasBqzEU&list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">(YouTube)</a>  </td>
   </tr>
 
 <tr>
     <td style="white-space: nowrap;">Aug 2025</td>
-    <td> Talk @ IEEE Enterprise GenAI Summit 2025 - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering.</a>  Source Code on <a href="https://github.com/rahvis/multi-agent-system" target="_blank"> GitHub</a>, Code walkthrough on <a href="https://substack.com/home/post/p-171766489" target="_blank"> Substack </a> </td>
+    <td> Talk @ IEEE Enterprise GenAI Summit 2025 (San Jose, CA) - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering.</a>  Source Code on <a href="https://github.com/rahvis/multi-agent-system" target="_blank"> GitHub</a>, Code walkthrough on <a href="https://substack.com/home/post/p-171766489" target="_blank"> Substack </a> </td>
   </tr>
 
  <tr>
     <td style="white-space: nowrap;">Apr 2025</td>
-    <td> Accepted as Semifinalist at MIST Solve <a href="https://solve.mit.edu/solutions/102300" target="_blank"> 2025 Global Economic Prosperity Challenge </a> </td>
+    <td> Accepted as Semifinalist at MIT Solve <a href="https://solve.mit.edu/solutions/102300" target="_blank"> 2025 Global Economic Prosperity Challenge </a> </td>
   </tr>
 
  <tr>
