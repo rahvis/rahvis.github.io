@@ -48,12 +48,12 @@ Rahul Vishwakarma (BCS Fellow) has expertise in machine learning, deep learning,
 <table>
 
 <tr>
-    <td style="white-space: nowrap;">Apr 2025</td>
+    <td style="white-space: nowrap;">Sep 2025</td>
     <td> Since 2019, my 11th talk at SNIA SDC 2025 in collabodationw ith Dell Technologies - <a href="https://www.snia.org/sniadeveloper/session/19345" target="_blank"> Design Specification and AI-Driven Digital Twin Architecture for Storage Devices </a> </td>
   </tr>
 
 <tr>
-    <td style="white-space: nowrap;">Apr 2025</td>
+    <td style="white-space: nowrap;">Aug 2025</td>
     <td> Talk @ IEEE Enterprise GenAI Summit 2025 - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering </a> </td>
   </tr>
 
