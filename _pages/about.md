@@ -57,10 +57,24 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
     <td> Talk @ IEEE Enterprise GenAI Summit 2025 (San Jose, CA) - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering.</a>  Source Code on <a href="https://github.com/rahvis/multi-agent-system" target="_blank"> GitHub</a>, Code walkthrough on <a href="https://substack.com/home/post/p-171766489" target="_blank"> Substack </a> </td>
   </tr>
 
+
+<tr>
+    <td style="white-space: nowrap;">June 2025</td>
+    <td> Mentored <a href="https://www.curavoice.com" target="_blank">Curavoice</a>, winners of 1st place and a $35,000 award at the <a href="https://www.csulb.edu/news/article/contest-winners-prove-entrepreneurship-open-to-all-at-csulb" target="_blank">2025 Sunstone Innovation Challenge</a> hosted by the Institute for Innovation and Entrepreneurship, California State University, Long Beach.</td>
+  </tr>
+
+
  <tr>
     <td style="white-space: nowrap;">Apr 2025</td>
     <td> Accepted as Semifinalist at MIT Solve <a href="https://solve.mit.edu/solutions/102300" target="_blank"> 2025 Global Economic Prosperity Challenge </a> </td>
   </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Mar 2025</td>
+    <td> Accepted as a Mentor at <a href="https://www.csulb.edu/sunstone-innovation-challenge/mentors" target="_blank">Sunstone Innovation Challenge Mentor Program</a> </td>
+  </tr>
+
 
  <tr>
     <td style="white-space: nowrap;">Feb 2025</td>
