@@ -50,7 +50,7 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
-    <td> Submitted a talk at IEEE New Era AI 2025. <a href="/files/tex/a2a-bio-inspired.pdf" target="_blank"> Abstract</a>, <a href="/files/tex/a2a-bio-inspired-demo.pdf" target="_blank"> Demo</a>   </td>
+    <td> Submitted a talk at IEEE New Era AI 2025 - "Learning Adaptive Multi-Agent Communication Protocols via Bio-Inspired Cellular Signaling Mechanisms" <a href="/files/tex/a2a-bio-inspired.pdf" target="_blank"> Abstract</a>, <a href="/files/tex/a2a-bio-inspired-demo.pdf" target="_blank"> Demo</a>   </td>
   </tr>
 
 
