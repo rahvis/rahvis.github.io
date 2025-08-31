@@ -47,6 +47,13 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 <table>
 
+
+<tr>
+    <td style="white-space: nowrap;">Sep 2025</td>
+    <td> Submitted a talk at IEEE New Era AI 2025. <a href="/files/tex/a2a-bio-inspired.pdf" target="_blank"> Abstract.</a> <a href="/files/tex/a2a-bio-inspired-demo.pdf" target="_blank"> Demo.</a>   </td>
+  </tr>
+
+
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
     <td> Since 2019, this is my 11th talk at SNIA SDC 2025 (Santa Clara, CA) in collabodation with Dell Technologies - <a href="https://www.snia.org/sniadeveloper/session/19345" target="_blank"> Design Specification and AI-Driven Digital Twin Architecture for Storage Devices.</a>  </td>
