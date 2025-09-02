@@ -162,7 +162,7 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
   <tr>
     <td style="white-space: nowrap;">July 2024</td>
-    <td> Ambassador <a href="https://issip.org" target="_blank"> <strong>International Society of Service Innovation Professionals (ISSIP)</strong></a> </td>
+    <td> Ambassador <a href="https://issip.org/issip-welcomes-34-new-issip-ambassadors-on-january-progress-call-2025/" target="_blank"> <strong>International Society of Service Innovation Professionals (ISSIP)</strong></a> </td>
   </tr>
 
 
