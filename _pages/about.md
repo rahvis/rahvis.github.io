@@ -89,16 +89,20 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
   </tr>
 
 
- <tr>
-    <td style="white-space: nowrap;">Nov 2024</td>
-    <td> <a href="https://ruhealthhack.com/mentors" target="_blank"> Mentor at Rutgers Health Hack 2025</a> <a href="https://www.linkedin.com/posts/rahulvishwakarma_rutgers-health-hack24-sets-the-gold-standard-activity-7257582628059389952-z1rC/" target="_blank"> LinkedIn </a>    </td>
-  </tr>
 
 
  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
     <td> <a href="https://edtechmagazine.com/higher/article/2024/11/cybersecurity-automation-helps-short-staffed-higher-ed-it-departments-protect-data" target="_blank"> Quoted in EdTech Magazine </a> Cybersecurity Automation Helps Short-Staffed Higher Ed IT Departments Protect Data </td>
   </tr>
+
+
+ <tr>
+    <td style="white-space: nowrap;">Oct 2024</td>
+    <td> <a href="https://ruhealthhack.com/mentors" target="_blank"> Mentor at Rutgers Health Hack 2025</a> <a href="https://www.linkedin.com/posts/rahulvishwakarma_rutgers-health-hack24-sets-the-gold-standard-activity-7257582628059389952-z1rC/" target="_blank"> LinkedIn </a>    </td>
+  </tr>
+
+
 
  <tr>
     <td style="white-space: nowrap;">Oct 2024</td>
