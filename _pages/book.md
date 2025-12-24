@@ -1,41 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Book"
 permalink: /book/
 author_profile: true
 ---
-
-
-<head>
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "pybe1qy6ku");
-</script>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-
-
-
-<body>
 
 <p>I decided to write this book because when I began filing patents, I noticed a gap in available literature. Existing books either focused solely on the legal aspects of patenting or provided guidelines on generating ideas and innovations. What was missing was a practical example demonstrating how to design an innovative solution for specific problem statements within risk-sensitive domains, particularly in enterprise data storage. Despite the existence of only four books on Conformal Prediction as listed on <a href="https://en.wikipedia.org/wiki/Conformal_prediction#Books" target="_blank">Wikipedia (Conformal prediction)</a>, I recognized the need for a fifth book that would approach the topic from an <b>inventor's perspective</b>, rather than from an academic theory or industrial applications.</p>
 
@@ -55,7 +23,3 @@ tr:nth-child(even) {
   </iframe>
 </div>
 </p>
-
-
-
-</body>

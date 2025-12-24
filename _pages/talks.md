@@ -5,37 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
-<head>
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "pybe1qy6ku");
-</script>
-<style>
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-
-
 YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found <a href="https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">here</a>. <br>
 <a href="https://www.snia.org" target="_blank">SNIA</a> is an industry organization that develops global standards and delivers education on all technologies related to data.
-<body>
 <table>
   <tr>
     <td>Understanding the Reliability of Predictions Made by Machine Learning. (SNIA India) 2019</td>
@@ -65,7 +36,6 @@ YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found
     <td>Effective device thermal management based on dynamic ranking of device cooling needs. (SNIA India) 2022</td>
   </tr>
 </table>
-</body>
 
 The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma" target="_blank">IEEE TV</a>:
 - <a href="https://ieeetv.ieee.org/video/uncertainty-aware-hardware-trojan-detection-using-multimodal-deep-learning" target="_blank">Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning</a> (DATE 2024, acceptance rate 22%)
@@ -82,7 +52,6 @@ The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma
     <img src="/images/snia3.jpeg" alt="Image 5" style="width: 100%; height: 200px; object-fit: cover;">
     <img src="/images/SNIA2023.jpeg" alt="Image 6" style="width: 100%; height: 200px; object-fit: cover;">
 </div>
-
 
 
 

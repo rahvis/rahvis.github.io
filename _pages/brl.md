@@ -1,58 +1,9 @@
 ---
 layout: archive
-title: ""
+title: "Blue Ridge Labs"
 permalink: /brl/
 author_profile: true
 ---
-
-<head>
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "pybe1qy6ku");
-</script>
-<style>
-/* Table Styles */
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-
-/* Image Styles */
-img {
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 10px 0;
-}
-
-/* Video Styles */
-iframe {
-  max-width: 100%;
-  height: 315px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-</style>
-</head>
-
-<body>
 
 <p>I held the role of Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org" target="_blank">Blue Ridge Labs at Robin Hood</a>, as part of the <a href="https://www.labs.robinhood.org/our-programs/launch-fellowship" target="_blank">Launch Fellowship</a> (August 2024 - December 2024) where I created <strong><a href="http://wearecommonresolve.com" target="_blank">Common Resolve</a></strong>.</p>
 
@@ -87,5 +38,3 @@ iframe {
     better in today’s job market.
 </p>
 
-
-</body>

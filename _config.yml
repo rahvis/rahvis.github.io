@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rahul Vishwakarma"
 title_separator          : "-"
 name                     : &name "Rahul Vishwakarma"
-description              : &description "personal description"
+description              : &description "Rahul Vishwakarma — Chief Technology Officer at WorkOnward. Machine learning, deep learning, and generative AI."
 url                      : https://rahvis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rahvis/rahvis.github.io"
@@ -62,7 +62,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  "site-logo.png"# Open Graph/Twitter default site image
+og_image                 :  "rahul_headshot.jpeg" # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -310,14 +310,14 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-redirect-from
-# - jekyll-feed
+  - jekyll-feed
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jemoji
-# - jekyll-feed
+  - jekyll-feed
  
 
 # Archives
