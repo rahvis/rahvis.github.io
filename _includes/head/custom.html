@@ -28,12 +28,30 @@
 <meta name="theme-color" content="#ffffff">
 <link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
 
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "@id": "{{ base_path }}/#profile",
+  "url": "{{ base_path }}/",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ base_path }}/#rahul-vishwakarma",
+    "name": "Rahul Vishwakarma"
+  }
+}
+</script>
+{% endif %}
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Person",
+  "@id": "{{ base_path }}/#rahul-vishwakarma",
   "name": "Rahul Vishwakarma",
-  "url": "https://rahvis.github.io",
+  "url": "{{ base_path }}/",
+  "image": "{{ base_path }}/images/rahul_headshot.jpeg",
   "sameAs": [
     "https://www.wikidata.org/wiki/Q137569035",
     "https://www.linkedin.com/in/rahulvishwakarma/",
