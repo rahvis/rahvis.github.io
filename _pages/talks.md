@@ -2,8 +2,11 @@
 layout: archive
 title: "Invited Talks"
 permalink: /talks/
+description: "Invited talks and presentations by Rahul Vishwakarma at IEEE conferences (DATE, ICCAD), SNIA SDC, IEEE TV, and CSULB College of Engineering commencement. Topics include hardware security, machine learning, and AI."
+keywords: "Rahul Vishwakarma talks, IEEE TV, SNIA SDC, DATE conference, ICCAD conference, hardware trojan detection, machine learning talks, AI presentations, commencement speaker"
 author_profile: true
 ---
+
 
 YouTube playlist of 9 talks delivered at **SNIA SDC** (2019 - 2023) can be found <a href="https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa" target="_blank">here</a>. <br>
 <a href="https://www.snia.org" target="_blank">SNIA</a> is an industry organization that develops global standards and delivers education on all technologies related to data.

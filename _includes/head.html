@@ -4,12 +4,40 @@
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<!-- Global JSON-LD Schema -->
+{% include schema.html %}
+
+<!-- Page-specific JSON-LD Schema -->
+{% if page.url == "/awards/" %}
+{% include schema-awards.html %}
+{% elsif page.url == "/patents/" %}
+{% include schema-patents.html %}
+{% elsif page.url == "/talks/" %}
+{% include schema-talks.html %}
+{% elsif page.url == "/book/" %}
+{% include schema-book.html %}
+{% elsif page.url == "/teaching/" %}
+{% include schema-teaching.html %}
+{% elsif page.url == "/publications/" %}
+{% include schema-publications.html %}
+{% endif %}
+
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"
+  type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Additional SEO Meta Tags -->
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<meta name="googlebot" content="index, follow">
+<meta name="author" content="Rahul Vishwakarma">
+<meta name="copyright" content="Rahul Vishwakarma">
+
+<!-- LLMs.txt Reference for GEO -->
+<link rel="alternate" type="text/plain" href="{{ base_path }}/llms.txt" title="LLMs.txt">
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';

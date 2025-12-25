@@ -1,0 +1,195 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Teaching Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{ seo_url }}/teaching/",
+  "name": "Teaching Assistant and Co-instructor - Rahul Vishwakarma",
+  "description": "Teaching experience of Rahul Vishwakarma at California State University, Long Beach including AI, Machine Learning, Pattern Recognition, and Discrete Structures courses.",
+  "url": "{{ seo_url }}/teaching/",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Courses Taught by Rahul Vishwakarma",
+    "numberOfItems": 5,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Course",
+          "name": "CECS 551 - Advanced Artificial Intelligence",
+          "description": "Advanced concepts in artificial intelligence including knowledge representation, fuzzy logic, Dempster-Shafer theory, real-time expert systems, and neural networks.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "California State University, Long Beach",
+            "sameAs": "https://www.csulb.edu"
+          },
+          "educationalLevel": "Graduate",
+          "teaches": ["Knowledge Representation", "Fuzzy Logic", "Neural Networks", "Expert Systems", "Dempster-Shafer Theory"],
+          "courseCode": "CECS 551",
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "onsite",
+            "instructor": {
+              "@id": "{{ seo_url }}/#person"
+            },
+            "startDate": "2023-08",
+            "endDate": "2023-12"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Course",
+          "name": "CECS 550 - Pattern Recognition",
+          "description": "General concepts of pattern recognition and trainable classifiers, decision theory, supervised learning, non-parametric techniques, and neural networks.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "California State University, Long Beach"
+          },
+          "educationalLevel": "Graduate",
+          "teaches": ["Pattern Recognition", "Classifiers", "Decision Theory", "Supervised Learning", "Neural Networks"],
+          "courseCode": "CECS 550",
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "onsite",
+            "instructor": {
+              "@id": "{{ seo_url }}/#person"
+            },
+            "startDate": "2023-01",
+            "endDate": "2023-05"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Course",
+          "name": "CECS 456 - Machine Learning",
+          "description": "Introduction to machine learning and its applications, including supervised and unsupervised learning, deep learning, regression, classification, and neural networks.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "California State University, Long Beach"
+          },
+          "educationalLevel": "Undergraduate",
+          "teaches": ["Machine Learning", "Deep Learning", "Regression", "Classification", "Neural Networks"],
+          "courseCode": "CECS 456",
+          "hasCourseInstance": [
+            {
+              "@type": "CourseInstance",
+              "courseMode": "onsite",
+              "instructor": {
+                "@id": "{{ seo_url }}/#person"
+              },
+              "startDate": "2022-08",
+              "endDate": "2022-12"
+            },
+            {
+              "@type": "CourseInstance",
+              "courseMode": "onsite",
+              "instructor": {
+                "@id": "{{ seo_url }}/#person"
+              },
+              "startDate": "2023-01",
+              "endDate": "2023-05"
+            }
+          ]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "Course",
+          "name": "CECS 451 - Artificial Intelligence",
+          "description": "Introduction to artificial intelligence including search, constraint satisfaction, game-playing, logical agents, belief networks, and optimal sequential decision systems.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "California State University, Long Beach"
+          },
+          "educationalLevel": "Undergraduate",
+          "teaches": ["Artificial Intelligence", "Search Algorithms", "Constraint Satisfaction", "Game Playing", "Logical Agents"],
+          "courseCode": "CECS 451",
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "onsite",
+            "instructor": {
+              "@id": "{{ seo_url }}/#person"
+            },
+            "startDate": "2023-01",
+            "endDate": "2023-05"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "Course",
+          "name": "CECS 229 - Discrete Structures",
+          "description": "Computing applications of discrete structures including computer arithmetic, matrices, and programming assignments in Python.",
+          "provider": {
+            "@type": "EducationalOrganization",
+            "name": "California State University, Long Beach"
+          },
+          "educationalLevel": "Undergraduate",
+          "teaches": ["Discrete Mathematics", "Computer Arithmetic", "Matrices", "Python Programming"],
+          "courseCode": "CECS 229",
+          "hasCourseInstance": {
+            "@type": "CourseInstance",
+            "courseMode": "onsite",
+            "instructor": {
+              "@id": "{{ seo_url }}/#person"
+            },
+            "startDate": "2022-08",
+            "endDate": "2022-12"
+          }
+        }
+      }
+    ]
+  },
+  "about": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ seo_url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Teaching",
+        "item": "{{ seo_url }}/teaching/"
+      }
+    ]
+  }
+}
+</script>
+
+<!-- EducationalOccupationalCredential for Teaching -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOccupationalCredential",
+  "name": "Teaching Assistant and Co-instructor Experience",
+  "description": "Teaching experience at California State University, Long Beach in Computer Science courses including AI, Machine Learning, and Pattern Recognition.",
+  "credentialCategory": "Teaching Experience",
+  "recognizedBy": {
+    "@type": "EducationalOrganization",
+    "name": "California State University, Long Beach",
+    "sameAs": "https://www.csulb.edu"
+  },
+  "competencyRequired": ["Artificial Intelligence", "Machine Learning", "Pattern Recognition", "Discrete Mathematics"]
+}
+</script>

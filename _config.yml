@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               : "vishwr9"
 facebook:
   username               :
   app_id                 :
@@ -66,9 +66,15 @@ og_image                 :  "rahul_headshot.jpeg" # Open Graph/Twitter default s
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
+  type                   : "Person"
+  name                   : "Rahul Vishwakarma"
+  links:
+    - "https://www.linkedin.com/in/rahulvishwakarma"
+    - "https://x.com/vishwr9"
+    - "https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao"
+    - "https://patents.google.com/?inventor=Rahul+Vishwakarma"
+    - "https://github.com/rahvis"
+    - "https://www.youtube.com/@ahulvishwakarma4413"
 
 
 
@@ -84,7 +90,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao"
-  email            : "rahuldeo.vishwakarma01@student.csulb.edu"
+  email            : "rahul.vishwakarma@ieee.org"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -100,13 +106,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "rahulvishwakarma"
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6452-1612"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "vishwr9"
   vine             :
   weibo            :
   xing             :

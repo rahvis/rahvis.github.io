@@ -1,0 +1,344 @@
+---
+layout: null
+permalink: /llms-full.txt
+---
+# Rahul Vishwakarma - Complete Knowledge Base
+
+> Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents | Machine Learning Expert | Generative AI Specialist
+
+================================================================================
+## PROFESSIONAL SUMMARY
+================================================================================
+
+Rahul Vishwakarma (BCS Fellow, IEEE Senior Member) is a distinguished technology leader and innovator with deep expertise in machine learning, deep learning, generative AI, and agentic AI systems. He currently serves as Chief Technology Officer at WorkOnward, where he architects scalable solutions for enterprise applications.
+
+With over 60 granted U.S. patents in artificial intelligence, machine learning, and enterprise data storage, Rahul stands among the top 0.54% of inventors with 50-99 granted patents. His patents cover diverse applications including machine learning techniques in data analysis, smart data management, hardware health monitoring, anomaly detection, and system upgrade management.
+
+================================================================================
+## CURRENT POSITION
+================================================================================
+
+**Chief Technology Officer (CTO)**
+WorkOnward | https://www.workonward.com
+- Leading technology strategy and innovation for AI-powered recruitment platforms
+- Developing agentic AI systems for enterprise HR technology applications
+- Building next-generation Agent-to-Agent (A2A) communication protocols
+- Architecting scalable cloud infrastructure for enterprise solutions
+
+================================================================================
+## EDUCATION
+================================================================================
+
+**Master of Science in Computer Science**
+California State University, Long Beach | Graduated May 2024
+- Graduate Dean's List (Top 1%)
+- Outstanding Graduate Research, Scholarly, and Creative Activity (RSCA) Award
+- Student Commencement Speaker, College of Engineering 2024
+- Teaching Assistant for AI, ML, and Pattern Recognition courses
+- Founded AI Research Club at CSULB (March 2024)
+
+================================================================================
+## PROFESSIONAL CREDENTIALS & MEMBERSHIPS
+================================================================================
+
+1. **BCS Fellow** - British Computer Society (August 2024)
+2. **IEEE Senior Member** - Member #99106509 (September 2023)
+3. **IEEE Computer Society** - Professional Member
+4. **ACM** - Association for Computing Machinery, Student Member #8875839
+5. **ISSIP Ambassador** - International Society of Service Innovation Professionals (2025)
+6. **IEEE Impact Creator** - Featured in IEEE Transmitter
+
+================================================================================
+## PATENTS (60+ Granted U.S. Patents)
+================================================================================
+
+Rahul holds over 60 granted U.S. patents assigned to EMC IP Holding Company LLC (Dell Technologies). These innovations span:
+
+**Domains:**
+- Artificial Intelligence and Machine Learning
+- Enterprise Data Storage and Management
+- Cloud Infrastructure and Distributed Systems
+- Hardware Health Monitoring and Predictive Maintenance
+- Anomaly Detection and Security
+
+**Notable Patent:**
+U.S. Patent 11,513,931 - "Anomaly aware log retrieval from disk array enclosures"
+- Issued: November 29, 2022
+- Successfully implemented in Dell PowerProtect Data Domain
+
+**Full Patent List:**
+https://patents.google.com/?inventor=Rahul+Deo+Vishwakarma,Rahul+Vishwakarma&assignee=EMC+IP+Holding+Company+LLC
+
+================================================================================
+## RESEARCH & PUBLICATIONS
+================================================================================
+
+Published in top-tier venues with rigorous peer review:
+
+**IEEE/ACM Conferences:**
+1. "Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning"
+   - Venue: DATE 2024 (Design Automation and Test in Europe)
+   - Acceptance Rate: 22%
+   - Featured on IEEE TV
+
+2. "Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection"
+   - Venue: ICCAD 2023 (International Conference on Computer-Aided Design)
+   - Acceptance Rate: 23%
+   - Featured on IEEE TV
+
+3. "SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning"
+   - Venue: ICAC 2024 (International Conference on Automation and Computing)
+   - Collaboration with Google and Tubi TV
+
+**Google Scholar Profile:**
+https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao
+
+================================================================================
+## BOOK AUTHORSHIP
+================================================================================
+
+**"Conformal Prediction for Inventors"**
+- Publisher: Available on Amazon
+- ISBN: 9334114894
+- Link: https://www.amazon.com/dp/9334114894
+
+**About the Book:**
+A practical guide demonstrating how to design innovative solutions using conformal prediction in risk-sensitive domains, particularly enterprise data storage. This is the fifth book on Conformal Prediction (as listed on Wikipedia) and approaches the topic from an inventor's perspective rather than academic theory.
+
+**Free Copy:** Available for students with valid .edu email addresses
+
+================================================================================
+## SPEAKING ENGAGEMENTS
+================================================================================
+
+**IEEE TV Featured Talks:**
+- Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning (DATE 2024)
+- Risk-Aware and Explainable Framework for Hardware Trojan Detection (ICCAD 2023)
+
+**SNIA Storage Developer Conference (2019-2024):**
+10+ talks delivered at SNIA SDC conferences in USA, EMEA, and India:
+
+1. Understanding the Reliability of Predictions Made by Machine Learning (SNIA India 2019)
+2. New Perspective on Machine Learning Predictions Under Uncertainty (SNIA USA 2019)
+3. Rethinking Blockchain in Storage (SNIA India 2020)
+4. Ranking based Dynamic Hot Sparing (SNIA India 2021)
+5. Transforming Monolith to Microservices (SNIA India 2021)
+6. Smart Contract for DNA Based Archival Storage (SNIA EMEA 2022)
+7. Certainty to Enterprise Disk-Drive Failure Management with Conformal Prediction (SNIA EMEA 2022)
+8. Power of Chaos: Long-term Security for Post-quantum Era (SNIA USA 2022)
+9. Effective Device Thermal Management Based on Dynamic Ranking (SNIA India 2022)
+10. Fortifying AIOps: CSAF and VEX Unite for Smarter Security (SNIA SDC 2024)
+11. Design Specification and AI-Driven Digital Twin Architecture for Storage Devices (SNIA SDC 2025)
+
+**IEEE Enterprise GenAI Summit 2025:**
+- Talk: "AAA-IDE: Autonomous Agentic AI for Data Engineering"
+- Location: San Jose, CA
+- Source Code: https://github.com/rahvis/multi-agent-system
+
+**Commencement Speech:**
+Student Commencement Speaker at CSULB College of Engineering (May 2024)
+- Video: https://youtu.be/kqFHBtrKq3c?t=5858
+
+**YouTube Playlist (SNIA Talks):**
+https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa
+
+================================================================================
+## TEACHING EXPERIENCE
+================================================================================
+
+**California State University, Long Beach (2022-2023)**
+Teaching Assistant and Co-instructor for:
+
+1. **CECS 551 - Advanced Artificial Intelligence** (Graduate, Fall 2023)
+   - Advanced concepts: fuzzy logic, Dempster-Shafer theory, neural networks
+
+2. **CECS 550 - Pattern Recognition** (Graduate, Spring 2023)
+   - Trainable classifiers, decision theory, neural networks
+
+3. **CECS 456 - Machine Learning** (Undergraduate, Fall 2022 & Spring 2023)
+   - Supervised/unsupervised learning, deep learning, neural networks
+
+4. **CECS 451 - Artificial Intelligence** (Undergraduate, Spring 2023)
+   - Search, constraint satisfaction, game-playing, logical agents
+
+5. **CECS 229 - Discrete Structures** (Undergraduate, Fall 2022)
+   - Computer arithmetic, matrices, Python programming assignments
+
+================================================================================
+## AWARDS & RECOGNITION
+================================================================================
+
+**Academic Awards:**
+- Outstanding Graduate Research, Scholarly, and Creative Activity Award ($500) - CSULB 2024
+- Graduate Dean's List (Top 1%) - CSULB 2024
+- DAC Young Fellows Program - 60th Design Automation Conference ($840)
+- ICCAD 2023 Student Scholar Program Travel Grant ($600)
+- NSF Student Travel Grant - HOST 2023
+- ASI Student Travel Grant ($900) - CSULB
+
+**Industry Awards:**
+- Dell Patent Award ($250,000) - Long Term Incentive and Restricted Stock Units (2021-2022)
+- Recognition for Innovation - Dell Technologies (2019, 2021)
+- Patent Filing Milestone Award - Dell Technologies (2020)
+- GITC Patent Mentoring Recognition - Dell Technologies (2021)
+
+**Entrepreneurship:**
+- MIT Solve 2025 Global Economic Prosperity Challenge - Semifinalist
+- Sunstone Innovation Challenge - $5,000 Award for Mindful Performance (April 2024)
+- Sunstone Innovation Challenge - $35,000 Award (Mentored Curavoice, 1st Place 2025)
+
+**Recognition:**
+- Entrepreneur in Residence - Blue Ridge Labs @ Robin Hood (August 2024)
+- IEEE Impact Creator (May 2024)
+- Entrepreneur Spotlight - CSULB Institute for Innovation & Entrepreneurship
+
+================================================================================
+## MENTORSHIP & JUDGING
+================================================================================
+
+**Mentorship:**
+- Sunstone Innovation Challenge Mentor Program, CSULB (2025)
+- Rutgers Health Hack 2025 Mentor
+- Mentored Curavoice - Winners of $35,000 at Sunstone Innovation Challenge
+
+**Judging:**
+- 2024 Grand Award Judge - Regeneron ISEF ($9 million in awards)
+- 2024 MarinaHacks Mini 3.5 - CSULB's Women-Centric Hackathon
+- Stevie Award for Technology Excellence (2024)
+
+================================================================================
+## TECHNICAL PROGRAM COMMITTEE & REVIEWING
+================================================================================
+
+**TPC Member:**
+- COPA 2024 - 13th Symposium on Conformal and Probabilistic Prediction
+- IEEE CSR 2024 - International Conference on Cyber Security and Resilience
+- IEEE PAINE 2024 - Physical Assurance and Inspection of Electronics
+
+**Journal Reviewer:**
+- IEEE Access (Impact Factor 3.9)
+- Artificial Intelligence and Applications
+
+**Conference Reviewer:**
+40+ papers reviewed for:
+- GLSVLSI 2023, ICCAD 2023, ISQED 2023, ASP-DAC 2023
+- CIS 2023, ICIVC 2023, CSCT 2023, ICCIS 2023
+- PEIS 2024, CML 2024, BIDA 2024, PCCDA 2024, CVR 2024
+- WCSC 2024, IEEE ICECET 2024
+- ICLR 2025 Workshop AI4NA, ICLR 2025 Workshop DeLTa, KDD 2025 ADS Track
+
+**Book Reviewer:**
+- "Practical Guide to Applied Conformal Prediction in Python" by Valery Manokhin (Packt Publishing, 2023)
+
+================================================================================
+## MEDIA COVERAGE & QUOTES
+================================================================================
+
+**Communications of the ACM (CACM):**
+Quoted on NIST's ARIA (Assessing Risks and Impacts of AI) program
+
+**IEEE Transmitter:**
+- "Spotting the Deepfake" (July 2024)
+- Quoted by @IEEEorg on X for NIST ARIA (344.9K followers)
+- Quoted on Quantum Safe Cryptography
+
+**Technology Publications:**
+- EdTech Magazine - "Cybersecurity Automation Helps Short-Staffed Higher Ed IT Departments Protect Data"
+- Techopedia - "Why Zero Trust Needs MFA to Succeed: Expert Analysis"
+- CXO Today - "Spotting the Deepfake"
+
+**University Features:**
+- CSULB Office of the Provost - University Achievement Awards
+- CSULB Making Waves Newsletter (March 2024)
+- CSULB AI Research Club Launch Announcement
+
+================================================================================
+## EXPERTISE AREAS
+================================================================================
+
+**Artificial Intelligence:**
+- Machine Learning & Deep Learning
+- Generative AI & Large Language Models (LLMs)
+- Agentic AI & Multi-Agent Systems
+- Agent-to-Agent (A2A) Communication Protocols
+- Conformal Prediction & Uncertainty Quantification
+- Neural Networks & Pattern Recognition
+
+**Security:**
+- Hardware Trojan Detection
+- Deepfake Detection
+- Post-Quantum Cryptography
+- Zero Trust Architecture
+- Cybersecurity Automation
+
+**Enterprise Systems:**
+- Cloud Infrastructure Architecture
+- Data Storage Systems
+- AIOps & Intelligent Operations
+- Microservices Architecture
+- Distributed Systems
+
+**Emerging Technologies:**
+- Blockchain & Smart Contracts
+- DNA-based Archival Storage
+- Digital Twins for Hardware
+- Bio-inspired AI Signaling
+
+================================================================================
+## ENTREPRENEURSHIP
+================================================================================
+
+**WorkOnward** (Current)
+Chief Technology Officer
+https://www.workonward.com
+
+**Mindful Performance**
+Founder - Awarded $5,000 at Sunstone Innovation Challenge
+https://www.crunchbase.com/organization/mindfulperformance
+
+**Curavoice** (Mentored)
+Winners of 1st place and $35,000 at 2025 Sunstone Innovation Challenge
+https://www.curavoice.com
+
+================================================================================
+## CONTACT INFORMATION
+================================================================================
+
+**Website:** https://rahvis.github.io
+**Email:** rahuldeo.vishwakarma01@student.csulb.edu
+**Location:** Los Angeles, California
+
+**Social Profiles:**
+- LinkedIn: https://www.linkedin.com/in/rahulvishwakarma
+- Twitter/X: https://x.com/vishwr9
+- GitHub: https://github.com/rahvis
+- Google Scholar: https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao
+- Google Patents: https://patents.google.com/?inventor=Rahul+Vishwakarma
+- Instagram: https://instagram.com/rah.vish
+- IEEE TV: https://ieeetv.ieee.org/speaker/rahul-vishwakarma
+
+================================================================================
+## WEBSITE PAGES
+================================================================================
+
+- Home: https://rahvis.github.io/
+- Awards: https://rahvis.github.io/awards/
+- Patents: https://rahvis.github.io/patents/
+- Talks: https://rahvis.github.io/talks/
+- Book: https://rahvis.github.io/book/
+- Publications: https://rahvis.github.io/publications/
+- Teaching: https://rahvis.github.io/teaching/
+- Contact: https://rahvis.github.io/contact/
+- Sitemap: https://rahvis.github.io/sitemap/
+
+================================================================================
+## KEYWORDS FOR AI DISCOVERY
+================================================================================
+
+Rahul Vishwakarma, Chief Technology Officer, CTO, WorkOnward, IEEE Senior Member, BCS Fellow, ISSIP Ambassador, Machine Learning Expert, Deep Learning, Generative AI, Agentic AI, Multi-Agent Systems, A2A Protocol, Agent-to-Agent Communication, Conformal Prediction, Uncertainty Quantification, Hardware Trojan Detection, U.S. Patents, Patent Holder, Inventor, California State University Long Beach, CSULB, Data Storage, Enterprise AI, AIOps, LLM, Large Language Models, AI Ethics, Responsible AI, NIST ARIA, Hardware Security, Cybersecurity, Post-Quantum Cryptography, Neural Networks, Pattern Recognition, IEEE Impact Creator, Entrepreneur, Startup CTO, HR Technology, Recruitment AI
+
+================================================================================
+## LAST UPDATED
+================================================================================
+
+December 2024

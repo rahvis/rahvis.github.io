@@ -1,0 +1,222 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Talks Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{ seo_url }}/talks/",
+  "name": "Invited Talks - Rahul Vishwakarma",
+  "description": "Invited talks and presentations by Rahul Vishwakarma at IEEE conferences, SNIA SDC, DATE, ICCAD, and university commencements.",
+  "url": "{{ seo_url }}/talks/",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Speaking Engagements by Rahul Vishwakarma",
+    "numberOfItems": 15,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Event",
+          "name": "Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning",
+          "description": "Technical presentation on uncertainty-aware hardware trojan detection using multimodal deep learning approaches.",
+          "startDate": "2024",
+          "location": {
+            "@type": "Place",
+            "name": "DATE 2024 - Design Automation and Test in Europe"
+          },
+          "performer": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "recordedIn": {
+            "@type": "VideoObject",
+            "name": "Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning",
+            "url": "https://ieeetv.ieee.org/video/uncertainty-aware-hardware-trojan-detection-using-multimodal-deep-learning",
+            "thumbnailUrl": "{{ seo_url }}/images/rahul_headshot.jpeg",
+            "uploadDate": "2024",
+            "publisher": {
+              "@type": "Organization",
+              "name": "IEEE TV",
+              "sameAs": "https://ieeetv.ieee.org"
+            }
+          },
+          "superEvent": {
+            "@type": "Event",
+            "name": "DATE 2024",
+            "description": "Design Automation and Test in Europe Conference with 22% acceptance rate"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "Event",
+          "name": "Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection",
+          "description": "Technical presentation on risk-aware and explainable framework for hardware trojan detection.",
+          "startDate": "2023",
+          "location": {
+            "@type": "Place",
+            "name": "ICCAD 2023 - International Conference on Computer-Aided Design",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "San Francisco",
+              "addressRegion": "CA",
+              "addressCountry": "US"
+            }
+          },
+          "performer": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "recordedIn": {
+            "@type": "VideoObject",
+            "name": "Risk-Aware and Explainable Framework for Hardware Trojan Detection",
+            "url": "https://ieeetv.ieee.org/video/risk-aware-and-explainable-framework-for-ensuring-guaranteed-coverage-in-evolving-hardware-trojan-detection",
+            "publisher": {
+              "@type": "Organization",
+              "name": "IEEE TV"
+            }
+          },
+          "superEvent": {
+            "@type": "Event",
+            "name": "ICCAD 2023",
+            "description": "International Conference on Computer-Aided Design with 23% acceptance rate"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "Event",
+          "name": "Student Commencement Speech - College of Engineering",
+          "description": "Student Commencement Speaker at California State University, Long Beach College of Engineering graduation ceremony.",
+          "startDate": "2024-05",
+          "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+          "location": {
+            "@type": "Place",
+            "name": "California State University, Long Beach",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Long Beach",
+              "addressRegion": "CA",
+              "addressCountry": "US"
+            }
+          },
+          "performer": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "recordedIn": {
+            "@type": "VideoObject",
+            "name": "CSULB College of Engineering Commencement 2024",
+            "url": "https://youtu.be/kqFHBtrKq3c?t=5858",
+            "uploadDate": "2024-05",
+            "publisher": {
+              "@type": "EducationalOrganization",
+              "name": "California State University, Long Beach"
+            }
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "item": {
+          "@type": "Event",
+          "name": "AAA-IDE: Autonomous Agentic AI for Data Engineering",
+          "description": "Talk on autonomous agentic AI for data engineering at IEEE Enterprise GenAI Summit.",
+          "startDate": "2025-08",
+          "location": {
+            "@type": "Place",
+            "name": "IEEE Enterprise GenAI Summit 2025",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "San Jose",
+              "addressRegion": "CA",
+              "addressCountry": "US"
+            }
+          },
+          "performer": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "superEvent": {
+            "@type": "Event",
+            "name": "IEEE Enterprise GenAI Summit 2025",
+            "url": "https://ieee-genai.conferences.computer.org/2025/"
+          }
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "item": {
+          "@type": "Event",
+          "name": "SNIA SDC Talks (2019-2024)",
+          "description": "10+ talks delivered at SNIA Storage Developer Conference covering machine learning, blockchain, and enterprise storage topics.",
+          "startDate": "2019",
+          "endDate": "2024",
+          "location": {
+            "@type": "Place",
+            "name": "SNIA Storage Developer Conference"
+          },
+          "performer": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "recordedIn": {
+            "@type": "VideoObject",
+            "name": "SNIA SDC Talks Playlist",
+            "url": "https://www.youtube.com/playlist?list=PLDqvvIThxoueOJyjtLx-ldMjQihLisKNa",
+            "publisher": {
+              "@type": "Organization",
+              "name": "SNIA",
+              "sameAs": "https://www.snia.org"
+            }
+          }
+        }
+      }
+    ]
+  },
+  "about": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ seo_url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Talks",
+        "item": "{{ seo_url }}/talks/"
+      }
+    ]
+  }
+}
+</script>
+
+<!-- VideoObject for IEEE TV Speaker Profile -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "VideoObject",
+  "name": "Rahul Vishwakarma - IEEE TV Speaker Profile",
+  "description": "Collection of technical talks by Rahul Vishwakarma featured on IEEE TV covering hardware security and machine learning topics.",
+  "thumbnailUrl": "{{ seo_url }}/images/rahul_headshot.jpeg",
+  "url": "https://ieeetv.ieee.org/speaker/rahul-vishwakarma",
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "IEEE TV",
+    "sameAs": "https://ieeetv.ieee.org"
+  }
+}
+</script>

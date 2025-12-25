@@ -1,0 +1,125 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Patents Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{ seo_url }}/patents/",
+  "name": "Patents - Rahul Vishwakarma",
+  "description": "Over 60 granted U.S. patents in artificial intelligence, machine learning, and enterprise data storage by Rahul Vishwakarma.",
+  "url": "{{ seo_url }}/patents/",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "U.S. Patents by Rahul Vishwakarma",
+    "description": "Collection of 60+ granted U.S. patents covering AI, machine learning, data storage, anomaly detection, and system management innovations.",
+    "numberOfItems": 60,
+    "itemListOrder": "https://schema.org/ItemListOrderDescending",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "Patent",
+          "name": "Anomaly aware log retrieval from disk array enclosures",
+          "description": "Method and system for anomaly-aware log retrieval from disk array enclosures. Successfully implemented in Dell PowerProtect Data Domain.",
+          "patentNumber": "US11513931B2",
+          "datePublished": "2022-11-29",
+          "url": "https://patents.google.com/patent/US11513931B2",
+          "assignee": {
+            "@type": "Organization",
+            "name": "EMC IP Holding Company LLC"
+          },
+          "inventor": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "countryOfOrigin": "US"
+        }
+      }
+    ]
+  },
+  "about": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "significantLink": "https://patents.google.com/?inventor=Rahul+Deo+Vishwakarma,Rahul+Vishwakarma&assignee=EMC+IP+Holding+Company+LLC",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ seo_url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Patents",
+        "item": "{{ seo_url }}/patents/"
+      }
+    ]
+  }
+}
+</script>
+
+<!-- Patent Statistics Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Rahul Vishwakarma Patent Portfolio",
+  "description": "Statistical overview of Rahul Vishwakarma's patent portfolio with 60+ granted U.S. patents, placing him in the top 0.54% of inventors with 50-99 patents.",
+  "url": "{{ seo_url }}/patents/",
+  "creator": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "distribution": {
+    "@type": "DataDownload",
+    "contentUrl": "https://patents.google.com/?inventor=Rahul+Vishwakarma",
+    "encodingFormat": "text/html"
+  },
+  "keywords": ["U.S. Patents", "Artificial Intelligence", "Machine Learning", "Data Storage", "Enterprise Technology", "Innovation"],
+  "variableMeasured": [
+    {
+      "@type": "PropertyValue",
+      "name": "Total Granted Patents",
+      "value": "60+",
+      "unitText": "patents"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Inventor Percentile",
+      "value": "Top 0.54%",
+      "description": "Among inventors with 50-99 granted U.S. patents"
+    }
+  ]
+}
+</script>
+
+<!-- CreativeWork for Patent Portfolio -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "Rahul Vishwakarma's Innovation Portfolio",
+  "description": "60+ U.S. patents in artificial intelligence, machine learning, data storage, anomaly detection, hardware health monitoring, and system management.",
+  "creator": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "about": [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Enterprise Data Storage",
+    "Anomaly Detection",
+    "Hardware Health Monitoring",
+    "System Upgrade Management",
+    "Smart Data Management"
+  ],
+  "copyrightHolder": {
+    "@type": "Organization",
+    "name": "EMC IP Holding Company LLC"
+  },
+  "sameAs": "https://patents.google.com/?inventor=Rahul+Vishwakarma"
+}
+</script>

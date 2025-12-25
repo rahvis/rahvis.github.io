@@ -2,7 +2,48 @@
 layout: null
 permalink: /robots.txt
 ---
+# robots.txt for https://rahvis.github.io
+# Rahul Vishwakarma - CTO, Research Engineer, Inventor, BCS Fellow
+
 User-agent: *
 Allow: /
 
+# Sitemap
 Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+
+# LLMs.txt for AI/LLM crawlers (Generative Engine Optimization)
+# See https://llmstxt.org for specification
+# AI crawlers should also check /llms.txt and /llms-full.txt
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Cohere-AI
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+# Disallow sensitive directories
+User-agent: *
+Disallow: /_drafts/
+Disallow: /node_modules/
+Disallow: /.git/

@@ -2,8 +2,11 @@
 layout: archive
 title: "Patents"
 permalink: /patents/
+description: "60+ granted U.S. patents by Rahul Vishwakarma in artificial intelligence, machine learning, enterprise data storage, anomaly detection, and system management. Including US Patent 11,513,931 implemented in Dell PowerProtect."
+keywords: "Rahul Vishwakarma patents, U.S. patents, artificial intelligence patents, machine learning patents, Dell patents, EMC patents, data storage patents, inventor, patent holder"
 author_profile: true
 ---
+
 
 <div>
 <br>

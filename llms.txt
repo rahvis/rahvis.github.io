@@ -1,0 +1,120 @@
+---
+layout: null
+permalink: /llms.txt
+---
+# Rahul Vishwakarma - Personal Website
+
+> Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents
+
+## About
+
+Rahul Vishwakarma is a technology leader and innovator specializing in machine learning, deep learning, generative AI, and agentic AI systems. He serves as Chief Technology Officer at WorkOnward, building next-generation HR technology platforms.
+
+He holds over 60 granted U.S. patents in artificial intelligence, machine learning, and enterprise data storage. He is an IEEE Senior Member, BCS Fellow, and ISSIP Ambassador.
+
+## Expertise
+
+- Artificial Intelligence & Machine Learning
+- Generative AI & Large Language Models
+- Agentic AI & Multi-Agent Systems
+- Agent-to-Agent (A2A) Communication Protocols
+- Conformal Prediction & Uncertainty Quantification
+- Hardware Security & Trojan Detection
+- Enterprise Data Storage & Cloud Infrastructure
+
+## Education
+
+- M.S. Computer Science, California State University, Long Beach (2024)
+  - Dean's List (top 1%)
+  - Student Commencement Speaker, College of Engineering
+
+## Current Role
+
+Chief Technology Officer at WorkOnward (https://www.workonward.com)
+- Building AI-powered recruitment and HR technology solutions
+- Developing agentic AI systems for enterprise applications
+
+## Patents
+
+60+ granted U.S. patents covering:
+- Machine learning techniques in data analysis
+- Smart data management systems
+- Hardware health monitoring
+- Anomaly detection systems
+- System upgrade and update management
+
+Full list: https://patents.google.com/?inventor=Rahul+Vishwakarma
+
+## Publications
+
+Research published in top venues including:
+- IEEE/ACM International Conference on Computer-Aided Design (ICCAD)
+- Design Automation and Test in Europe (DATE)
+- IEEE International Conference on Automation and Computing (ICAC)
+
+Google Scholar: https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao
+
+## Book
+
+Author of "Conformal Prediction for Inventors" - A practical guide to designing innovative solutions using conformal prediction in risk-sensitive domains.
+
+Available on Amazon: https://www.amazon.com/dp/9334114894
+
+## Speaking
+
+Featured on IEEE TV and 10+ talks at SNIA Storage Developer Conference (2019-2024):
+- Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning (DATE 2024)
+- Risk-Aware and Explainable Framework for Hardware Trojan Detection (ICCAD 2023)
+- Student Commencement Speaker at CSULB College of Engineering (2024)
+
+## Teaching
+
+Teaching Assistant and Co-instructor at California State University, Long Beach:
+- CECS 551: Advanced Artificial Intelligence
+- CECS 550: Pattern Recognition
+- CECS 456: Machine Learning
+- CECS 451: Artificial Intelligence
+- CECS 229: Discrete Structures
+
+## Awards & Recognition
+
+- BCS Fellow (2024)
+- IEEE Senior Member (2023)
+- IEEE Impact Creator
+- Outstanding Graduate Research Award, CSULB (2024)
+- MIT Solve 2025 Global Economic Prosperity Challenge Semifinalist
+- Entrepreneur in Residence, Blue Ridge Labs @ Robin Hood
+- Dell Patent Award ($250,000)
+
+## Media Coverage
+
+Quoted in:
+- Communications of the ACM (CACM)
+- IEEE Transmitter
+- EdTech Magazine
+- Techopedia
+- CXO Today
+
+## Contact
+
+- Website: https://rahvis.github.io
+- LinkedIn: https://www.linkedin.com/in/rahulvishwakarma
+- Twitter/X: https://x.com/vishwr9
+- GitHub: https://github.com/rahvis
+- Google Scholar: https://scholar.google.com/citations?user=F2eTslkAAAAJ
+- Patents: https://patents.google.com/?inventor=Rahul+Vishwakarma
+
+## Detailed Information
+
+For comprehensive information about Rahul Vishwakarma, see: https://rahvis.github.io/llms-full.txt
+
+## Pages
+
+- Home: https://rahvis.github.io/
+- Awards: https://rahvis.github.io/awards/
+- Patents: https://rahvis.github.io/patents/
+- Talks: https://rahvis.github.io/talks/
+- Book: https://rahvis.github.io/book/
+- Publications: https://rahvis.github.io/publications/
+- Teaching: https://rahvis.github.io/teaching/
+- Contact: https://rahvis.github.io/contact/

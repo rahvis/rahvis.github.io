@@ -2,8 +2,11 @@
 layout: archive
 title: "Awards"
 permalink: /awards/
+description: "Professional awards and honors of Rahul Vishwakarma including IEEE Senior Member, BCS Fellow, Dell Patent Award ($250,000), MIT Solve Semifinalist, Outstanding Graduate Research Award, and academic recognition."
+keywords: "Rahul Vishwakarma awards, IEEE Senior Member, BCS Fellow, Dell Patent Award, MIT Solve, CSULB, research awards, patent awards, academic honors"
 author_profile: true
 ---
+
 
 <h2>Awards and Honors</h2>
 

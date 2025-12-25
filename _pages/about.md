@@ -1,13 +1,15 @@
 ---
 permalink: /
 title: "Rahul Vishwakarma"
-excerpt: "About me"
-description: "Rahul Vishwakarma — Chief Technology Officer at WorkOnward. Machine learning, deep learning, and generative AI."
+excerpt: "Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents"
+description: "Rahul Vishwakarma — Chief Technology Officer at WorkOnward, IEEE Senior Member, BCS Fellow with 60+ U.S. patents in AI, machine learning, deep learning, generative AI, and agentic AI systems."
+keywords: "Rahul Vishwakarma, CTO, WorkOnward, IEEE Senior Member, BCS Fellow, Machine Learning, Deep Learning, Generative AI, Agentic AI, U.S. Patents, Conformal Prediction, Hardware Security"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
 
 <p align="justify">
 Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine learning, deep learning, and generative AI, with 60 issued U.S. patents, specializing in architecting scalable solutions for enterprise storage, cloud infrastructure, and data management.

@@ -1,0 +1,215 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Awards Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "@id": "{{ seo_url }}/awards/#itemlist",
+  "name": "Awards and Honors - Rahul Vishwakarma",
+  "description": "Professional awards, honors, memberships, and service activities of Rahul Vishwakarma including IEEE Senior Member, BCS Fellow, and academic awards.",
+  "numberOfItems": 15,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Award",
+        "name": "BCS Fellow",
+        "description": "Fellowship from British Computer Society, The Chartered Institute for IT",
+        "dateReceived": "2024-08",
+        "awardedBy": {
+          "@type": "Organization",
+          "name": "BCS, The Chartered Institute for IT",
+          "sameAs": "https://www.bcs.org"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Award",
+        "name": "IEEE Senior Member",
+        "description": "Senior membership in the Institute of Electrical and Electronics Engineers",
+        "dateReceived": "2023-09",
+        "awardedBy": {
+          "@type": "Organization",
+          "name": "IEEE",
+          "sameAs": "https://www.ieee.org"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Award",
+        "name": "Outstanding Graduate Research, Scholarly, and Creative Activity (RSCA) Award",
+        "description": "Award for outstanding graduate research achievements at CSULB",
+        "dateReceived": "2024-04",
+        "monetaryAmount": {
+          "@type": "MonetaryAmount",
+          "value": 500,
+          "currency": "USD"
+        },
+        "awardedBy": {
+          "@type": "EducationalOrganization",
+          "name": "California State University, Long Beach"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Award",
+        "name": "Graduate Dean's List",
+        "description": "Recognition for top 1% academic performance",
+        "dateReceived": "2024",
+        "awardedBy": {
+          "@type": "EducationalOrganization",
+          "name": "California State University, Long Beach"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Award",
+        "name": "Dell Patent Award",
+        "description": "Long Term Incentive (LTI) cash and Restricted Stock Units (RSU) for patent contributions",
+        "dateReceived": "2021",
+        "monetaryAmount": {
+          "@type": "MonetaryAmount",
+          "value": 250000,
+          "currency": "USD"
+        },
+        "awardedBy": {
+          "@type": "Organization",
+          "name": "Dell Technologies"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
+        "@type": "Award",
+        "name": "MIT Solve 2025 Global Economic Prosperity Challenge Semifinalist",
+        "description": "Selected as semifinalist in MIT Solve's global challenge",
+        "dateReceived": "2025-04",
+        "awardedBy": {
+          "@type": "EducationalOrganization",
+          "name": "MIT",
+          "sameAs": "https://solve.mit.edu"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 7,
+      "item": {
+        "@type": "Award",
+        "name": "DAC Young Fellows Program",
+        "description": "Selected for 60th Design Automation Conference Young Fellows Program",
+        "dateReceived": "2023-07",
+        "monetaryAmount": {
+          "@type": "MonetaryAmount",
+          "value": 840,
+          "currency": "USD"
+        },
+        "awardedBy": {
+          "@type": "Organization",
+          "name": "Design Automation Conference"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 8,
+      "item": {
+        "@type": "Award",
+        "name": "IEEE Impact Creator",
+        "description": "Recognition as IEEE Impact Creator featured in IEEE Transmitter",
+        "dateReceived": "2024-05",
+        "awardedBy": {
+          "@type": "Organization",
+          "name": "IEEE",
+          "sameAs": "https://www.ieee.org"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 9,
+      "item": {
+        "@type": "Award",
+        "name": "ISSIP Ambassador",
+        "description": "Nominated as Ambassador for International Society of Service Innovation Professionals",
+        "dateReceived": "2025",
+        "awardedBy": {
+          "@type": "Organization",
+          "name": "ISSIP",
+          "sameAs": "https://issip.org"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 10,
+      "item": {
+        "@type": "Award",
+        "name": "Sunstone Innovation Challenge Award",
+        "description": "Award for Mindful Performance at CSULB Sunstone Innovation Challenge",
+        "dateReceived": "2024-04",
+        "monetaryAmount": {
+          "@type": "MonetaryAmount",
+          "value": 5000,
+          "currency": "USD"
+        },
+        "awardedBy": {
+          "@type": "EducationalOrganization",
+          "name": "California State University, Long Beach"
+        }
+      }
+    }
+  ],
+  "mainEntity": {
+    "@id": "{{ seo_url }}/#person"
+  }
+}
+</script>
+
+<!-- ProfilePage Schema for Awards -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": "Awards - Rahul Vishwakarma",
+  "description": "Professional awards, honors, memberships, and service activities of Rahul Vishwakarma including IEEE Senior Member, BCS Fellow, and research awards.",
+  "url": "{{ seo_url }}/awards/",
+  "mainEntity": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ seo_url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Awards",
+        "item": "{{ seo_url }}/awards/"
+      }
+    ]
+  }
+}
+</script>

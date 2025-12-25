@@ -1,0 +1,138 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Book Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "@id": "{{ seo_url }}/book/#book",
+  "name": "Conformal Prediction for Inventors",
+  "alternateName": "Conformal Prediction for Inventors: A Practical Guide",
+  "description": "A practical guide demonstrating how to design innovative solutions using conformal prediction in risk-sensitive domains, particularly enterprise data storage. This is the fifth book on Conformal Prediction and approaches the topic from an inventor's perspective.",
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Self-Published"
+  },
+  "isbn": "9334114894",
+  "bookFormat": "https://schema.org/Paperback",
+  "numberOfPages": 200,
+  "inLanguage": "en",
+  "genre": ["Technology", "Computer Science", "Machine Learning", "Patent Development"],
+  "about": [
+    {
+      "@type": "Thing",
+      "name": "Conformal Prediction",
+      "sameAs": "https://en.wikipedia.org/wiki/Conformal_prediction"
+    },
+    {
+      "@type": "Thing",
+      "name": "Machine Learning"
+    },
+    {
+      "@type": "Thing",
+      "name": "Enterprise Data Storage"
+    },
+    {
+      "@type": "Thing",
+      "name": "Patent Development"
+    },
+    {
+      "@type": "Thing",
+      "name": "Uncertainty Quantification"
+    }
+  ],
+  "url": "https://www.amazon.com/dp/9334114894",
+  "sameAs": [
+    "https://www.amazon.com/dp/9334114894"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.amazon.com/dp/9334114894",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Amazon"
+    }
+  },
+  "review": {
+    "@type": "Review",
+    "reviewBody": "A unique approach to conformal prediction from an inventor's perspective, filling a gap in existing literature.",
+    "author": {
+      "@type": "Person",
+      "name": "Technical Reviewer"
+    }
+  },
+  "workExample": {
+    "@type": "VideoObject",
+    "name": "Book Overview Video",
+    "url": "https://www.youtube.com/embed/ooXTD6TxqiY",
+    "description": "Overview and walkthrough of Conformal Prediction for Inventors book",
+    "uploadDate": "2024"
+  }
+}
+</script>
+
+<!-- WebPage for Book -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Book - Rahul Vishwakarma",
+  "description": "Conformal Prediction for Inventors by Rahul Vishwakarma - A practical guide to designing innovative solutions using conformal prediction in risk-sensitive domains.",
+  "url": "{{ seo_url }}/book/",
+  "mainEntity": {
+    "@id": "{{ seo_url }}/book/#book"
+  },
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ seo_url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Book",
+        "item": "{{ seo_url }}/book/"
+      }
+    ]
+  }
+}
+</script>
+
+<!-- Product Schema for Book -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Conformal Prediction for Inventors",
+  "description": "A practical guide demonstrating how to design innovative solutions using conformal prediction in risk-sensitive domains.",
+  "image": "{{ seo_url }}/images/book.png",
+  "brand": {
+    "@type": "Person",
+    "name": "Rahul Vishwakarma"
+  },
+  "offers": {
+    "@type": "Offer",
+    "url": "https://www.amazon.com/dp/9334114894",
+    "priceCurrency": "USD",
+    "availability": "https://schema.org/InStock",
+    "seller": {
+      "@type": "Organization",
+      "name": "Amazon"
+    }
+  },
+  "sku": "9334114894",
+  "gtin13": "9789334114894"
+}
+</script>

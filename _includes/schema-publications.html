@@ -1,0 +1,143 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Publications Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{ seo_url }}/publications/",
+  "name": "Publications - Rahul Vishwakarma",
+  "description": "Academic publications and research papers by Rahul Vishwakarma in top-tier venues including ICCAD, DATE, ICAC, and IEEE conferences.",
+  "url": "{{ seo_url }}/publications/",
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Academic Publications by Rahul Vishwakarma",
+    "numberOfItems": 10,
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning",
+          "description": "Research on uncertainty-aware hardware trojan detection using multimodal deep learning approaches.",
+          "author": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "datePublished": "2024",
+          "publisher": {
+            "@type": "Organization",
+            "name": "DATE - Design Automation and Test in Europe"
+          },
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "DATE 2024",
+            "description": "Design Automation and Test in Europe Conference with 22% acceptance rate"
+          },
+          "about": ["Hardware Security", "Trojan Detection", "Deep Learning", "Multimodal Learning", "Uncertainty Quantification"]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection",
+          "description": "Research on risk-aware and explainable framework for hardware trojan detection with guaranteed coverage.",
+          "author": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "datePublished": "2023",
+          "publisher": {
+            "@type": "Organization",
+            "name": "IEEE/ACM International Conference on Computer-Aided Design"
+          },
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "ICCAD 2023",
+            "description": "International Conference on Computer-Aided Design with 23% acceptance rate",
+            "location": {
+              "@type": "Place",
+              "name": "San Francisco, California"
+            }
+          },
+          "about": ["Hardware Security", "Trojan Detection", "Explainable AI", "Risk Assessment", "Conformal Prediction"]
+        }
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "item": {
+          "@type": "ScholarlyArticle",
+          "name": "SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning",
+          "description": "Research on integrated data generation pipeline from videos for large language model finetuning, in collaboration with Google and Tubi TV.",
+          "author": {
+            "@id": "{{ seo_url }}/#person"
+          },
+          "datePublished": "2024-08",
+          "publisher": {
+            "@type": "Organization",
+            "name": "ICAC - International Conference on Automation and Computing"
+          },
+          "isPartOf": {
+            "@type": "PublicationEvent",
+            "name": "ICAC 2024",
+            "location": {
+              "@type": "Place",
+              "name": "Sunderland, UK"
+            }
+          },
+          "about": ["Large Language Models", "Data Generation", "Video Processing", "LLM Finetuning", "Speech Processing"],
+          "funder": [
+            {
+              "@type": "Organization",
+              "name": "Google"
+            },
+            {
+              "@type": "Organization",
+              "name": "Tubi TV"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "about": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "significantLink": "https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao",
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Home",
+        "item": "{{ seo_url }}/"
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Publications",
+        "item": "{{ seo_url }}/publications/"
+      }
+    ]
+  }
+}
+</script>
+
+<!-- Person Schema with Scholar Profile -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": "Publications - Rahul Vishwakarma",
+  "description": "Academic publications and research papers by Rahul Vishwakarma in hardware security, machine learning, and artificial intelligence.",
+  "url": "{{ seo_url }}/publications/",
+  "mainEntity": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "significantLink": "https://scholar.google.com/citations?user=F2eTslkAAAAJ&hl=en&oi=ao"
+}
+</script>
