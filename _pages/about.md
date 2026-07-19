@@ -19,6 +19,11 @@ Rahul Vishwakarma is building Navya (<a href="https://actualintelligence.ink" ta
 <table>
 
 <tr>
+    <td style="white-space: nowrap;">July 2026</td>
+    <td> Working paper - <a href="https://actualintelligence.ink/files/vishwakarma2026.pdf" target="_blank">"Trace-Reconstruction Attacks and Trace-Private Defenses for Confidential LLM Agents"</a> </td>
+  </tr>
+
+<tr>
     <td style="white-space: nowrap;">Apr 2026</td>
     <td> <strong>Best Paper Award</strong> at the 19th IEEE Dallas Circuits and Systems Conference (<a href="https://dcas2026.com" target="_blank">DCAS 2026</a>) - "Early Detection of Hardware Trojans Using Neural Controlled Differential Equations and Analysis of Power Traces" <a href="https://www.linkedin.com/posts/rahulvishwakarma_so-stoked-to-share-this-our-team-just-share-7449024925857714176-8Zj9/" target="_blank">LinkedIn</a> </td>
   </tr>
