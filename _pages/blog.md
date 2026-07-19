@@ -2,7 +2,7 @@
 layout: archive
 title: "Blog"
 permalink: /blog/
-description: "Blog by Rahul Vishwakarma (CTO at WorkOnward, IEEE Senior Member, BCS Fellow) on machine learning, generative AI, agentic AI, multi-agent systems, conformal prediction, and enterprise technology."
+description: "Blog by Rahul Vishwakarma (Research Engineer at WorkOnward, IEEE Senior Member, BCS Fellow) on machine learning, generative AI, agentic AI, multi-agent systems, conformal prediction, and enterprise technology."
 keywords: "Rahul Vishwakarma blog, agentic AI blog, machine learning blog, generative AI articles, multi-agent systems, conformal prediction, AI engineering, enterprise AI"
 author_profile: true
 ---

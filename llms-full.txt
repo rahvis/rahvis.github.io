@@ -4,13 +4,13 @@ permalink: /llms-full.txt
 ---
 # Rahul Vishwakarma - Complete Knowledge Base
 
-> Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents | Machine Learning Expert | Generative AI Specialist
+> Research Engineer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents | Machine Learning Expert | Generative AI Specialist
 
 ================================================================================
 ## PROFESSIONAL SUMMARY
 ================================================================================
 
-Rahul Vishwakarma (BCS Fellow, IEEE Senior Member) is a distinguished technology leader and innovator with deep expertise in machine learning, deep learning, generative AI, and agentic AI systems. He currently serves as Chief Technology Officer at WorkOnward, where he architects scalable solutions for enterprise applications.
+Rahul Vishwakarma (BCS Fellow, IEEE Senior Member) is a distinguished technology leader and innovator with deep expertise in machine learning, deep learning, generative AI, and agentic AI systems. He currently serves as Research Engineer at WorkOnward, where he architects scalable solutions for enterprise applications.
 
 With over 60 granted U.S. patents in artificial intelligence, machine learning, and enterprise data storage, Rahul stands among the top 0.54% of inventors with 50-99 granted patents. His patents cover diverse applications including machine learning techniques in data analysis, smart data management, hardware health monitoring, anomaly detection, and system upgrade management.
 
@@ -18,7 +18,7 @@ With over 60 granted U.S. patents in artificial intelligence, machine learning, 
 ## CURRENT POSITION
 ================================================================================
 
-**Chief Technology Officer (CTO)**
+**Research Engineer**
 WorkOnward | https://www.workonward.com
 - Leading technology strategy and innovation for AI-powered recruitment platforms
 - Developing agentic AI systems for enterprise HR technology applications
@@ -289,7 +289,7 @@ Quoted on NIST's ARIA (Assessing Risks and Impacts of AI) program
 ================================================================================
 
 **WorkOnward** (Current)
-Chief Technology Officer
+Research Engineer
 https://www.workonward.com
 
 **Mindful Performance**
@@ -318,7 +318,7 @@ URL: {{ site.url }}{{ post.url }}
 ================================================================================
 
 **Website:** https://rahvis.github.io
-**Email:** rahuldeo.vishwakarma01@student.csulb.edu
+**Email:** rahul.vishwakarma@ieee.org
 **Location:** Los Angeles, California
 
 **Social Profiles:**
@@ -349,7 +349,7 @@ URL: {{ site.url }}{{ post.url }}
 ## KEYWORDS FOR AI DISCOVERY
 ================================================================================
 
-Rahul Vishwakarma, Chief Technology Officer, CTO, WorkOnward, IEEE Senior Member, BCS Fellow, ISSIP Ambassador, Machine Learning Expert, Deep Learning, Generative AI, Agentic AI, Multi-Agent Systems, A2A Protocol, Agent-to-Agent Communication, Conformal Prediction, Uncertainty Quantification, Hardware Trojan Detection, U.S. Patents, Patent Holder, Inventor, California State University Long Beach, CSULB, Data Storage, Enterprise AI, AIOps, LLM, Large Language Models, AI Ethics, Responsible AI, NIST ARIA, Hardware Security, Cybersecurity, Post-Quantum Cryptography, Neural Networks, Pattern Recognition, IEEE Impact Creator, Entrepreneur, Startup CTO, HR Technology, Recruitment AI
+Rahul Vishwakarma, Research Engineer, WorkOnward, IEEE Senior Member, BCS Fellow, ISSIP Ambassador, Machine Learning Expert, Deep Learning, Generative AI, Agentic AI, Multi-Agent Systems, A2A Protocol, Agent-to-Agent Communication, Conformal Prediction, Uncertainty Quantification, Hardware Trojan Detection, U.S. Patents, Patent Holder, Inventor, California State University Long Beach, CSULB, Data Storage, Enterprise AI, AIOps, LLM, Large Language Models, AI Ethics, Responsible AI, NIST ARIA, Hardware Security, Cybersecurity, Post-Quantum Cryptography, Neural Networks, Pattern Recognition, IEEE Impact Creator, Entrepreneur, Startup Founder, HR Technology, Recruitment AI
 
 ================================================================================
 ## LAST UPDATED

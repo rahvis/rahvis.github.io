@@ -4,11 +4,11 @@ permalink: /llms.txt
 ---
 # Rahul Vishwakarma - Personal Website
 
-> Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents
+> Research Engineer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents
 
 ## About
 
-Rahul Vishwakarma is a technology leader and innovator specializing in machine learning, deep learning, generative AI, and agentic AI systems. He serves as Chief Technology Officer at WorkOnward, building next-generation HR technology platforms.
+Rahul Vishwakarma is a technology leader and innovator specializing in machine learning, deep learning, generative AI, and agentic AI systems. He serves as Research Engineer at WorkOnward, building next-generation HR technology platforms.
 
 He holds over 60 granted U.S. patents in artificial intelligence, machine learning, and enterprise data storage. He is an IEEE Senior Member, BCS Fellow, and ISSIP Ambassador.
 
@@ -30,7 +30,7 @@ He holds over 60 granted U.S. patents in artificial intelligence, machine learni
 
 ## Current Role
 
-Chief Technology Officer at WorkOnward (https://www.workonward.com)
+Research Engineer at WorkOnward (https://www.workonward.com)
 - Building AI-powered recruitment and HR technology solutions
 - Developing agentic AI systems for enterprise applications
 

@@ -1,9 +1,9 @@
 ---
 permalink: /
 title: "Rahul Vishwakarma"
-excerpt: "Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents"
-description: "Rahul Vishwakarma — Chief Technology Officer at WorkOnward, IEEE Senior Member, BCS Fellow with 60+ U.S. patents in AI, machine learning, deep learning, generative AI, and agentic AI systems."
-keywords: "Rahul Vishwakarma, CTO, WorkOnward, IEEE Senior Member, BCS Fellow, Machine Learning, Deep Learning, Generative AI, Agentic AI, U.S. Patents, Conformal Prediction, Hardware Security"
+excerpt: "Research Engineer at WorkOnward | IEEE Senior Member | BCS Fellow | 60+ U.S. Patents"
+description: "Rahul Vishwakarma — Research Engineer at WorkOnward, IEEE Senior Member, BCS Fellow with 60+ U.S. patents in AI, machine learning, deep learning, generative AI, and agentic AI systems."
+keywords: "Rahul Vishwakarma, Research Engineer, WorkOnward, IEEE Senior Member, BCS Fellow, Machine Learning, Deep Learning, Generative AI, Agentic AI, U.S. Patents, Conformal Prediction, Hardware Security"
 author_profile: true
 redirect_from:
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Rahul Vishwakarma is building Navya (<a href="https://actualintelligence.ink" target="_blank">actualintelligence.ink</a>), software that helps companies turn their engineers' inventions into patent applications. It runs on confidential computing, secure hardware designed so that client ideas stay sealed, unreadable even to Navya itself. He came to this after years at Dell Technologies, where he applied machine learning, deep learning, and generative AI to enterprise storage, cloud infrastructure, and data management, earning 60+ issued U.S. patents along the way. Lately he has focused on agentic reasoning, how AI systems plan and coordinate on their own, and sovereign AI, which keeps models and data under their owner's control. He is a BCS Fellow and a Senior Member of IEEE.
+Rahul Vishwakarma is building Navya (<a href="https://actualintelligence.ink" target="_blank">actualintelligence.ink</a>), software that helps companies turn their engineers' inventions into patent applications. It runs on confidential computing, secure hardware designed so that client ideas stay sealed, unreadable even to Navya itself. He came to this after years at Dell Technologies, where he applied machine learning to enterprise storage, cloud infrastructure, and data management, earning 60+ issued U.S. patents along the way. Lately he has focused on agentic reasoning, how AI systems plan and coordinate on their own, and sovereign AI, which keeps models and data under their owner's control. He is a BCS Fellow and a Senior Member of IEEE.
 </p>
 
 <h2> News </h2>
@@ -157,8 +157,6 @@ Rahul Vishwakarma is building Navya (<a href="https://actualintelligence.ink" ta
     <td style="white-space: nowrap;">July 2024</td>
     <td> Talk Accepted at SNIA SDC 2024 - <a href="https://www.youtube.com/watch?v=ekBMasBqzEU" target="_blank"> Fortifying AIOps: CSAF and VEX Unite for Smarter Security </a> </td>
   </tr>
-  
-
 
   <tr>
     <td style="white-space: nowrap;">July 2024</td>

@@ -3,7 +3,7 @@ layout: null
 permalink: /robots.txt
 ---
 # robots.txt for https://rahvis.github.io
-# Rahul Vishwakarma - CTO, Research Engineer, Inventor, BCS Fellow
+# Rahul Vishwakarma - Research Engineer, Inventor, BCS Fellow
 
 User-agent: *
 Allow: /
