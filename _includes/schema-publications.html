@@ -8,99 +8,39 @@
   "@type": "CollectionPage",
   "@id": "{{ seo_url }}/publications/",
   "name": "Publications - Rahul Vishwakarma",
-  "description": "Academic publications and research papers by Rahul Vishwakarma in top-tier venues including ICCAD, DATE, ICAC, and IEEE conferences.",
+  "description": "Journal articles, conference papers, and preprints by Rahul Vishwakarma in venues including IEEE Access, Journal of Hardware and Systems Security, AIP Advances, DATE, ICCAD, DCAS, ISQED, SoutheastCon, and ICAC.",
   "url": "{{ seo_url }}/publications/",
   "mainEntity": {
     "@type": "ItemList",
-    "name": "Academic Publications by Rahul Vishwakarma",
-    "numberOfItems": 10,
+    "name": "Publications by Rahul Vishwakarma",
+    "numberOfItems": 26,
     "itemListElement": [
-      {
-        "@type": "ListItem",
-        "position": 1,
-        "item": {
-          "@type": "ScholarlyArticle",
-          "name": "Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning",
-          "description": "Research on uncertainty-aware hardware trojan detection using multimodal deep learning approaches.",
-          "author": {
-            "@id": "{{ seo_url }}/#person"
-          },
-          "datePublished": "2024",
-          "publisher": {
-            "@type": "Organization",
-            "name": "DATE - Design Automation and Test in Europe"
-          },
-          "isPartOf": {
-            "@type": "PublicationEvent",
-            "name": "DATE 2024",
-            "description": "Design Automation and Test in Europe Conference with 22% acceptance rate"
-          },
-          "about": ["Hardware Security", "Trojan Detection", "Deep Learning", "Multimodal Learning", "Uncertainty Quantification"]
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 2,
-        "item": {
-          "@type": "ScholarlyArticle",
-          "name": "Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection",
-          "description": "Research on risk-aware and explainable framework for hardware trojan detection with guaranteed coverage.",
-          "author": {
-            "@id": "{{ seo_url }}/#person"
-          },
-          "datePublished": "2023",
-          "publisher": {
-            "@type": "Organization",
-            "name": "IEEE/ACM International Conference on Computer-Aided Design"
-          },
-          "isPartOf": {
-            "@type": "PublicationEvent",
-            "name": "ICCAD 2023",
-            "description": "International Conference on Computer-Aided Design with 23% acceptance rate",
-            "location": {
-              "@type": "Place",
-              "name": "San Francisco, California"
-            }
-          },
-          "about": ["Hardware Security", "Trojan Detection", "Explainable AI", "Risk Assessment", "Conformal Prediction"]
-        }
-      },
-      {
-        "@type": "ListItem",
-        "position": 3,
-        "item": {
-          "@type": "ScholarlyArticle",
-          "name": "SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning",
-          "description": "Research on integrated data generation pipeline from videos for large language model finetuning, in collaboration with Google and Tubi TV.",
-          "author": {
-            "@id": "{{ seo_url }}/#person"
-          },
-          "datePublished": "2024-08",
-          "publisher": {
-            "@type": "Organization",
-            "name": "ICAC - International Conference on Automation and Computing"
-          },
-          "isPartOf": {
-            "@type": "PublicationEvent",
-            "name": "ICAC 2024",
-            "location": {
-              "@type": "Place",
-              "name": "Sunderland, UK"
-            }
-          },
-          "about": ["Large Language Models", "Data Generation", "Video Processing", "LLM Finetuning", "Speech Processing"],
-          "funder": [
-            {
-              "@type": "Organization",
-              "name": "Google"
-            },
-            {
-              "@type": "Organization",
-              "name": "Tubi TV"
-            }
-          ]
-        }
-      }
+      { "@type": "ListItem", "position": 1, "item": { "@type": "ScholarlyArticle", "name": "Horizon-Constrained Rashomon Sets for Chaotic Forecasting", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2026", "isPartOf": { "@type": "Periodical", "name": "AIP Advances" } } },
+      { "@type": "ListItem", "position": 2, "item": { "@type": "ScholarlyArticle", "name": "Uncertainty-Aware Unimodal and Multimodal Learning for Evolving Hardware Trojan Detection", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2025", "isPartOf": { "@type": "Periodical", "name": "Journal of Hardware and Systems Security" } } },
+      { "@type": "ListItem", "position": 3, "item": { "@type": "ScholarlyArticle", "name": "Machine Learning in Chaos-Based Encryption: Theory, Implementations, and Applications", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "Periodical", "name": "IEEE Access" } } },
+      { "@type": "ListItem", "position": 4, "item": { "@type": "ScholarlyArticle", "name": "Reliable and Secure Memristor-Based Chaotic Communication Against Eavesdroppers and Untrusted Foundries", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "Periodical", "name": "Discover Internet of Things" } } },
+      { "@type": "ListItem", "position": 5, "item": { "@type": "ScholarlyArticle", "name": "High Density Data Storage in DNA Using an Efficient Message Encoding Scheme", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2012", "isPartOf": { "@type": "Periodical", "name": "International Journal of Information Technology Convergence and Services" } } },
+      { "@type": "ListItem", "position": 6, "item": { "@type": "ScholarlyArticle", "name": "Early Detection of Hardware Trojans Using Neural Controlled Differential Equations and Analysis of Power Traces", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2026", "isPartOf": { "@type": "PublicationEvent", "name": "IEEE 19th Dallas Circuits and Systems Conference (DCAS) 2026" }, "award": "Best Paper Award" } },
+      { "@type": "ListItem", "position": 7, "item": { "@type": "ScholarlyArticle", "name": "LLM-Enhance: Fine-Tuning Large Language Models for Enhanced Detection of Common Weakness Enumerations", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2026", "isPartOf": { "@type": "PublicationEvent", "name": "IEEE 19th Dallas Circuits and Systems Conference (DCAS) 2026" } } },
+      { "@type": "ListItem", "position": 8, "item": { "@type": "ScholarlyArticle", "name": "Can AI Invent Calculus, or Just Mimic Math?", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2026", "isPartOf": { "@type": "PublicationEvent", "name": "International Conference on Advances in Artificial Intelligence 2026" } } },
+      { "@type": "ListItem", "position": 9, "item": { "@type": "ScholarlyArticle", "name": "Sparse Selective Hyper-Connections: A Unified Framework for Stable and Efficient Deep Residual Learning", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2026", "isPartOf": { "@type": "PublicationEvent", "name": "IEEE SoutheastCon 2026" } } },
+      { "@type": "ListItem", "position": 10, "item": { "@type": "ScholarlyArticle", "name": "A Novel Bio-Causal Agent-to-Agent Protocol (BCA2P) Framework for Effective A2A Communication Inspired by Cell Signalling and Causal Inference", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2025", "publisher": { "@type": "Organization", "name": "IEEE" } } },
+      { "@type": "ListItem", "position": 11, "item": { "@type": "ScholarlyArticle", "name": "Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2024", "isPartOf": { "@type": "PublicationEvent", "name": "DATE 2024 - Design, Automation and Test in Europe", "description": "22% acceptance rate" } } },
+      { "@type": "ListItem", "position": 12, "item": { "@type": "ScholarlyArticle", "name": "SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2024", "isPartOf": { "@type": "PublicationEvent", "name": "ICAC 2024 - 29th International Conference on Automation and Computing" } } },
+      { "@type": "ListItem", "position": 13, "item": { "@type": "ScholarlyArticle", "name": "Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "PublicationEvent", "name": "ICCAD 2023 - IEEE/ACM International Conference on Computer-Aided Design", "description": "23% acceptance rate" } } },
+      { "@type": "ListItem", "position": 14, "item": { "@type": "ScholarlyArticle", "name": "Attacks on Continuous Chaos Communication and Remedies for Resource Limited Devices", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "PublicationEvent", "name": "ISQED 2023 - 24th International Symposium on Quality Electronic Design" } } },
+      { "@type": "ListItem", "position": 15, "item": { "@type": "ScholarlyArticle", "name": "Enterprise Disk Drive Scrubbing Based on Mondrian Conformal Predictors", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "PublicationEvent", "name": "Conformal and Probabilistic Prediction with Applications (COPA) 2023" } } },
+      { "@type": "ListItem", "position": 16, "item": { "@type": "ScholarlyArticle", "name": "Variable Sparing of Disk Drives Based on Failure Analysis", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "PublicationEvent", "name": "Conformal and Probabilistic Prediction with Applications (COPA) 2023" } } },
+      { "@type": "ListItem", "position": 17, "item": { "@type": "ScholarlyArticle", "name": "Tunable Sparing of Disks in a Cloud Data Center", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "sameAs": "https://doi.org/10.1109/CERA59325.2023.10455205", "isPartOf": { "@type": "PublicationEvent", "name": "CERA 2023 - 7th International Conference on Computer Applications in Electrical Engineering" } } },
+      { "@type": "ListItem", "position": 18, "item": { "@type": "ScholarlyArticle", "name": "Position Mapping Using Content Based Image Retrieval and Annoy", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2023", "isPartOf": { "@type": "PublicationEvent", "name": "International Conference on Modeling, Simulation and Intelligent Computing 2023" } } },
+      { "@type": "ListItem", "position": 19, "item": { "@type": "ScholarlyArticle", "name": "Selective Scrubbing Based on Algorithmic Randomness", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2022", "isPartOf": { "@type": "PublicationEvent", "name": "SYSTOR 2022 - 15th ACM International Conference on Systems and Storage" } } },
+      { "@type": "ListItem", "position": 20, "item": { "@type": "ScholarlyArticle", "name": "Message Encoding in Nucleotides", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2011", "isPartOf": { "@type": "PublicationEvent", "name": "ACITY 2011 - International Conference on Advances in Computing and Information Technology" } } },
+      { "@type": "ListItem", "position": 21, "item": { "@type": "ScholarlyArticle", "name": "Cognitive Weave: Synthesizing Abstracted Knowledge with a Spatio-Temporal Resonance Graph", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2025", "sameAs": "https://arxiv.org/abs/2506.08098" } },
+      { "@type": "ListItem", "position": 22, "item": { "@type": "ScholarlyArticle", "name": "Statistical Guarantees in Synthetic Data through Conformal Adversarial Generation", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2025", "sameAs": "https://arxiv.org/abs/2504.17058" } },
+      { "@type": "ListItem", "position": 23, "item": { "@type": "ScholarlyArticle", "name": "Billions at Stake: How Self-Citation Adjusted Metrics Can Transform Equitable Research Funding", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2025", "sameAs": "https://arxiv.org/abs/2504.20081" } },
+      { "@type": "ListItem", "position": 24, "item": { "@type": "Book", "name": "Conformal Prediction: An Inventor's Approach", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2024", "sameAs": "https://www.amazon.com/dp/B0CY43HQRX" } },
+      { "@type": "ListItem", "position": 25, "item": { "@type": "Thesis", "name": "Towards Uncertainty-Aware Hardware Trojan Detection", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2024", "sourceOrganization": { "@type": "EducationalOrganization", "name": "California State University, Long Beach" } } },
+      { "@type": "ListItem", "position": 26, "item": { "@type": "SoftwareApplication", "name": "scholar-citations", "description": "A Python tool for analyzing self-citation patterns in Google Scholar profiles", "author": { "@id": "{{ seo_url }}/#person" }, "datePublished": "2025", "sameAs": "https://pypi.org/project/scholar-citations/" } }
     ]
   },
   "about": {
@@ -133,7 +73,7 @@
   "@context": "https://schema.org",
   "@type": "ProfilePage",
   "name": "Publications - Rahul Vishwakarma",
-  "description": "Academic publications and research papers by Rahul Vishwakarma in hardware security, machine learning, and artificial intelligence.",
+  "description": "Journal articles, conference papers, and preprints by Rahul Vishwakarma in hardware security, machine learning, conformal prediction, and agentic AI. 298+ citations, h-index 9.",
   "url": "{{ seo_url }}/publications/",
   "mainEntity": {
     "@id": "{{ seo_url }}/#person"

@@ -5,82 +5,68 @@ excerpt: "Chief Technology Officer at WorkOnward | IEEE Senior Member | BCS Fell
 description: "Rahul Vishwakarma — Chief Technology Officer at WorkOnward, IEEE Senior Member, BCS Fellow with 60+ U.S. patents in AI, machine learning, deep learning, generative AI, and agentic AI systems."
 keywords: "Rahul Vishwakarma, CTO, WorkOnward, IEEE Senior Member, BCS Fellow, Machine Learning, Deep Learning, Generative AI, Agentic AI, U.S. Patents, Conformal Prediction, Hardware Security"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-
 <p align="justify">
-Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine learning, deep learning, and generative AI, with 60 issued U.S. patents, specializing in architecting scalable solutions for enterprise storage, cloud infrastructure, and data management.
+Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine learning, deep learning, and generative AI, with 60+ issued U.S. patents, specializing in architecting scalable solutions for enterprise storage, cloud infrastructure, and data management.
 </p>
-
-
 
 <h2> News </h2>
 
 <table>
-
 
 <tr>
     <td style="white-space: nowrap;">Apr 2026</td>
     <td> <strong>Best Paper Award</strong> at the 19th IEEE Dallas Circuits and Systems Conference (<a href="https://dcas2026.com" target="_blank">DCAS 2026</a>) - "Early Detection of Hardware Trojans Using Neural Controlled Differential Equations and Analysis of Power Traces" <a href="https://www.linkedin.com/posts/rahulvishwakarma_so-stoked-to-share-this-our-team-just-share-7449024925857714176-8Zj9/" target="_blank">LinkedIn</a> </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">Feb 2026</td>
     <td> Featured in VoyageLA Magazine - <a href="https://voyagela.com/interview/conversations-with-rahul-vishwakarma/" target="_blank">"Conversations with Rahul Vishwakarma"</a> (Local Stories interview) </td>
   </tr>
-
 
 <tr>
     <td style="white-space: nowrap;">Dec 2025</td>
     <td> Speaker at <a href="https://attend.ieee.org/neweraai25/" target="_blank">IEEE New Era AI World Leaders Summit 2025</a>, University of Washington - delivered three talks: "Endocrine-to-Synaptic: Learnable Signaling Primitives for Robust Multi-Agent AI", "Bio-Causal Agent Protocol", and "Design Specification and AI-Driven Digital Twin Architecture for Storage Devices" </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">Dec 2025</td>
     <td> My book <em>Conformal Prediction for Inventors</em> added to the <a href="https://www.csulb.edu/university-library/new-books" target="_blank">CSULB University Library</a> (New Books - December 2025) </td>
   </tr>
-
 
 <tr>
     <td style="white-space: nowrap;">Nov 2025</td>
     <td> 62nd U.S. Patent issued - <a href="https://patents.google.com/patent/US12470574B2" target="_blank">US 12,470,574</a>: "Methods and Systems for Anomalous Operation Detection on an Enterprise Server" (Dell Technologies) </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">Nov 2025</td>
     <td> Reviewer: <a href="https://www2026.thewebconf.org/" target="_blank">ACM TheWebConf (WWW) 2026</a> Industry Track and <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">AAAI 2026</a> Workshops (MURE and Rashomon Effect) </td>
   </tr>
-
 
 <tr>
     <td style="white-space: nowrap;">Oct 2025</td>
     <td> <strong>PyTorch Startup Showcase 2025 Award Winner (Community Choice)</strong> - mentee <a href="https://www.curavoice.com" target="_blank">CuraVoice</a> (<a href="https://pytorch.org/blog/celebrating-the-2025-pytorch-startup-showcase-winners/" target="_blank">PyTorch blog</a>); featured in NVIDIA's <a href="https://blogs.nvidia.com/blog/open-source-ai-week/" target="_blank">"Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation"</a> </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">Oct 2025</td>
     <td> Poster Session Presenter at <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">PyTorch Conference 2025</a> (San Francisco) - "Where Do Billions in Research Funding Really Go When Self-Citations Inflate Impact Scores by 20%" (with Sinchan Banerjee) <a href="https://www.credly.com/badges/b6a4597f-620e-4b7d-a3a3-b19bb334582b/linked_in_profile" target="_blank">Credly badge</a>. Open-source package: <a href="https://pypi.org/project/scholar-citations/" target="_blank">scholar-citations</a> (<a href="https://github.com/rahvis/scholar_citations" target="_blank">GitHub</a>) </td>
   </tr>
-
 
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
     <td> 61st U.S. Patent issued - <a href="https://patents.google.com/patent/US12423710B2" target="_blank">US 12,423,710</a>: "System and Method for Generation of Self-Guided Recovery Procedures and Suggestions" (Dell Technologies) </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
     <td> Talk accepted at IEEE New Era AI 2025 (delivered Dec 2025) - "Endocrine-to-Synaptic: Learnable Signaling Primitives for Robust Multi-Agent AI" <a href="/files/tex/a2a-bio-inspired.pdf" target="_blank"> Abstract</a>, <a href="/files/tex/a2a-bio-inspired-demo.pdf" target="_blank"> Demo</a>   </td>
   </tr>
-
 
 <tr>
     <td style="white-space: nowrap;">Sep 2025</td>
@@ -92,51 +78,40 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
     <td> Talk @ IEEE Enterprise GenAI Summit 2025 (San Jose, CA) - <a href="https://ieee-genai.conferences.computer.org/2025/" target="_blank"> AAA-IDE: Autonomous Agentic AI for Data Engineering.</a>  Source Code on <a href="https://github.com/rahvis/multi-agent-system" target="_blank"> GitHub</a>, Code walkthrough on <a href="https://substack.com/home/post/p-171766489" target="_blank"> Substack </a> </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">June 2025</td>
     <td> Mentored <a href="https://www.curavoice.com" target="_blank">Curavoice</a>, winners of 1st place and a $35,000 award at the <a href="https://www.csulb.edu/news/article/contest-winners-prove-entrepreneurship-open-to-all-at-csulb" target="_blank">2025 Sunstone Innovation Challenge</a> hosted by the Institute for Innovation and Entrepreneurship, California State University, Long Beach.</td>
   </tr>
-
 
  <tr>
     <td style="white-space: nowrap;">Apr 2025</td>
     <td> Accepted as Semifinalist at MIT Solve <a href="https://solve.mit.edu/solutions/102300" target="_blank"> 2025 Global Economic Prosperity Challenge </a> </td>
   </tr>
 
-
 <tr>
     <td style="white-space: nowrap;">Mar 2025</td>
     <td> Accepted as a Mentor at <a href="https://www.csulb.edu/sunstone-innovation-challenge/mentors" target="_blank">Sunstone Innovation Challenge Mentor Program</a> </td>
   </tr>
-
 
  <tr>
     <td style="white-space: nowrap;">Feb 2025</td>
     <td> Reviewer: ICLR 2025 Workshop AI4NA, ICLR 2025 Workshop DeLTa, and KDD 2025 ADS Track</td>
   </tr>
 
-
-
-
  <tr>
     <td style="white-space: nowrap;">Nov 2024</td>
     <td> <a href="https://edtechmagazine.com/higher/article/2024/11/cybersecurity-automation-helps-short-staffed-higher-ed-it-departments-protect-data" target="_blank"> Quoted in EdTech Magazine </a> Cybersecurity Automation Helps Short-Staffed Higher Ed IT Departments Protect Data </td>
   </tr>
-
 
  <tr>
     <td style="white-space: nowrap;">Oct 2024</td>
     <td> <a href="https://ruhealthhack.com/mentors" target="_blank"> Mentor at Rutgers Health Hack 2025</a> <a href="https://www.linkedin.com/posts/rahulvishwakarma_rutgers-health-hack24-sets-the-gold-standard-activity-7257582628059389952-z1rC/" target="_blank"> LinkedIn </a>    </td>
   </tr>
 
-
-
  <tr>
     <td style="white-space: nowrap;">Oct 2024</td>
     <td> <a href="https://www.techopedia.com/why-zero-trust-needs-mfa-to-succeed" target="_blank"> Quoted in Technopedia </a> Why Zero Trust Needs MFA to Succeed: Expert Analysis </td>
   </tr>
-
 
   <tr>
     <td style="white-space: nowrap;">Sep 2024</td>
@@ -163,7 +138,6 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
     <td> Quoted by <a href="https://cacm.acm.org/news/gauging-societal-impacts-of-large-language-models/" target="_blank"> <strong>Communications of the ACM</strong></a> (CACM) story focusing on NIST’s newly-released Assessing Risks and Impacts of AI (ARIA) program. </td>
   </tr>
 
-
   <tr>
     <td style="white-space: nowrap;">Aug 2024</td>
     <td> Entrepreneur in Residence (EIR) at <a href="https://www.labs.robinhood.org/build/fellowship" target="_blank"> <strong>Blue Ridge Labs @ Robin Hood</strong></a> </td>
@@ -174,39 +148,32 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
     <td> <a href="https://cxotoday.com/story/spotting-the-deepfake/" target="_blank"> Quoted in CXO Today </a> </td>
   </tr>
 
-      
   <tr>
     <td style="white-space: nowrap;">Aug 2024</td>
     <td> <a href="https://www.linkedin.com/feed/update/urn:li:activity:7232122187359432706/" target="_blank"> BCS Fellow </a> </td>
   </tr>
-
 
   <tr>
     <td style="white-space: nowrap;">July 2024</td>
     <td> Talk Accepted at SNIA SDC 2024 - <a href="https://www.youtube.com/watch?v=ekBMasBqzEU" target="_blank"> Fortifying AIOps: CSAF and VEX Unite for Smarter Security </a> </td>
   </tr>
   
-  
+
 
   <tr>
     <td style="white-space: nowrap;">July 2024</td>
     <td> Ambassador <a href="https://issip.org/issip-welcomes-34-new-issip-ambassadors-on-january-progress-call-2025/" target="_blank"> <strong>International Society of Service Innovation Professionals (ISSIP)</strong></a> </td>
   </tr>
 
-
-
   <tr>
     <td style="white-space: nowrap;">July 2024</td>
     <td><strong>“Spotting the Deepfake”</strong> - <a href="https://transmitter.ieee.org/spotting-the-deepfake/" target="_blank"> <strong>Quoted in IEEE Transmitter</strong></a>.</td>
   </tr>
 
-  
   <tr>
     <td style="white-space: nowrap;">June 2024</td>
     <td><strong>“SpeechCraft: An Integrated Data Generation Pipeline from Videos for LLM Finetuning”</strong>, accepted at The 29th International Conference on Automation and Computing (ICAC 2024), Sunderland, UK, 28-30 Aug. 2024. (h-5 median 34). The work was done in collaboration with <strong>Google</strong> and <strong>Tubi TV</strong>.</td>
   </tr>
-
-
 
   <tr>
     <td style="white-space: nowrap;">May 2024</td>
