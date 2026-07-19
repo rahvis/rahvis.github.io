@@ -23,8 +23,62 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 
 <tr>
+    <td style="white-space: nowrap;">Apr 2026</td>
+    <td> <strong>Best Paper Award</strong> at the 19th IEEE Dallas Circuits and Systems Conference (<a href="https://dcas2026.com" target="_blank">DCAS 2026</a>) - "Early Detection of Hardware Trojans Using Neural Controlled Differential Equations and Analysis of Power Traces" <a href="https://www.linkedin.com/posts/rahulvishwakarma_so-stoked-to-share-this-our-team-just-share-7449024925857714176-8Zj9/" target="_blank">LinkedIn</a> </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Feb 2026</td>
+    <td> Featured in VoyageLA Magazine - <a href="https://voyagela.com/interview/conversations-with-rahul-vishwakarma/" target="_blank">"Conversations with Rahul Vishwakarma"</a> (Local Stories interview) </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Dec 2025</td>
+    <td> Speaker at <a href="https://attend.ieee.org/neweraai25/" target="_blank">IEEE New Era AI World Leaders Summit 2025</a>, University of Washington - delivered three talks: "Endocrine-to-Synaptic: Learnable Signaling Primitives for Robust Multi-Agent AI", "Bio-Causal Agent Protocol", and "Design Specification and AI-Driven Digital Twin Architecture for Storage Devices" </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Dec 2025</td>
+    <td> My book <em>Conformal Prediction for Inventors</em> added to the <a href="https://www.csulb.edu/university-library/new-books" target="_blank">CSULB University Library</a> (New Books - December 2025) </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Dec 2025</td>
+    <td> Mentee <a href="https://www.curavoice.com" target="_blank">CuraVoice</a> won the Community Choice Award at the <a href="https://pytorch.org/blog/celebrating-the-2025-pytorch-startup-showcase-winners/" target="_blank">PyTorch 2025 Startup Showcase</a>; also covered on the <a href="https://blogs.nvidia.com/blog/open-source-ai-week/" target="_blank">NVIDIA blog</a> </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Nov 2025</td>
+    <td> 62nd U.S. Patent issued - <a href="https://patents.google.com/patent/US12470574B2" target="_blank">US 12,470,574</a>: "Methods and Systems for Anomalous Operation Detection on an Enterprise Server" (Dell Technologies) </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Nov 2025</td>
+    <td> Reviewer: <a href="https://www2026.thewebconf.org/" target="_blank">ACM TheWebConf (WWW) 2026</a> Industry Track and <a href="https://aaai.org/conference/aaai/aaai-26/" target="_blank">AAAI 2026</a> Workshops (MURE and Rashomon Effect) </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Oct 2025</td>
+    <td> Poster at <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">PyTorch Conference 2025</a> (San Francisco) - "Where Do Billions in Research Funding Really Go When Self-Citations Inflate Impact Scores by 20%" (with Sinchan Banerjee). Open-source package: <a href="https://pypi.org/project/scholar-citations/" target="_blank">scholar-citations</a> (<a href="https://github.com/rahvis/scholar_citations" target="_blank">GitHub</a>) </td>
+  </tr>
+
+
+<tr>
     <td style="white-space: nowrap;">Sep 2025</td>
-    <td> Submitted a talk at IEEE New Era AI 2025 - "Endocrine-to-Synaptic: Learnable Signaling Primitives for Robust Multi-Agent AI" <a href="/files/tex/a2a-bio-inspired.pdf" target="_blank"> Abstract</a>, <a href="/files/tex/a2a-bio-inspired-demo.pdf" target="_blank"> Demo</a>   </td>
+    <td> 61st U.S. Patent issued - <a href="https://patents.google.com/patent/US12423710B2" target="_blank">US 12,423,710</a>: "System and Method for Generation of Self-Guided Recovery Procedures and Suggestions" (Dell Technologies) </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Sep 2025</td>
+    <td> Talk accepted at IEEE New Era AI 2025 (delivered Dec 2025) - "Endocrine-to-Synaptic: Learnable Signaling Primitives for Robust Multi-Agent AI" <a href="/files/tex/a2a-bio-inspired.pdf" target="_blank"> Abstract</a>, <a href="/files/tex/a2a-bio-inspired-demo.pdf" target="_blank"> Demo</a>   </td>
   </tr>
 
 
