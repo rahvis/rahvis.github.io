@@ -20,6 +20,11 @@ Rahul Vishwakarma is building Navya (<a href="https://actualintelligence.ink" ta
 
 <tr>
     <td style="white-space: nowrap;">July 2026</td>
+    <td> Built <a href="https://doctor.actualintelligence.ink" target="_blank">Patent Auditor</a> as part of <a href="https://gdg.community.dev/gdg-newport-beach/" target="_blank">GDG Newport Beach</a> - Kaggle writeup: <a href="https://www.kaggle.com/competitions/build-and-hack-with-gemma-4-0/writeups/draftguard-gemma-powered-patent-consistency-audi" target="_blank">DraftGuard: Gemma-Powered Patent Consistency Audit</a> (Build and Hack with Gemma 4.0) </td>
+  </tr>
+
+<tr>
+    <td style="white-space: nowrap;">July 2026</td>
     <td> Working paper - <a href="https://actualintelligence.ink/files/vishwakarma2026.pdf" target="_blank">"Trace-Reconstruction Attacks and Trace-Private Defenses for Confidential LLM Agents"</a> </td>
   </tr>
 
