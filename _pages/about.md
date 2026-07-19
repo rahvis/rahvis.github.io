@@ -47,12 +47,6 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 
 <tr>
-    <td style="white-space: nowrap;">Dec 2025</td>
-    <td> Mentee <a href="https://www.curavoice.com" target="_blank">CuraVoice</a> won the Community Choice Award at the <a href="https://pytorch.org/blog/celebrating-the-2025-pytorch-startup-showcase-winners/" target="_blank">PyTorch 2025 Startup Showcase</a>; also covered on the <a href="https://blogs.nvidia.com/blog/open-source-ai-week/" target="_blank">NVIDIA blog</a> </td>
-  </tr>
-
-
-<tr>
     <td style="white-space: nowrap;">Nov 2025</td>
     <td> 62nd U.S. Patent issued - <a href="https://patents.google.com/patent/US12470574B2" target="_blank">US 12,470,574</a>: "Methods and Systems for Anomalous Operation Detection on an Enterprise Server" (Dell Technologies) </td>
   </tr>
@@ -66,7 +60,13 @@ Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine l
 
 <tr>
     <td style="white-space: nowrap;">Oct 2025</td>
-    <td> Poster at <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">PyTorch Conference 2025</a> (San Francisco) - "Where Do Billions in Research Funding Really Go When Self-Citations Inflate Impact Scores by 20%" (with Sinchan Banerjee). Open-source package: <a href="https://pypi.org/project/scholar-citations/" target="_blank">scholar-citations</a> (<a href="https://github.com/rahvis/scholar_citations" target="_blank">GitHub</a>) </td>
+    <td> <strong>PyTorch Startup Showcase 2025 Award Winner (Community Choice)</strong> - mentee <a href="https://www.curavoice.com" target="_blank">CuraVoice</a> (<a href="https://pytorch.org/blog/celebrating-the-2025-pytorch-startup-showcase-winners/" target="_blank">PyTorch blog</a>); featured in NVIDIA's <a href="https://blogs.nvidia.com/blog/open-source-ai-week/" target="_blank">"Open Source AI Week — How Developers and Contributors Are Advancing AI Innovation"</a> </td>
+  </tr>
+
+
+<tr>
+    <td style="white-space: nowrap;">Oct 2025</td>
+    <td> Poster Session Presenter at <a href="https://events.linuxfoundation.org/pytorch-conference/" target="_blank">PyTorch Conference 2025</a> (San Francisco) - "Where Do Billions in Research Funding Really Go When Self-Citations Inflate Impact Scores by 20%" (with Sinchan Banerjee) <a href="https://www.credly.com/badges/b6a4597f-620e-4b7d-a3a3-b19bb334582b/linked_in_profile" target="_blank">Credly badge</a>. Open-source package: <a href="https://pypi.org/project/scholar-citations/" target="_blank">scholar-citations</a> (<a href="https://github.com/rahvis/scholar_citations" target="_blank">GitHub</a>) </td>
   </tr>
 
 
