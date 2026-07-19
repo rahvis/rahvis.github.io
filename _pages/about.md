@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p align="justify">
-<a href="https://share.google/i7q7acJQHkMvcIbml" target="_blank">Rahul Vishwakarma</a> is building Navya (<a href="https://actualintelligence.ink" target="_blank">actualintelligence.ink</a>), software that helps companies turn their engineers' inventions into patent applications. It runs on confidential computing, secure hardware designed so that client ideas stay sealed, unreadable even to Navya itself. He came to this after years at Dell Technologies, where he applied machine learning to enterprise storage, cloud infrastructure, and data management, earning 60+ issued U.S. patents along the way. Lately he has focused on agentic reasoning, how AI systems plan and coordinate on their own, and sovereign AI, which keeps models and data under their owner's control. He is a BCS Fellow and a Senior Member of IEEE.
+<a href="https://share.google/i7q7acJQHkMvcIbml" target="_blank">Rahul Vishwakarma</a> is building <a href="https://actualintelligence.ink" target="_blank">Navya</a>, software that helps companies turn their engineers' inventions into patent applications. It runs on confidential computing, secure hardware designed so that client ideas stay sealed, unreadable even to Navya itself. He came to this after years at Dell Technologies, where he applied machine learning to enterprise storage, cloud infrastructure, and data management, earning 60+ issued U.S. patents along the way. Lately he has focused on agentic reasoning, how AI systems plan and coordinate on their own, and sovereign AI, which keeps models and data under their owner's control. He is a BCS Fellow and a Senior Member of IEEE.
 </p>
 
 <h2> News </h2>
