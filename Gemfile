@@ -18,6 +18,13 @@ gem 'tzinfo-data'
 # Workaround for Jekyll serve failure on Ruby 3.0+
 gem "webrick"
 
+# Ruby 3.4+ removed these from the default gems; Jekyll 3.x still requires them
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+gem "logger"
+gem "ostruct"
+
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 

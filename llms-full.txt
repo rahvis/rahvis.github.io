@@ -301,6 +301,19 @@ Winners of 1st place and $35,000 at 2025 Sunstone Innovation Challenge
 https://www.curavoice.com
 
 ================================================================================
+## BLOG
+================================================================================
+
+Rahul Vishwakarma writes essays and engineering notes on machine learning,
+generative AI, agentic AI, multi-agent systems, conformal prediction, and
+enterprise technology at https://rahvis.github.io/blog/
+{% for post in site.posts %}
+**{{ post.title }}** ({{ post.date | date: "%B %-d, %Y" }})
+{{ post.description | default: post.excerpt | markdownify | strip_html | strip_newlines }}
+URL: {{ site.url }}{{ post.url }}
+{% endfor %}
+
+================================================================================
 ## CONTACT INFORMATION
 ================================================================================
 
@@ -328,6 +341,7 @@ https://www.curavoice.com
 - Book: https://rahvis.github.io/book/
 - Publications: https://rahvis.github.io/publications/
 - Teaching: https://rahvis.github.io/teaching/
+- Blog: https://rahvis.github.io/blog/
 - Contact: https://rahvis.github.io/contact/
 - Sitemap: https://rahvis.github.io/sitemap/
 
@@ -341,4 +355,4 @@ Rahul Vishwakarma, Chief Technology Officer, CTO, WorkOnward, IEEE Senior Member
 ## LAST UPDATED
 ================================================================================
 
-December 2024
+July 2026

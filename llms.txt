@@ -86,6 +86,12 @@ Teaching Assistant and Co-instructor at California State University, Long Beach:
 - Entrepreneur in Residence, Blue Ridge Labs @ Robin Hood
 - Dell Patent Award ($250,000)
 
+## Blog
+
+Essays and engineering notes on machine learning, generative AI, agentic AI, multi-agent systems, and conformal prediction: https://rahvis.github.io/blog/
+{% for post in site.posts %}
+- {{ post.title }} ({{ post.date | date: "%Y-%m-%d" }}): {{ site.url }}{{ post.url }}{% endfor %}
+
 ## Media Coverage
 
 Quoted in:
@@ -117,4 +123,5 @@ For comprehensive information about Rahul Vishwakarma, see: https://rahvis.githu
 - Book: https://rahvis.github.io/book/
 - Publications: https://rahvis.github.io/publications/
 - Teaching: https://rahvis.github.io/teaching/
+- Blog: https://rahvis.github.io/blog/
 - Contact: https://rahvis.github.io/contact/

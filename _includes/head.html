@@ -20,6 +20,12 @@
 {% include schema-teaching.html %}
 {% elsif page.url == "/publications/" %}
 {% include schema-publications.html %}
+{% elsif page.url == "/blog/" %}
+{% include schema-blog.html %}
+{% endif %}
+
+{% if page.collection == "posts" %}
+{% include schema-blogposting.html %}
 {% endif %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"

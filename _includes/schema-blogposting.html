@@ -1,0 +1,64 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+{% assign post_words = page.content | strip_html | number_of_words %}
+
+<!-- BlogPosting Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "@id": "{{ page.url | prepend: seo_url }}#blogposting",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | default: page.excerpt | markdownify | strip_html | strip_newlines | jsonify }},
+  "url": "{{ page.url | prepend: seo_url }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "wordCount": {{ post_words }},
+  "inLanguage": "en-US",
+  {% if page.keywords %}"keywords": {{ page.keywords | jsonify }},{% endif %}
+  {% if page.tags and page.tags.size > 0 %}"articleSection": {{ page.tags | jsonify }},{% endif %}
+  "image": "{{ seo_url }}/images/{{ site.og_image }}",
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "publisher": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "isPartOf": {
+    "@type": "Blog",
+    "@id": "{{ seo_url }}/blog/#blog",
+    "name": "Rahul Vishwakarma's Blog"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | prepend: seo_url }}"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".page__title", ".page__content h2", ".page__content p"]
+  }
+}
+</script>
+
+{% if page.faqs and page.faqs.size > 0 %}
+<!-- FAQPage Schema (AEO / Answer Engine Optimization) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "{{ page.url | prepend: seo_url }}#faq",
+  "mainEntity": [
+    {% for faq in page.faqs %}
+    {
+      "@type": "Question",
+      "name": {{ faq.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ faq.answer | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}

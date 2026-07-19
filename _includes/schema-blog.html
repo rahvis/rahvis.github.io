@@ -1,0 +1,65 @@
+{% include base_path %}
+{% assign seo_url = site.url | append: site.baseurl %}
+
+<!-- Blog Page Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Blog",
+  "@id": "{{ seo_url }}/blog/#blog",
+  "name": "Rahul Vishwakarma's Blog",
+  "description": "Essays and engineering notes by Rahul Vishwakarma on machine learning, generative AI, agentic AI, multi-agent systems, conformal prediction, and enterprise technology.",
+  "url": "{{ seo_url }}/blog/",
+  "inLanguage": "en-US",
+  "author": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "publisher": {
+    "@id": "{{ seo_url }}/#person"
+  },
+  "blogPost": [
+    {% for post in site.posts %}
+    {
+      "@type": "BlogPosting",
+      "@id": "{{ post.url | prepend: seo_url }}#blogposting",
+      "headline": {{ post.title | jsonify }},
+      "description": {{ post.description | default: post.excerpt | markdownify | strip_html | strip_newlines | jsonify }},
+      "url": "{{ post.url | prepend: seo_url }}",
+      "datePublished": "{{ post.date | date_to_xmlschema }}",
+      "dateModified": "{{ post.last_modified_at | default: post.date | date_to_xmlschema }}",
+      "author": { "@id": "{{ seo_url }}/#person" }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+
+<!-- Blog CollectionPage + ItemList Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": "{{ seo_url }}/blog/",
+  "name": "Blog - Rahul Vishwakarma",
+  "description": "Blog posts by Rahul Vishwakarma on machine learning, generative AI, agentic AI, and reliable enterprise AI systems.",
+  "url": "{{ seo_url }}/blog/",
+  "isPartOf": {
+    "@id": "{{ seo_url }}/#website"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "name": "Blog Posts by Rahul Vishwakarma",
+    "numberOfItems": {{ site.posts.size }},
+    "itemListElement": [
+      {% for post in site.posts %}
+      {
+        "@type": "ListItem",
+        "position": {{ forloop.index }},
+        "url": "{{ post.url | prepend: seo_url }}",
+        "name": {{ post.title | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }
+}
+</script>
