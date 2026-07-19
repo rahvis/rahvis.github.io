@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <p align="justify">
-Rahul Vishwakarma (BCS Fellow, Senior Member of IEEE) has expertise in machine learning, deep learning, and generative AI, with 60+ issued U.S. patents, specializing in architecting scalable solutions for enterprise storage, cloud infrastructure, and data management.
+Rahul Vishwakarma is building Navya (<a href="https://actualintelligence.ink" target="_blank">actualintelligence.ink</a>), software that helps companies turn their engineers' inventions into patent applications. It runs on confidential computing, secure hardware designed so that client ideas stay sealed, unreadable even to Navya itself. He came to this after years at Dell Technologies, where he applied machine learning, deep learning, and generative AI to enterprise storage, cloud infrastructure, and data management, earning 60+ issued U.S. patents along the way. Lately he has focused on agentic reasoning, how AI systems plan and coordinate on their own, and sovereign AI, which keeps models and data under their owner's control. He is a BCS Fellow and a Senior Member of IEEE.
 </p>
 
 <h2> News </h2>
