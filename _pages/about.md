@@ -19,6 +19,26 @@ redirect_from:
 <table>
 
 <tr>
+    <td style="white-space: nowrap;">Oct 2026</td>
+    <td> Talk - "Encryption Hides the Data, Not the Agent: Trace-Privacy for PyTorch LLM Agents" at <a href="https://www.alldayai.com/speakers" target="_blank">All Day AI</a> </td>
+  </tr>
+
+<tr>
+    <td style="white-space: nowrap;">Oct 2026</td>
+    <td> Poster Session Presenter at PyTorch Conference 2026 (San Jose, California) - "Encryption Hides the Data, Not the Agent: Trace-Privacy for PyTorch LLM Agents" <a href="https://sessionize.com/download/ipxaosfe~sC1ikgu1ruYufuXWpmUrCh.pdf~rahul_shrey_pytorch_2026.pdf" target="_blank">Poster</a> </td>
+  </tr>
+
+<tr>
+    <td style="white-space: nowrap;">Oct 2026</td>
+    <td> Poster Session Presenter at PyTorch Conference 2026 (San Jose, California) - "Fenceline: a self-hosted prompt firewall for locally served open-weights models" <a href="https://sessionize.com/download/ifzanpev~K4wPLhhM5pimXWDwwG4CXA.pdf~fenceline_krishna_rahul_pytorch_2026.pdf" target="_blank">Poster</a> </td>
+  </tr>
+
+<tr>
+    <td style="white-space: nowrap;">Sep 2026</td>
+    <td> Accepted as a <a href="https://www.ces.tech/ces-innovation-awards/innovation-awards/judges/" target="_blank">Judge</a> for CES Innovation Awards (2027) </td>
+  </tr>
+
+<tr>
     <td style="white-space: nowrap;">July 2026</td>
     <td> Built <a href="https://doctor.actualintelligence.ink" target="_blank">Patent Auditor</a> as part of <a href="https://gdg.community.dev/gdg-newport-beach/" target="_blank">GDG Newport Beach</a> - Kaggle writeup: <a href="https://www.kaggle.com/competitions/build-and-hack-with-gemma-4-0/writeups/draftguard-gemma-powered-patent-consistency-audi" target="_blank">DraftGuard: Gemma-Powered Patent Consistency Audit</a> (Build and Hack with Gemma 4.0) </td>
   </tr>

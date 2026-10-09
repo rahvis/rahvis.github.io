@@ -44,7 +44,7 @@ The talks featured on <a href="https://ieeetv.ieee.org/speaker/rahul-vishwakarma
 - <a href="https://ieeetv.ieee.org/video/uncertainty-aware-hardware-trojan-detection-using-multimodal-deep-learning" target="_blank">Uncertainty-Aware Hardware Trojan Detection Using Multimodal Deep Learning</a> (DATE 2024, acceptance rate 22%)
 - <a href="https://ieeetv.ieee.org/video/risk-aware-and-explainable-framework-for-ensuring-guaranteed-coverage-in-evolving-hardware-trojan-detection" target="_blank">Risk-Aware and Explainable Framework for Ensuring Guaranteed Coverage in Evolving Hardware Trojan Detection</a> (ICCAD 2023, acceptance rate 23%)
 
-**Student Commencement Speaker** at California State University, Long Beach (College of Engineering 2024) - <a href="https://youtu.be/kqFHBtrKq3c?t=5858" target="_blank">Watch here</a>
+**Student Commencement Speaker** at California State University, Long Beach (College of Engineering 2024) <br><a href="https://youtu.be/kqFHBtrKq3c?t=5858" target="_blank" class="btn btn--primary btn--large" style="margin-top: 10px;">&#9654; Watch here</a>
 
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
