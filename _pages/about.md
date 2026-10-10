@@ -12,7 +12,11 @@ redirect_from:
 ---
 
 <p align="justify">
-I am a Research Engineer at WorkOnward. Before that, I spent several years as a Senior Machine Learning Engineer at Dell Technologies, working on reliability problems in large storage systems. My research asks one question: how do we build AI systems whose predictions come with honest, measurable guarantees, especially when a wrong answer is expensive?
+I am a Research Engineer at WorkOnward. Before that, I spent several years as a Senior Machine Learning Engineer at Dell Technologies, working on reliability problems in large storage systems. 
+</p>
+
+<p align="justify">
+My research asks one question: how do we build AI systems whose predictions come with honest, measurable guarantees, especially when a wrong answer is expensive?
 </p>
 
 <p align="justify">
