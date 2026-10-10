@@ -6,8 +6,6 @@ description: "Latest news, talks, awards, and updates from Rahul Vishwakarma."
 author_profile: true
 ---
 
-<h2> News </h2>
-
 <table>
 
 <tr>
