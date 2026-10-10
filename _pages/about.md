@@ -20,5 +20,5 @@ Most of my academic work is trustworthy machine learning for hardware security. 
 </p>
 
 <p align="justify">
-I hold 64 granted U.S. patents, mostly from my Dell years, on ML-driven storage reliability such as disk-failure forecasting and backup failure prevention. Several have been cited by later filings from Amazon, IBM, Salesforce, VMware, SAP, Micron, and Databricks (public on Google Patents). To be straight about what that means: patent citations are highly skewed, about a quarter of patents are never cited, and most of mine are incremental engineering. None, to my knowledge, shipped in a Dell product.
+I hold 64 granted U.S. patents, mostly from my Dell years, on ML-driven storage reliability such as disk-failure forecasting and backup failure prevention. Several have been cited by later filings from Amazon, IBM, Salesforce, VMware, SAP, Micron, and Databricks (public on Google Patents).
 </p>
